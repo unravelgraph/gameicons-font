@@ -1,0 +1,24 @@
+{
+  "name": "gameicons-font",
+  "version": "0.0.0",
+  "description": "An icon font distribution of the SVGs from http://game-icons.net",
+  "scripts": {
+    "dev": "lite-server --config .bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seiyria/gameicons-font.git"
+  },
+  "author": "Kyle Kemp <kyle@seiyria.com>",
+  "bugs": {
+    "url": "https://github.com/seiyria/gameicons-font/issues"
+  },
+  "homepage": "https://github.com/seiyria/gameicons-font#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-iconfont": "^6.0.0",
+    "gulp-iconfont-css": "^2.0.0",
+    "lite-server": "^2.1.0"
+  }
+}
