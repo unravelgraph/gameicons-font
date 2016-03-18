@@ -30,13 +30,11 @@ const List = {
         };
     },
     view: (ctrl) => {
-        return m('div.row', [
-            ctrl.glyphs().filter(ctrl.visible).map(glyph => m('div.col-md-1.col-sm-2.col-xs-3.icon-block.text-center', [
-                m(`i.icon.icon-${glyph.name}.icon-md`, { style: { color: ctrl.fgColor() }}),
-                m('br'),
-                glyph.name
-            ]))
-        ]);
+        return ctrl.glyphs().filter(ctrl.visible).map(glyph => m('div.col-md-1.col-sm-2.col-xs-3.icon-block.text-center', [
+            m(`i.icon.icon-${glyph.name}.icon-md`, { style: { color: ctrl.fgColor() }}),
+            m('br'),
+            glyph.name
+        ]));
     }
 };
 
