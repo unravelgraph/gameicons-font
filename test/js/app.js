@@ -37,7 +37,7 @@ const List = {
             .map(glyph => m('div.col-md-1.col-sm-2.col-xs-3.icon-block.text-center', [
                 m(`i.icon.icon-${glyph.name}.icon-md`, { style: { color: ctrl.fgColor() }}),
                 m('br'),
-                glyph.name
+                m('span', glyph.name)
             ]));
     }
 };
