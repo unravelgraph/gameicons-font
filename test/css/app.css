@@ -5,4 +5,5 @@
 
 .icon-block {
     min-height: 185px;
+    max-height: 185px;
 }
