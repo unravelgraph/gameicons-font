@@ -33,7 +33,8 @@ gulp.task('build:font', () => {
         .pipe(iconfontCss({
             fontName: FONT_NAME,
             formats: ['ttf', 'eot', 'woff'],
-            targetPath: 'game-icons.css'
+            targetPath: 'game-icons.css',
+            cssClass: 'game-icon'
         }))
         .pipe(iconfont({
             fontName: FONT_NAME,

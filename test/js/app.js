@@ -35,7 +35,7 @@ const List = {
             .sort((a, b) => a.name > b.name ? 1 : a.name < b.name ? -1 : 0)
             .filter(ctrl.visible)
             .map(glyph => m('div.col-md-1.col-sm-2.col-xs-3.icon-block.text-center', [
-                m(`i.icon.icon-${glyph.name}.icon-md`, { style: { color: ctrl.fgColor() }}),
+                m(`i.game-icon.game-icon-${glyph.name}.icon-md`, { style: { color: ctrl.fgColor() }}),
                 m('br'),
                 m('span', glyph.name)
             ]));
