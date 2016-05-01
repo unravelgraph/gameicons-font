@@ -40,6 +40,7 @@ gulp.task('build:font', () => {
         }))
         .pipe(iconfont({
             fontName: FONT_NAME,
+            startUnicode: 0xFF000,
             normalize: true
         }))
         .on('glyphs', (glyphs) => {
