@@ -22,6 +22,7 @@ gulp.task('build:font', () => {
           filter: (entry) => minimatch(entry.path, '**/*.svg')
         }))
         .pipe(rename(path => {
+          path.dirname = '';
           if(fileCounts[path.basename]) {
             fileCounts[path.basename] += 1;
             path.basename = `${path.basename}-${fileCounts[path.basename]}`;
@@ -30,6 +31,7 @@ gulp.task('build:font', () => {
           }
           return path;
         }))
+        .pipe(gulp.dest('test/svg/'))
         .pipe(iconfontCss({
             fontName: FONT_NAME,
             formats: ['ttf', 'eot', 'woff'],
