@@ -3,7 +3,9 @@
   "version": "0.0.0",
   "description": "An icon font distribution of the SVGs from http://game-icons.net",
   "scripts": {
-    "dev": "lite-server --config .bs-config.js"
+    "dev": "lite-server --config .bs-config.js",
+    "build:font": "gulp build:font",
+    "deploy": "gulp deploy"
   },
   "repository": {
     "type": "git",

@@ -9,7 +9,11 @@ An icon font for [game-icons/icons](https://github.com/game-icons/icons). Unfort
 # Want to build it yourself?
 
 * npm install
-* gulp build:font
+* npm run build:font
+
+# Want to deploy it?
+
+* npm run deploy
 
 # Want to adjust the site?
 
