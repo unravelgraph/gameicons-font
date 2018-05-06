@@ -1,3 +1,6 @@
+
+language: node_js
+
 before_deploy: git config --global user.email publish@travis.github && git config --global user.name "Travis CI"
 deploy:
   - edge: true
