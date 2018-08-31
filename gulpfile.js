@@ -69,6 +69,7 @@ gulp.task('deploy', () => {
 
     const opts = {};
     if(process.env.GH_TOKEN) {
+        console.log('HELLO FROM HERE')
         opts.remoteUrl = `https://${process.env.GH_TOKEN}@github.com/seiyria/gameicons-font.git`;
     }
 
