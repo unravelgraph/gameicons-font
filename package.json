@@ -6,7 +6,8 @@
     "dev": "lite-server --config .bs-config.js",
     "build:font": "gulp build:font",
     "deploy": "gulp deploy",
-    "fulldeploy": "npm run build:font && git add . && git commit -am \"Add new icons\" && git push && npm run deploy"
+    "fulldeploy": "npm run build:font && git add . && git commit -am \"Add new icons\" && git push && npm run deploy",
+    "fulldeploy:ci": "npm run build:font && git add . && git commit -am \"Add new icons\" && git push origin HEAD:master && npm run deploy"
   },
   "repository": {
     "type": "git",
