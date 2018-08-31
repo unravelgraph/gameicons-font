@@ -66,6 +66,12 @@ gulp.task('build:font', () => {
 });
 
 gulp.task('deploy', () => {
+
+    const opts = {};
+    if(process.env.GH_TOKEN) {
+        opts.remoteUrl = `https://${process.env.GH_TOKEN}@github.com/seiyria/gameicons-font.git`;
+    }
+
     return gulp.src('./test/**/*')
-        .pipe(ghPages());
+        .pipe(ghPages(opts));
 });
