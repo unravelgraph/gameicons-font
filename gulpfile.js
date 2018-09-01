@@ -21,6 +21,12 @@ const unzipOptions = {
 
 const fileCounts = {};
 
+const deployOpts = {};
+console.log('HERELLASDFAD', !!process.env.GH_TOKEN)
+if(process.env.GH_TOKEN) {
+    deployOpts.remoteUrl = `https://${process.env.GH_TOKEN}@github.com/seiyria/gameicons-font.git`;
+}
+
 const renamePredicate = (extname) => (path) => {
   path.dirname = '';
   path.extname = `.${extname}`;
@@ -66,13 +72,6 @@ gulp.task('build:font', () => {
 });
 
 gulp.task('deploy', () => {
-
-    const opts = {};
-    console.log('HERELLASDFAD', !!process.env.GH_TOKEN)
-    if(process.env.GH_TOKEN) {
-        opts.remoteUrl = `https://${process.env.GH_TOKEN}@github.com/seiyria/gameicons-font.git`;
-    }
-
     return gulp.src('./test/**/*')
-        .pipe(ghPages(opts));
+        .pipe(ghPages(deployOpts));
 });
