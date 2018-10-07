@@ -36,15 +36,15 @@
 	content: "\E004";
 }
 
-.game-icon-air-force:before {
+.game-icon-round-shield:before {
 	content: "\E005";
 }
 
-.game-icon-shield-disabled:before {
+.game-icon-air-force:before {
 	content: "\E006";
 }
 
-.game-icon-round-shield:before {
+.game-icon-shield-disabled:before {
 	content: "\E007";
 }
 
@@ -308,47 +308,47 @@
 	content: "\E048";
 }
 
-.game-icon-allied-star:before {
+.game-icon-infinity:before {
 	content: "\E049";
 }
 
-.game-icon-balkenkreuz:before {
+.game-icon-allied-star:before {
 	content: "\E04A";
 }
 
-.game-icon-bat:before {
+.game-icon-balkenkreuz:before {
 	content: "\E04B";
 }
 
-.game-icon-clubs:before {
+.game-icon-bat:before {
 	content: "\E04C";
 }
 
-.game-icon-diamonds:before {
+.game-icon-clubs:before {
 	content: "\E04D";
 }
 
-.game-icon-divided-square:before {
+.game-icon-diamonds:before {
 	content: "\E04E";
 }
 
-.game-icon-hearts:before {
+.game-icon-divided-square:before {
 	content: "\E04F";
 }
 
-.game-icon-iron-cross:before {
+.game-icon-hearts:before {
 	content: "\E050";
 }
 
-.game-icon-pentacle:before {
+.game-icon-iron-cross:before {
 	content: "\E051";
 }
 
-.game-icon-spades:before {
+.game-icon-pentacle:before {
 	content: "\E052";
 }
 
-.game-icon-infinity:before {
+.game-icon-spades:before {
 	content: "\E053";
 }
 
@@ -836,2883 +836,2883 @@
 	content: "\E0CC";
 }
 
-.game-icon-card-10-clubs:before {
+.game-icon-brutal-helm:before {
 	content: "\E0CD";
 }
 
-.game-icon-card-10-diamonds:before {
+.game-icon-dwarf-helmet:before {
 	content: "\E0CE";
 }
 
-.game-icon-card-10-hearts:before {
+.game-icon-dwarf-king:before {
 	content: "\E0CF";
 }
 
-.game-icon-card-10-spades:before {
+.game-icon-elf-helmet:before {
 	content: "\E0D0";
 }
 
-.game-icon-card-2-clubs:before {
+.game-icon-helmet:before {
 	content: "\E0D1";
 }
 
-.game-icon-card-2-diamonds:before {
+.game-icon-brodie-helmet:before {
 	content: "\E0D2";
 }
 
-.game-icon-card-2-hearts:before {
+.game-icon-chess-king:before {
 	content: "\E0D3";
 }
 
-.game-icon-card-2-spades:before {
+.game-icon-chess-queen:before {
 	content: "\E0D4";
 }
 
-.game-icon-card-3-clubs:before {
+.game-icon-pickelhaube:before {
 	content: "\E0D5";
 }
 
-.game-icon-card-3-diamonds:before {
+.game-icon-stahlhelm:before {
 	content: "\E0D6";
 }
 
-.game-icon-card-3-hearts:before {
+.game-icon-wooden-helmet:before {
 	content: "\E0D7";
 }
 
-.game-icon-card-3-spades:before {
+.game-icon-american-football-helmet:before {
 	content: "\E0D8";
 }
 
-.game-icon-card-4-clubs:before {
+.game-icon-astronaut-helmet:before {
 	content: "\E0D9";
 }
 
-.game-icon-card-4-diamonds:before {
+.game-icon-bandit:before {
 	content: "\E0DA";
 }
 
-.game-icon-card-4-hearts:before {
+.game-icon-billed-cap:before {
 	content: "\E0DB";
 }
 
-.game-icon-card-4-spades:before {
+.game-icon-black-knight-helm:before {
 	content: "\E0DC";
 }
 
-.game-icon-card-5-clubs:before {
+.game-icon-captain-hat-profile:before {
 	content: "\E0DD";
 }
 
-.game-icon-card-5-diamonds:before {
+.game-icon-chef-toque:before {
 	content: "\E0DE";
 }
 
-.game-icon-card-5-hearts:before {
+.game-icon-closed-barbute:before {
 	content: "\E0DF";
 }
 
-.game-icon-card-5-spades:before {
+.game-icon-coronation:before {
 	content: "\E0E0";
 }
 
-.game-icon-card-6-clubs:before {
+.game-icon-crenel-crown:before {
 	content: "\E0E1";
 }
 
-.game-icon-card-6-diamonds:before {
+.game-icon-deshret-red-crown:before {
 	content: "\E0E2";
 }
 
-.game-icon-card-6-hearts:before {
+.game-icon-diving-helmet:before {
 	content: "\E0E3";
 }
 
-.game-icon-card-6-spades:before {
+.game-icon-dunce-cap:before {
 	content: "\E0E4";
 }
 
-.game-icon-card-7-clubs:before {
+.game-icon-fez:before {
 	content: "\E0E5";
 }
 
-.game-icon-card-7-diamonds:before {
+.game-icon-frog-prince:before {
 	content: "\E0E6";
 }
 
-.game-icon-card-7-hearts:before {
+.game-icon-full-motorcycle-helmet:before {
 	content: "\E0E7";
 }
 
-.game-icon-card-7-spades:before {
+.game-icon-galea:before {
 	content: "\E0E8";
 }
 
-.game-icon-card-8-clubs:before {
+.game-icon-gauls-helm:before {
 	content: "\E0E9";
 }
 
-.game-icon-card-8-diamonds:before {
+.game-icon-graduate-cap:before {
 	content: "\E0EA";
 }
 
-.game-icon-card-8-hearts:before {
+.game-icon-hazmat-suit:before {
 	content: "\E0EB";
 }
 
-.game-icon-card-8-spades:before {
+.game-icon-hedjet-white-crown:before {
 	content: "\E0EC";
 }
 
-.game-icon-card-9-clubs:before {
+.game-icon-imperial-crown:before {
 	content: "\E0ED";
 }
 
-.game-icon-card-9-diamonds:before {
+.game-icon-jester-hat:before {
 	content: "\E0EE";
 }
 
-.game-icon-card-9-hearts:before {
+.game-icon-jewel-crown:before {
 	content: "\E0EF";
 }
 
-.game-icon-card-9-spades:before {
+.game-icon-magic-hat:before {
 	content: "\E0F0";
 }
 
-.game-icon-card-ace-clubs:before {
+.game-icon-magick-trick:before {
 	content: "\E0F1";
 }
 
-.game-icon-card-ace-diamonds:before {
+.game-icon-mining-helmet:before {
 	content: "\E0F2";
 }
 
-.game-icon-card-ace-hearts:before {
+.game-icon-nefertiti:before {
 	content: "\E0F3";
 }
 
-.game-icon-card-ace-spades:before {
+.game-icon-outback-hat:before {
 	content: "\E0F4";
 }
 
-.game-icon-card-jack-clubs:before {
+.game-icon-overlord-helm:before {
 	content: "\E0F5";
 }
 
-.game-icon-card-jack-diamonds:before {
+.game-icon-phrygian-cap:before {
 	content: "\E0F6";
 }
 
-.game-icon-card-jack-hearts:before {
+.game-icon-pilgrim-hat:before {
 	content: "\E0F7";
 }
 
-.game-icon-card-jack-spades:before {
+.game-icon-pirate-hat:before {
 	content: "\E0F8";
 }
 
-.game-icon-card-king-clubs:before {
+.game-icon-plague-doctor-profile:before {
 	content: "\E0F9";
 }
 
-.game-icon-card-king-diamonds:before {
+.game-icon-pope-crown:before {
 	content: "\E0FA";
 }
 
-.game-icon-card-king-hearts:before {
+.game-icon-propeller-beanie:before {
 	content: "\E0FB";
 }
 
-.game-icon-card-king-spades:before {
+.game-icon-pschent-double-crown:before {
 	content: "\E0FC";
 }
 
-.game-icon-card-queen-clubs:before {
+.game-icon-robin-hood-hat:before {
 	content: "\E0FD";
 }
 
-.game-icon-card-queen-diamonds:before {
+.game-icon-samurai-helmet:before {
 	content: "\E0FE";
 }
 
-.game-icon-card-queen-hearts:before {
+.game-icon-sherlock-holmes:before {
 	content: "\E0FF";
 }
 
-.game-icon-card-queen-spades:before {
+.game-icon-sombrero:before {
 	content: "\E100";
 }
 
-.game-icon-card-discard:before {
+.game-icon-spartan-helmet:before {
 	content: "\E101";
 }
 
-.game-icon-card-draw:before {
+.game-icon-spy:before {
 	content: "\E102";
 }
 
-.game-icon-card-pick:before {
+.game-icon-throne-king:before {
 	content: "\E103";
 }
 
-.game-icon-card-random:before {
+.game-icon-tiara:before {
 	content: "\E104";
 }
 
-.game-icon-card-pickup:before {
+.game-icon-turban:before {
 	content: "\E105";
 }
 
-.game-icon-card-play:before {
+.game-icon-viking-helmet:before {
 	content: "\E106";
 }
 
-.game-icon-chess-bishop:before {
+.game-icon-war-bonnet:before {
 	content: "\E107";
 }
 
-.game-icon-chess-king:before {
+.game-icon-warlock-hood:before {
 	content: "\E108";
 }
 
-.game-icon-chess-knight:before {
+.game-icon-western-hat:before {
 	content: "\E109";
 }
 
-.game-icon-chess-pawn:before {
+.game-icon-winter-hat:before {
 	content: "\E10A";
 }
 
-.game-icon-chess-queen:before {
+.game-icon-barbute:before {
 	content: "\E10B";
 }
 
-.game-icon-chess-rook:before {
+.game-icon-cowled:before {
 	content: "\E10C";
 }
 
-.game-icon-hexes:before {
+.game-icon-cracked-helm:before {
 	content: "\E10D";
 }
 
-.game-icon-3d-meeple:before {
+.game-icon-crested-helmet:before {
 	content: "\E10E";
 }
 
-.game-icon-ages:before {
+.game-icon-crown-coin:before {
 	content: "\E10F";
 }
 
-.game-icon-backgammon:before {
+.game-icon-crown-of-thorns:before {
 	content: "\E110";
 }
 
-.game-icon-buy-card:before {
+.game-icon-crown:before {
 	content: "\E111";
 }
 
-.game-icon-card-burn:before {
+.game-icon-crowned-heart:before {
 	content: "\E112";
 }
 
-.game-icon-card-exchange:before {
+.game-icon-crowned-skull:before {
 	content: "\E113";
 }
 
-.game-icon-card-joker:before {
+.game-icon-fedora:before {
 	content: "\E114";
 }
 
-.game-icon-coins:before {
+.game-icon-heavy-helm:before {
 	content: "\E115";
 }
 
-.game-icon-conway-life-glider:before {
+.game-icon-helmet-head-shot:before {
 	content: "\E116";
 }
 
-.game-icon-dice-six-faces-three:before {
+.game-icon-hood:before {
 	content: "\E117";
 }
 
-.game-icon-domino-tiles:before {
+.game-icon-horned-helm:before {
 	content: "\E118";
 }
 
-.game-icon-empty-chessboard:before {
+.game-icon-laurel-crown:before {
 	content: "\E119";
 }
 
-.game-icon-meeple-group:before {
+.game-icon-laurels:before {
 	content: "\E11A";
 }
 
-.game-icon-meeple-king:before {
+.game-icon-pointy-hat:before {
 	content: "\E11B";
 }
 
-.game-icon-meeple:before {
+.game-icon-queen-crown:before {
 	content: "\E11C";
 }
 
-.game-icon-pay-money:before {
+.game-icon-sharp-crown:before {
 	content: "\E11D";
 }
 
-.game-icon-perspective-dice-six-faces-four:before {
+.game-icon-top-hat:before {
 	content: "\E11E";
 }
 
-.game-icon-receive-money:before {
+.game-icon-visored-helm:before {
 	content: "\E11F";
 }
 
-.game-icon-rolling-dice-cup:before {
+.game-icon-crossbow:before {
 	content: "\E120";
 }
 
-.game-icon-rolling-dices:before {
+.game-icon-annexation:before {
 	content: "\E121";
 }
 
-.game-icon-round-table:before {
+.game-icon-card-draw:before {
 	content: "\E122";
 }
 
-.game-icon-sell-card:before {
+.game-icon-forward-sun:before {
 	content: "\E123";
 }
 
-.game-icon-stack:before {
+.game-icon-dodge:before {
 	content: "\E124";
 }
 
-.game-icon-tabletop-players:before {
+.game-icon-overhead:before {
 	content: "\E125";
 }
 
-.game-icon-tic-tac-toe:before {
+.game-icon-sideswipe:before {
 	content: "\E126";
 }
 
-.game-icon-two-coins:before {
+.game-icon-thrust:before {
 	content: "\E127";
 }
 
-.game-icon-up-card:before {
+.game-icon-underhand:before {
 	content: "\E128";
 }
 
-.game-icon-honeycomb:before {
+.game-icon-bunker-assault:before {
 	content: "\E129";
 }
 
-.game-icon-hourglass:before {
+.game-icon-trench-assault:before {
 	content: "\E12A";
 }
 
-.game-icon-pawn:before {
+.game-icon-fall-down:before {
 	content: "\E12B";
 }
 
-.game-icon-poker-hand:before {
+.game-icon-pounce:before {
 	content: "\E12C";
 }
 
-.game-icon-stopwatch:before {
+.game-icon-bullseye:before {
 	content: "\E12D";
 }
 
-.game-icon-suits:before {
+.game-icon-achilles-heel:before {
 	content: "\E12E";
 }
 
-.game-icon-brutal-helm:before {
+.game-icon-anticlockwise-rotation:before {
 	content: "\E12F";
 }
 
-.game-icon-dwarf-helmet:before {
+.game-icon-archer:before {
 	content: "\E130";
 }
 
-.game-icon-dwarf-king:before {
+.game-icon-arrow-cursor:before {
 	content: "\E131";
 }
 
-.game-icon-elf-helmet:before {
+.game-icon-arrow-wings:before {
 	content: "\E132";
 }
 
-.game-icon-helmet:before {
+.game-icon-backward-time:before {
 	content: "\E133";
 }
 
-.game-icon-brodie-helmet:before {
+.game-icon-body-height:before {
 	content: "\E134";
 }
 
-.game-icon-pickelhaube:before {
+.game-icon-bow-arrow:before {
 	content: "\E135";
 }
 
-.game-icon-stahlhelm:before {
+.game-icon-buy-card:before {
 	content: "\E136";
 }
 
-.game-icon-wooden-helmet:before {
+.game-icon-card-exchange:before {
 	content: "\E137";
 }
 
-.game-icon-american-football-helmet:before {
+.game-icon-chart:before {
 	content: "\E138";
 }
 
-.game-icon-astronaut-helmet:before {
+.game-icon-clockwise-rotation:before {
 	content: "\E139";
 }
 
-.game-icon-bandit:before {
+.game-icon-cloud-download:before {
 	content: "\E13A";
 }
 
-.game-icon-billed-cap:before {
+.game-icon-cloud-upload:before {
 	content: "\E13B";
 }
 
-.game-icon-black-knight-helm:before {
+.game-icon-contract:before {
 	content: "\E13C";
 }
 
-.game-icon-captain-hat-profile:before {
+.game-icon-dart:before {
 	content: "\E13D";
 }
 
-.game-icon-chef-toque:before {
+.game-icon-detour:before {
 	content: "\E13E";
 }
 
-.game-icon-closed-barbute:before {
+.game-icon-direction-sign:before {
 	content: "\E13F";
 }
 
-.game-icon-coronation:before {
+.game-icon-encirclement:before {
 	content: "\E140";
 }
 
-.game-icon-crenel-crown:before {
+.game-icon-expand:before {
 	content: "\E141";
 }
 
-.game-icon-deshret-red-crown:before {
+.game-icon-expense:before {
 	content: "\E142";
 }
 
-.game-icon-diving-helmet:before {
+.game-icon-horizontal-flip:before {
 	content: "\E143";
 }
 
-.game-icon-dunce-cap:before {
+.game-icon-join:before {
 	content: "\E144";
 }
 
-.game-icon-fez:before {
+.game-icon-move:before {
 	content: "\E145";
 }
 
-.game-icon-frog-prince:before {
+.game-icon-plain-arrow:before {
 	content: "\E146";
 }
 
-.game-icon-full-motorcycle-helmet:before {
+.game-icon-quiver:before {
 	content: "\E147";
 }
 
-.game-icon-galea:before {
+.game-icon-save-arrow:before {
 	content: "\E148";
 }
 
-.game-icon-gauls-helm:before {
+.game-icon-sell-card:before {
 	content: "\E149";
 }
 
-.game-icon-graduate-cap:before {
+.game-icon-slalom:before {
 	content: "\E14A";
 }
 
-.game-icon-hazmat-suit:before {
+.game-icon-spear-feather:before {
 	content: "\E14B";
 }
 
-.game-icon-hedjet-white-crown:before {
+.game-icon-spearfishing:before {
 	content: "\E14C";
 }
 
-.game-icon-imperial-crown:before {
+.game-icon-sun-spear:before {
 	content: "\E14D";
 }
 
-.game-icon-jester-hat:before {
+.game-icon-thrust-bend:before {
 	content: "\E14E";
 }
 
-.game-icon-jewel-crown:before {
+.game-icon-tree-growth:before {
 	content: "\E14F";
 }
 
-.game-icon-magic-hat:before {
+.game-icon-up-card:before {
 	content: "\E150";
 }
 
-.game-icon-magick-trick:before {
+.game-icon-upgrade:before {
 	content: "\E151";
 }
 
-.game-icon-mining-helmet:before {
+.game-icon-vertical-flip:before {
 	content: "\E152";
 }
 
-.game-icon-nefertiti:before {
+.game-icon-aerodynamic-harpoon:before {
 	content: "\E153";
 }
 
-.game-icon-outback-hat:before {
+.game-icon-arrow-cluster:before {
 	content: "\E154";
 }
 
-.game-icon-overlord-helm:before {
+.game-icon-arrow-dunk:before {
 	content: "\E155";
 }
 
-.game-icon-phrygian-cap:before {
+.game-icon-arrow-flights:before {
 	content: "\E156";
 }
 
-.game-icon-pilgrim-hat:before {
+.game-icon-arrow-scope:before {
 	content: "\E157";
 }
 
-.game-icon-pirate-hat:before {
+.game-icon-arrowed:before {
 	content: "\E158";
 }
 
-.game-icon-plague-doctor-profile:before {
+.game-icon-arrowhead:before {
 	content: "\E159";
 }
 
-.game-icon-pope-crown:before {
+.game-icon-back-forth:before {
 	content: "\E15A";
 }
 
-.game-icon-propeller-beanie:before {
+.game-icon-barbed-arrow:before {
 	content: "\E15B";
 }
 
-.game-icon-pschent-double-crown:before {
+.game-icon-barbed-spear:before {
 	content: "\E15C";
 }
 
-.game-icon-robin-hood-hat:before {
+.game-icon-bottom-right-3d-arrow:before {
 	content: "\E15D";
 }
 
-.game-icon-samurai-helmet:before {
+.game-icon-bowman:before {
 	content: "\E15E";
 }
 
-.game-icon-sherlock-holmes:before {
+.game-icon-branch-arrow:before {
 	content: "\E15F";
 }
 
-.game-icon-sombrero:before {
+.game-icon-broadhead-arrow:before {
 	content: "\E160";
 }
 
-.game-icon-spartan-helmet:before {
+.game-icon-chained-arrow-heads:before {
 	content: "\E161";
 }
 
-.game-icon-spy:before {
+.game-icon-charged-arrow:before {
 	content: "\E162";
 }
 
-.game-icon-throne-king:before {
+.game-icon-cheerful:before {
 	content: "\E163";
 }
 
-.game-icon-tiara:before {
+.game-icon-chemical-arrow:before {
 	content: "\E164";
 }
 
-.game-icon-turban:before {
+.game-icon-crosshair-arrow:before {
 	content: "\E165";
 }
 
-.game-icon-viking-helmet:before {
+.game-icon-cupidon-arrow:before {
 	content: "\E166";
 }
 
-.game-icon-war-bonnet:before {
+.game-icon-divergence:before {
 	content: "\E167";
 }
 
-.game-icon-warlock-hood:before {
+.game-icon-divert:before {
 	content: "\E168";
 }
 
-.game-icon-western-hat:before {
+.game-icon-double-shot:before {
 	content: "\E169";
 }
 
-.game-icon-winter-hat:before {
+.game-icon-energy-arrow:before {
 	content: "\E16A";
 }
 
-.game-icon-barbute:before {
+.game-icon-falling-boulder:before {
 	content: "\E16B";
 }
 
-.game-icon-cowled:before {
+.game-icon-fast-arrow:before {
 	content: "\E16C";
 }
 
-.game-icon-cracked-helm:before {
+.game-icon-flaming-arrow:before {
 	content: "\E16D";
 }
 
-.game-icon-crested-helmet:before {
+.game-icon-frayed-arrow:before {
 	content: "\E16E";
 }
 
-.game-icon-crown-coin:before {
+.game-icon-frozen-arrow:before {
 	content: "\E16F";
 }
 
-.game-icon-crown-of-thorns:before {
+.game-icon-headshot:before {
 	content: "\E170";
 }
 
-.game-icon-crown:before {
+.game-icon-heavy-arrow:before {
 	content: "\E171";
 }
 
-.game-icon-crowned-heart:before {
+.game-icon-high-shot:before {
 	content: "\E172";
 }
 
-.game-icon-crowned-skull:before {
+.game-icon-ice-spear:before {
 	content: "\E173";
 }
 
-.game-icon-fedora:before {
+.game-icon-imbricated-arrows:before {
 	content: "\E174";
 }
 
-.game-icon-heavy-helm:before {
+.game-icon-impact-point:before {
 	content: "\E175";
 }
 
-.game-icon-helmet-head-shot:before {
+.game-icon-interleaved-arrows:before {
 	content: "\E176";
 }
 
-.game-icon-hood:before {
+.game-icon-lift:before {
 	content: "\E177";
 }
 
-.game-icon-horned-helm:before {
+.game-icon-lob-arrow:before {
 	content: "\E178";
 }
 
-.game-icon-laurel-crown:before {
+.game-icon-middle-arrow:before {
 	content: "\E179";
 }
 
-.game-icon-laurels:before {
+.game-icon-on-target:before {
 	content: "\E17A";
 }
 
-.game-icon-pointy-hat:before {
+.game-icon-orb-direction:before {
 	content: "\E17B";
 }
 
-.game-icon-queen-crown:before {
+.game-icon-paper-arrow:before {
 	content: "\E17C";
 }
 
-.game-icon-sharp-crown:before {
+.game-icon-pentarrows-tornado:before {
 	content: "\E17D";
 }
 
-.game-icon-top-hat:before {
+.game-icon-pierced-body:before {
 	content: "\E17E";
 }
 
-.game-icon-visored-helm:before {
+.game-icon-pierced-heart:before {
 	content: "\E17F";
 }
 
-.game-icon-crossbow:before {
+.game-icon-piercing-sword:before {
 	content: "\E180";
 }
 
-.game-icon-annexation:before {
+.game-icon-pocket-bow:before {
 	content: "\E181";
 }
 
-.game-icon-forward-sun:before {
+.game-icon-profit:before {
 	content: "\E182";
 }
 
-.game-icon-dodge:before {
+.game-icon-rally-the-troops:before {
 	content: "\E183";
 }
 
-.game-icon-overhead:before {
+.game-icon-rapidshare-arrow:before {
 	content: "\E184";
 }
 
-.game-icon-sideswipe:before {
+.game-icon-return-arrow:before {
 	content: "\E185";
 }
 
-.game-icon-thrust:before {
+.game-icon-self-love:before {
 	content: "\E186";
 }
 
-.game-icon-underhand:before {
+.game-icon-slicing-arrow:before {
 	content: "\E187";
 }
 
-.game-icon-bunker-assault:before {
+.game-icon-smash-arrows:before {
 	content: "\E188";
 }
 
-.game-icon-trench-assault:before {
+.game-icon-spear-hook:before {
 	content: "\E189";
 }
 
-.game-icon-fall-down:before {
+.game-icon-spears:before {
 	content: "\E18A";
 }
 
-.game-icon-pounce:before {
+.game-icon-spine-arrow:before {
 	content: "\E18B";
 }
 
-.game-icon-bullseye:before {
+.game-icon-spiral-arrow:before {
 	content: "\E18C";
 }
 
-.game-icon-achilles-heel:before {
+.game-icon-spotted-arrowhead:before {
 	content: "\E18D";
 }
 
-.game-icon-anticlockwise-rotation:before {
+.game-icon-stone-spear:before {
 	content: "\E18E";
 }
 
-.game-icon-archer:before {
+.game-icon-striking-arrows:before {
 	content: "\E18F";
 }
 
-.game-icon-arrow-cursor:before {
+.game-icon-striking-clamps:before {
 	content: "\E190";
 }
 
-.game-icon-arrow-wings:before {
+.game-icon-supersonic-arrow:before {
 	content: "\E191";
 }
 
-.game-icon-backward-time:before {
+.game-icon-target-arrows:before {
 	content: "\E192";
 }
 
-.game-icon-body-height:before {
+.game-icon-target-shot:before {
 	content: "\E193";
 }
 
-.game-icon-bow-arrow:before {
+.game-icon-thorn-helix:before {
 	content: "\E194";
 }
 
-.game-icon-chart:before {
+.game-icon-thorned-arrow:before {
 	content: "\E195";
 }
 
-.game-icon-clockwise-rotation:before {
+.game-icon-thrown-spear:before {
 	content: "\E196";
 }
 
-.game-icon-cloud-download:before {
+.game-icon-trade:before {
 	content: "\E197";
 }
 
-.game-icon-cloud-upload:before {
+.game-icon-tron-arrow:before {
 	content: "\E198";
 }
 
-.game-icon-contract:before {
+.game-icon-uncertainty:before {
 	content: "\E199";
 }
 
-.game-icon-dart:before {
+.game-icon-wavy-itinerary:before {
 	content: "\E19A";
 }
 
-.game-icon-detour:before {
+.game-icon-wide-arrow-dunk:before {
 	content: "\E19B";
 }
 
-.game-icon-direction-sign:before {
+.game-icon-william-tell-skull:before {
 	content: "\E19C";
 }
 
-.game-icon-encirclement:before {
+.game-icon-william-tell:before {
 	content: "\E19D";
 }
 
-.game-icon-expand:before {
+.game-icon-winged-arrow:before {
 	content: "\E19E";
 }
 
-.game-icon-expense:before {
+.game-icon-zig-arrow:before {
 	content: "\E19F";
 }
 
-.game-icon-horizontal-flip:before {
+.game-icon-flying-shuriken:before {
 	content: "\E1A0";
 }
 
-.game-icon-join:before {
+.game-icon-kusarigama:before {
 	content: "\E1A1";
 }
 
-.game-icon-move:before {
+.game-icon-north-star-shuriken:before {
 	content: "\E1A2";
 }
 
-.game-icon-plain-arrow:before {
+.game-icon-sharp-shuriken:before {
 	content: "\E1A3";
 }
 
-.game-icon-quiver:before {
+.game-icon-shuriken:before {
 	content: "\E1A4";
 }
 
-.game-icon-save-arrow:before {
+.game-icon-star-shuriken:before {
 	content: "\E1A5";
 }
 
-.game-icon-slalom:before {
+.game-icon-three-pointed-shuriken:before {
 	content: "\E1A6";
 }
 
-.game-icon-spear-feather:before {
+.game-icon-whirlpool-shuriken:before {
 	content: "\E1A7";
 }
 
-.game-icon-spearfishing:before {
+.game-icon-ninja-star:before {
 	content: "\E1A8";
 }
 
-.game-icon-sun-spear:before {
+.game-icon-shepherds-crook:before {
 	content: "\E1A9";
 }
 
-.game-icon-thrust-bend:before {
+.game-icon-pistol-gun:before {
 	content: "\E1AA";
 }
 
-.game-icon-tree-growth:before {
+.game-icon-field-gun:before {
 	content: "\E1AB";
 }
 
-.game-icon-upgrade:before {
+.game-icon-ammo-box:before {
 	content: "\E1AC";
 }
 
-.game-icon-vertical-flip:before {
+.game-icon-chaingun:before {
 	content: "\E1AD";
 }
 
-.game-icon-aerodynamic-harpoon:before {
+.game-icon-duel:before {
 	content: "\E1AE";
 }
 
-.game-icon-arrow-cluster:before {
+.game-icon-grenade:before {
 	content: "\E1AF";
 }
 
-.game-icon-arrow-dunk:before {
+.game-icon-laser-gun:before {
 	content: "\E1B0";
 }
 
-.game-icon-arrow-flights:before {
+.game-icon-rifle:before {
 	content: "\E1B1";
 }
 
-.game-icon-arrow-scope:before {
+.game-icon-shotgun:before {
 	content: "\E1B2";
 }
 
-.game-icon-arrowed:before {
+.game-icon-turret:before {
 	content: "\E1B3";
 }
 
-.game-icon-arrowhead:before {
+.game-icon-orb-wand:before {
 	content: "\E1B4";
 }
 
-.game-icon-back-forth:before {
+.game-icon-baton:before {
 	content: "\E1B5";
 }
 
-.game-icon-barbed-arrow:before {
+.game-icon-bayonet:before {
 	content: "\E1B6";
 }
 
-.game-icon-barbed-spear:before {
+.game-icon-drop-weapon:before {
 	content: "\E1B7";
 }
 
-.game-icon-bottom-right-3d-arrow:before {
+.game-icon-famas:before {
 	content: "\E1B8";
 }
 
-.game-icon-bowman:before {
+.game-icon-gladius:before {
 	content: "\E1B9";
 }
 
-.game-icon-branch-arrow:before {
+.game-icon-lee-enfield:before {
 	content: "\E1BA";
 }
 
-.game-icon-broadhead-arrow:before {
+.game-icon-luger:before {
 	content: "\E1BB";
 }
 
-.game-icon-chained-arrow-heads:before {
+.game-icon-nuclear-bomb:before {
 	content: "\E1BC";
 }
 
-.game-icon-charged-arrow:before {
+.game-icon-spiked-ball:before {
 	content: "\E1BD";
 }
 
-.game-icon-cheerful:before {
+.game-icon-spiked-bat:before {
 	content: "\E1BE";
 }
 
-.game-icon-chemical-arrow:before {
+.game-icon-steyr-aug:before {
 	content: "\E1BF";
 }
 
-.game-icon-crosshair-arrow:before {
+.game-icon-stick-grenade:before {
 	content: "\E1C0";
 }
 
-.game-icon-cupidon-arrow:before {
+.game-icon-tec-9:before {
 	content: "\E1C1";
 }
 
-.game-icon-divergence:before {
+.game-icon-telescopic-baton:before {
 	content: "\E1C2";
 }
 
-.game-icon-divert:before {
+.game-icon-teller-mine:before {
 	content: "\E1C3";
 }
 
-.game-icon-double-shot:before {
+.game-icon-baseball-bat:before {
 	content: "\E1C4";
 }
 
-.game-icon-energy-arrow:before {
+.game-icon-bo:before {
 	content: "\E1C5";
 }
 
-.game-icon-falling-boulder:before {
+.game-icon-bone-mace:before {
 	content: "\E1C6";
 }
 
-.game-icon-fast-arrow:before {
+.game-icon-boomerang:before {
 	content: "\E1C7";
 }
 
-.game-icon-flaming-arrow:before {
+.game-icon-brass-knuckles:before {
 	content: "\E1C8";
 }
 
-.game-icon-frayed-arrow:before {
+.game-icon-broken-axe:before {
 	content: "\E1C9";
 }
 
-.game-icon-frozen-arrow:before {
+.game-icon-claymore-explosive:before {
 	content: "\E1CA";
 }
 
-.game-icon-headshot:before {
+.game-icon-crowbar:before {
 	content: "\E1CB";
 }
 
-.game-icon-heavy-arrow:before {
+.game-icon-dagger-rose:before {
 	content: "\E1CC";
 }
 
-.game-icon-high-shot:before {
+.game-icon-flail:before {
 	content: "\E1CD";
 }
 
-.game-icon-ice-spear:before {
+.game-icon-flamethrower-soldier:before {
 	content: "\E1CE";
 }
 
-.game-icon-imbricated-arrows:before {
+.game-icon-flamethrower:before {
 	content: "\E1CF";
 }
 
-.game-icon-impact-point:before {
+.game-icon-flanged-mace:before {
 	content: "\E1D0";
 }
 
-.game-icon-interleaved-arrows:before {
+.game-icon-gun-rose:before {
 	content: "\E1D1";
 }
 
-.game-icon-lift:before {
+.game-icon-human-cannonball:before {
 	content: "\E1D2";
 }
 
-.game-icon-lob-arrow:before {
+.game-icon-hunting-bolas:before {
 	content: "\E1D3";
 }
 
-.game-icon-middle-arrow:before {
+.game-icon-laser-turret:before {
 	content: "\E1D4";
 }
 
-.game-icon-on-target:before {
+.game-icon-lasso:before {
 	content: "\E1D5";
 }
 
-.game-icon-orb-direction:before {
+.game-icon-lead-pipe:before {
 	content: "\E1D6";
 }
 
-.game-icon-paper-arrow:before {
+.game-icon-lunar-wand:before {
 	content: "\E1D7";
 }
 
-.game-icon-pentarrows-tornado:before {
+.game-icon-magic-trident:before {
 	content: "\E1D8";
 }
 
-.game-icon-pierced-body:before {
+.game-icon-missile-launcher:before {
 	content: "\E1D9";
 }
 
-.game-icon-pierced-heart:before {
+.game-icon-monkey-wrench:before {
 	content: "\E1DA";
 }
 
-.game-icon-piercing-sword:before {
+.game-icon-mortar:before {
 	content: "\E1DB";
 }
 
-.game-icon-pocket-bow:before {
+.game-icon-mp5:before {
 	content: "\E1DC";
 }
 
-.game-icon-profit:before {
+.game-icon-nunchaku:before {
 	content: "\E1DD";
 }
 
-.game-icon-rally-the-troops:before {
+.game-icon-panzerfaust:before {
 	content: "\E1DE";
 }
 
-.game-icon-rapidshare-arrow:before {
+.game-icon-reload-gun-barrel:before {
 	content: "\E1DF";
 }
 
-.game-icon-return-arrow:before {
+.game-icon-revolver:before {
 	content: "\E1E0";
 }
 
-.game-icon-self-love:before {
+.game-icon-saber-and-pistol:before {
 	content: "\E1E1";
 }
 
-.game-icon-slicing-arrow:before {
+.game-icon-sai:before {
 	content: "\E1E2";
 }
 
-.game-icon-smash-arrows:before {
+.game-icon-sawed-off-shotgun:before {
 	content: "\E1E3";
 }
 
-.game-icon-spear-hook:before {
+.game-icon-sharp-axe:before {
 	content: "\E1E4";
 }
 
-.game-icon-spears:before {
+.game-icon-skull-staff:before {
 	content: "\E1E5";
 }
 
-.game-icon-spine-arrow:before {
+.game-icon-sling:before {
 	content: "\E1E6";
 }
 
-.game-icon-spiral-arrow:before {
+.game-icon-slingshot:before {
 	content: "\E1E7";
 }
 
-.game-icon-spotted-arrowhead:before {
+.game-icon-stake-hammer:before {
 	content: "\E1E8";
 }
 
-.game-icon-stone-spear:before {
+.game-icon-switch-weapon:before {
 	content: "\E1E9";
 }
 
-.game-icon-striking-arrows:before {
+.game-icon-sword-brandish:before {
 	content: "\E1EA";
 }
 
-.game-icon-striking-clamps:before {
+.game-icon-thor-hammer:before {
 	content: "\E1EB";
 }
 
-.game-icon-supersonic-arrow:before {
+.game-icon-tomahawk:before {
 	content: "\E1EC";
 }
 
-.game-icon-target-arrows:before {
+.game-icon-torpedo:before {
 	content: "\E1ED";
 }
 
-.game-icon-target-shot:before {
+.game-icon-umbrella-bayonet:before {
 	content: "\E1EE";
 }
 
-.game-icon-thorn-helix:before {
+.game-icon-uzi:before {
 	content: "\E1EF";
 }
 
-.game-icon-thorned-arrow:before {
+.game-icon-walking-turret:before {
 	content: "\E1F0";
 }
 
-.game-icon-thrown-spear:before {
+.game-icon-war-axe:before {
 	content: "\E1F1";
 }
 
-.game-icon-trade:before {
+.game-icon-war-pick:before {
 	content: "\E1F2";
 }
 
-.game-icon-tron-arrow:before {
+.game-icon-wood-club:before {
 	content: "\E1F3";
 }
 
-.game-icon-uncertainty:before {
+.game-icon-zat-gun:before {
 	content: "\E1F4";
 }
 
-.game-icon-wavy-itinerary:before {
+.game-icon-all-for-one:before {
 	content: "\E1F5";
 }
 
-.game-icon-wide-arrow-dunk:before {
+.game-icon-andromeda-chain:before {
 	content: "\E1F6";
 }
 
-.game-icon-william-tell-skull:before {
+.game-icon-archery-target:before {
 	content: "\E1F7";
 }
 
-.game-icon-william-tell:before {
+.game-icon-autogun:before {
 	content: "\E1F8";
 }
 
-.game-icon-winged-arrow:before {
+.game-icon-axe-in-stump:before {
 	content: "\E1F9";
 }
 
-.game-icon-zig-arrow:before {
+.game-icon-backstab:before {
 	content: "\E1FA";
 }
 
-.game-icon-flying-shuriken:before {
+.game-icon-battered-axe:before {
 	content: "\E1FB";
 }
 
-.game-icon-kusarigama:before {
+.game-icon-battle-axe:before {
 	content: "\E1FC";
 }
 
-.game-icon-north-star-shuriken:before {
+.game-icon-beam-wake:before {
 	content: "\E1FD";
 }
 
-.game-icon-sharp-shuriken:before {
+.game-icon-blunderbuss:before {
 	content: "\E1FE";
 }
 
-.game-icon-shuriken:before {
+.game-icon-bolas:before {
 	content: "\E1FF";
 }
 
-.game-icon-star-shuriken:before {
+.game-icon-bolter-gun:before {
 	content: "\E200";
 }
 
-.game-icon-three-pointed-shuriken:before {
+.game-icon-broken-bottle:before {
 	content: "\E201";
 }
 
-.game-icon-whirlpool-shuriken:before {
+.game-icon-bullets:before {
 	content: "\E202";
 }
 
-.game-icon-ninja-star:before {
+.game-icon-cannon-ball:before {
 	content: "\E203";
 }
 
-.game-icon-shepherds-crook:before {
+.game-icon-cannon-shot:before {
 	content: "\E204";
 }
 
-.game-icon-pistol-gun:before {
+.game-icon-cannon:before {
 	content: "\E205";
 }
 
-.game-icon-field-gun:before {
+.game-icon-crossed-pistols:before {
 	content: "\E206";
 }
 
-.game-icon-ammo-box:before {
+.game-icon-crossed-sabres:before {
 	content: "\E207";
 }
 
-.game-icon-chaingun:before {
+.game-icon-crossed-swords:before {
 	content: "\E208";
 }
 
-.game-icon-duel:before {
+.game-icon-crystal-wand:before {
 	content: "\E209";
 }
 
-.game-icon-grenade:before {
+.game-icon-dripping-knife:before {
 	content: "\E20A";
 }
 
-.game-icon-laser-gun:before {
+.game-icon-fairy-wand:before {
 	content: "\E20B";
 }
 
-.game-icon-rifle:before {
+.game-icon-flaming-trident:before {
 	content: "\E20C";
 }
 
-.game-icon-shotgun:before {
+.game-icon-flash-grenade:before {
 	content: "\E20D";
 }
 
-.game-icon-turret:before {
+.game-icon-grapple:before {
 	content: "\E20E";
 }
 
-.game-icon-baton:before {
+.game-icon-grenade-2:before {
 	content: "\E20F";
 }
 
-.game-icon-bayonet:before {
+.game-icon-gunshot:before {
 	content: "\E210";
 }
 
-.game-icon-drop-weapon:before {
+.game-icon-halberd-shuriken:before {
 	content: "\E211";
 }
 
-.game-icon-famas:before {
+.game-icon-harpoon-chain:before {
 	content: "\E212";
 }
 
-.game-icon-gladius:before {
+.game-icon-harpoon-trident:before {
 	content: "\E213";
 }
 
-.game-icon-lee-enfield:before {
+.game-icon-laser-blast:before {
 	content: "\E214";
 }
 
-.game-icon-luger:before {
+.game-icon-lightning-bow:before {
 	content: "\E215";
 }
 
-.game-icon-nuclear-bomb:before {
+.game-icon-mace-head:before {
 	content: "\E216";
 }
 
-.game-icon-spiked-ball:before {
+.game-icon-machete:before {
 	content: "\E217";
 }
 
-.game-icon-spiked-bat:before {
+.game-icon-minigun:before {
 	content: "\E218";
 }
 
-.game-icon-steyr-aug:before {
+.game-icon-missile-pod:before {
 	content: "\E219";
 }
 
-.game-icon-stick-grenade:before {
+.game-icon-missile-swarm:before {
 	content: "\E21A";
 }
 
-.game-icon-tec-9:before {
+.game-icon-pincers:before {
 	content: "\E21B";
 }
 
-.game-icon-telescopic-baton:before {
+.game-icon-ray-gun:before {
 	content: "\E21C";
 }
 
-.game-icon-teller-mine:before {
+.game-icon-reticule:before {
 	content: "\E21D";
 }
 
-.game-icon-orb-wand:before {
+.game-icon-saber-slash:before {
 	content: "\E21E";
 }
 
-.game-icon-baseball-bat:before {
+.game-icon-sabers-choc:before {
 	content: "\E21F";
 }
 
-.game-icon-bo:before {
+.game-icon-sacrificial-dagger:before {
 	content: "\E220";
 }
 
-.game-icon-bone-mace:before {
+.game-icon-scalpel-strike:before {
 	content: "\E221";
 }
 
-.game-icon-boomerang:before {
+.game-icon-scythe:before {
 	content: "\E222";
 }
 
-.game-icon-brass-knuckles:before {
+.game-icon-sentry-gun:before {
 	content: "\E223";
 }
 
-.game-icon-broken-axe:before {
+.game-icon-shuriken-2:before {
 	content: "\E224";
 }
 
-.game-icon-claymore-explosive:before {
+.game-icon-slavery-whip:before {
 	content: "\E225";
 }
 
-.game-icon-crowbar:before {
+.game-icon-sparkling-sabre:before {
 	content: "\E226";
 }
 
-.game-icon-dagger-rose:before {
+.game-icon-spiked-mace:before {
 	content: "\E227";
 }
 
-.game-icon-flail:before {
+.game-icon-spray:before {
 	content: "\E228";
 }
 
-.game-icon-flamethrower-soldier:before {
+.game-icon-stiletto:before {
 	content: "\E229";
 }
 
-.game-icon-flamethrower:before {
+.game-icon-supersonic-bullet:before {
 	content: "\E22A";
 }
 
-.game-icon-flanged-mace:before {
+.game-icon-sword-clash:before {
 	content: "\E22B";
 }
 
-.game-icon-gun-rose:before {
+.game-icon-sword-in-stone:before {
 	content: "\E22C";
 }
 
-.game-icon-human-cannonball:before {
+.game-icon-sword-spade:before {
 	content: "\E22D";
 }
 
-.game-icon-hunting-bolas:before {
+.game-icon-tesla-turret:before {
 	content: "\E22E";
 }
 
-.game-icon-laser-turret:before {
+.game-icon-trefoil-shuriken:before {
 	content: "\E22F";
 }
 
-.game-icon-lasso:before {
+.game-icon-trident:before {
 	content: "\E230";
 }
 
-.game-icon-lead-pipe:before {
+.game-icon-wave-strike:before {
 	content: "\E231";
 }
 
-.game-icon-lunar-wand:before {
+.game-icon-whip:before {
 	content: "\E232";
 }
 
-.game-icon-magic-trident:before {
+.game-icon-winged-sword:before {
 	content: "\E233";
 }
 
-.game-icon-missile-launcher:before {
+.game-icon-wizard-staff:before {
 	content: "\E234";
 }
 
-.game-icon-monkey-wrench:before {
+.game-icon-flame:before {
 	content: "\E235";
 }
 
-.game-icon-mortar:before {
+.game-icon-blast:before {
 	content: "\E236";
 }
 
-.game-icon-mp5:before {
+.game-icon-blaster:before {
 	content: "\E237";
 }
 
-.game-icon-nunchaku:before {
+.game-icon-burn:before {
 	content: "\E238";
 }
 
-.game-icon-panzerfaust:before {
+.game-icon-fire:before {
 	content: "\E239";
 }
 
-.game-icon-reload-gun-barrel:before {
+.game-icon-fireflake:before {
 	content: "\E23A";
 }
 
-.game-icon-revolver:before {
+.game-icon-flamer:before {
 	content: "\E23B";
 }
 
-.game-icon-saber-and-pistol:before {
+.game-icon-hot-surface:before {
 	content: "\E23C";
 }
 
-.game-icon-sai:before {
+.game-icon-lava:before {
 	content: "\E23D";
 }
 
-.game-icon-sawed-off-shotgun:before {
+.game-icon-lucifer-cannon:before {
 	content: "\E23E";
 }
 
-.game-icon-sharp-axe:before {
+.game-icon-burning-skull:before {
 	content: "\E23F";
 }
 
-.game-icon-skull-staff:before {
+.game-icon-brasero:before {
 	content: "\E240";
 }
 
-.game-icon-sling:before {
+.game-icon-candles:before {
 	content: "\E241";
 }
 
-.game-icon-slingshot:before {
+.game-icon-fire-extinguisher:before {
 	content: "\E242";
 }
 
-.game-icon-stake-hammer:before {
+.game-icon-fire-flower:before {
 	content: "\E243";
 }
 
-.game-icon-switch-weapon:before {
+.game-icon-fire-shrine:before {
 	content: "\E244";
 }
 
-.game-icon-sword-brandish:before {
+.game-icon-fire-spell-cast:before {
 	content: "\E245";
 }
 
-.game-icon-thor-hammer:before {
+.game-icon-fish-smoking:before {
 	content: "\E246";
 }
 
-.game-icon-tomahawk:before {
+.game-icon-flint-spark:before {
 	content: "\E247";
 }
 
-.game-icon-torpedo:before {
+.game-icon-lighter:before {
 	content: "\E248";
 }
 
-.game-icon-umbrella-bayonet:before {
+.game-icon-primitive-torch:before {
 	content: "\E249";
 }
 
-.game-icon-uzi:before {
+.game-icon-torch:before {
 	content: "\E24A";
 }
 
-.game-icon-walking-turret:before {
+.game-icon-alien-fire:before {
 	content: "\E24B";
 }
 
-.game-icon-war-axe:before {
+.game-icon-arson:before {
 	content: "\E24C";
 }
 
-.game-icon-war-pick:before {
+.game-icon-burning-book:before {
 	content: "\E24D";
 }
 
-.game-icon-wood-club:before {
+.game-icon-burning-dot:before {
 	content: "\E24E";
 }
 
-.game-icon-zat-gun:before {
+.game-icon-burning-embers:before {
 	content: "\E24F";
 }
 
-.game-icon-all-for-one:before {
+.game-icon-burning-eye:before {
 	content: "\E250";
 }
 
-.game-icon-andromeda-chain:before {
+.game-icon-burning-meteor:before {
 	content: "\E251";
 }
 
-.game-icon-archery-target:before {
+.game-icon-burning-passion:before {
 	content: "\E252";
 }
 
-.game-icon-autogun:before {
+.game-icon-burning-tree:before {
 	content: "\E253";
 }
 
-.game-icon-axe-in-stump:before {
+.game-icon-caldera:before {
 	content: "\E254";
 }
 
-.game-icon-backstab:before {
+.game-icon-campfire:before {
 	content: "\E255";
 }
 
-.game-icon-battered-axe:before {
+.game-icon-candle-flame:before {
 	content: "\E256";
 }
 
-.game-icon-battle-axe:before {
+.game-icon-candle-holder:before {
 	content: "\E257";
 }
 
-.game-icon-beam-wake:before {
+.game-icon-candle-light:before {
 	content: "\E258";
 }
 
-.game-icon-blunderbuss:before {
+.game-icon-candlebright:before {
 	content: "\E259";
 }
 
-.game-icon-bolas:before {
+.game-icon-celebration-fire:before {
 	content: "\E25A";
 }
 
-.game-icon-bolter-gun:before {
+.game-icon-dragon-breath:before {
 	content: "\E25B";
 }
 
-.game-icon-broken-bottle:before {
+.game-icon-ember-shot:before {
 	content: "\E25C";
 }
 
-.game-icon-bullets:before {
+.game-icon-eruption:before {
 	content: "\E25D";
 }
 
-.game-icon-cannon-ball:before {
+.game-icon-fire-ace:before {
 	content: "\E25E";
 }
 
-.game-icon-cannon-shot:before {
+.game-icon-fire-axe:before {
 	content: "\E25F";
 }
 
-.game-icon-cannon:before {
+.game-icon-fire-bomb:before {
 	content: "\E260";
 }
 
-.game-icon-crossed-pistols:before {
+.game-icon-fire-bottle:before {
 	content: "\E261";
 }
 
-.game-icon-crossed-sabres:before {
+.game-icon-fire-bowl:before {
 	content: "\E262";
 }
 
-.game-icon-crossed-swords:before {
+.game-icon-fire-breath:before {
 	content: "\E263";
 }
 
-.game-icon-crystal-wand:before {
+.game-icon-fire-dash:before {
 	content: "\E264";
 }
 
-.game-icon-dripping-knife:before {
+.game-icon-fire-punch:before {
 	content: "\E265";
 }
 
-.game-icon-fairy-wand:before {
+.game-icon-fire-ray:before {
 	content: "\E266";
 }
 
-.game-icon-flaming-trident:before {
+.game-icon-fire-ring:before {
 	content: "\E267";
 }
 
-.game-icon-flash-grenade:before {
+.game-icon-fire-silhouette:before {
 	content: "\E268";
 }
 
-.game-icon-grapple:before {
+.game-icon-fire-tail:before {
 	content: "\E269";
 }
 
-.game-icon-grenade-2:before {
+.game-icon-fire-wave:before {
 	content: "\E26A";
 }
 
-.game-icon-gunshot:before {
+.game-icon-fire-zone:before {
 	content: "\E26B";
 }
 
-.game-icon-halberd-shuriken:before {
+.game-icon-fireball:before {
 	content: "\E26C";
 }
 
-.game-icon-harpoon-chain:before {
+.game-icon-firework-rocket:before {
 	content: "\E26D";
 }
 
-.game-icon-harpoon-trident:before {
+.game-icon-flame-claws:before {
 	content: "\E26E";
 }
 
-.game-icon-laser-blast:before {
+.game-icon-flame-spin:before {
 	content: "\E26F";
 }
 
-.game-icon-lightning-bow:before {
+.game-icon-flame-tunnel:before {
 	content: "\E270";
 }
 
-.game-icon-mace-head:before {
+.game-icon-flamed-leaf:before {
 	content: "\E271";
 }
 
-.game-icon-machete:before {
+.game-icon-flaming-claw:before {
 	content: "\E272";
 }
 
-.game-icon-minigun:before {
+.game-icon-flaming-sheet:before {
 	content: "\E273";
 }
 
-.game-icon-missile-pod:before {
+.game-icon-fluffy-flame:before {
 	content: "\E274";
 }
 
-.game-icon-missile-swarm:before {
+.game-icon-frostfire:before {
 	content: "\E275";
 }
 
-.game-icon-pincers:before {
+.game-icon-heartburn:before {
 	content: "\E276";
 }
 
-.game-icon-ray-gun:before {
+.game-icon-heat-haze:before {
 	content: "\E277";
 }
 
-.game-icon-reticule:before {
+.game-icon-hot-spices:before {
 	content: "\E278";
 }
 
-.game-icon-saber-slash:before {
+.game-icon-ifrit:before {
 	content: "\E279";
 }
 
-.game-icon-sabers-choc:before {
+.game-icon-kindle:before {
 	content: "\E27A";
 }
 
-.game-icon-sacrificial-dagger:before {
+.game-icon-lantern-flame:before {
 	content: "\E27B";
 }
 
-.game-icon-scalpel-strike:before {
+.game-icon-lit-candelabra:before {
 	content: "\E27C";
 }
 
-.game-icon-scythe:before {
+.game-icon-match-head:before {
 	content: "\E27D";
 }
 
-.game-icon-sentry-gun:before {
+.game-icon-match-tip:before {
 	content: "\E27E";
 }
 
-.game-icon-shuriken-2:before {
+.game-icon-molotov:before {
 	content: "\E27F";
 }
 
-.game-icon-slavery-whip:before {
+.game-icon-plasma-bolt:before {
 	content: "\E280";
 }
 
-.game-icon-sparkling-sabre:before {
+.game-icon-pyromaniac:before {
 	content: "\E281";
 }
 
-.game-icon-spiked-mace:before {
+.game-icon-salamander:before {
 	content: "\E282";
 }
 
-.game-icon-spray:before {
+.game-icon-small-fire:before {
 	content: "\E283";
 }
 
-.game-icon-stiletto:before {
+.game-icon-spark-spirit:before {
 	content: "\E284";
 }
 
-.game-icon-supersonic-bullet:before {
+.game-icon-three-burning-balls:before {
 	content: "\E285";
 }
 
-.game-icon-sword-clash:before {
+.game-icon-thrown-charcoal:before {
 	content: "\E286";
 }
 
-.game-icon-sword-in-stone:before {
+.game-icon-unfriendly-fire:before {
 	content: "\E287";
 }
 
-.game-icon-sword-spade:before {
+.game-icon-volcano:before {
 	content: "\E288";
 }
 
-.game-icon-tesla-turret:before {
+.game-icon-wildfires:before {
 	content: "\E289";
 }
 
-.game-icon-trefoil-shuriken:before {
+.game-icon-mite-alt:before {
 	content: "\E28A";
 }
 
-.game-icon-trident:before {
+.game-icon-spider-alt:before {
 	content: "\E28B";
 }
 
-.game-icon-wave-strike:before {
+.game-icon-spider-face:before {
 	content: "\E28C";
 }
 
-.game-icon-whip:before {
+.game-icon-earth-worm:before {
 	content: "\E28D";
 }
 
-.game-icon-winged-sword:before {
+.game-icon-flying-trout:before {
 	content: "\E28E";
 }
 
-.game-icon-wizard-staff:before {
+.game-icon-polar-bear:before {
 	content: "\E28F";
 }
 
-.game-icon-flame:before {
+.game-icon-plants-and-animals:before {
 	content: "\E290";
 }
 
-.game-icon-blast:before {
+.game-icon-big-egg:before {
 	content: "\E291";
 }
 
-.game-icon-blaster:before {
+.game-icon-claw:before {
 	content: "\E292";
 }
 
-.game-icon-burn:before {
+.game-icon-poison:before {
 	content: "\E293";
 }
 
-.game-icon-fire:before {
+.game-icon-bear-face:before {
 	content: "\E294";
 }
 
-.game-icon-fireflake:before {
+.game-icon-chess-knight:before {
 	content: "\E295";
 }
 
-.game-icon-flamer:before {
+.game-icon-donkey:before {
 	content: "\E296";
 }
 
-.game-icon-hot-surface:before {
+.game-icon-goat:before {
 	content: "\E297";
 }
 
-.game-icon-lava:before {
+.game-icon-long-legged-spider:before {
 	content: "\E298";
 }
 
-.game-icon-lucifer-cannon:before {
+.game-icon-mounted-knight:before {
 	content: "\E299";
 }
 
-.game-icon-burning-skull:before {
+.game-icon-pegasus:before {
 	content: "\E29A";
 }
 
-.game-icon-brasero:before {
+.game-icon-pig:before {
 	content: "\E29B";
 }
 
-.game-icon-candles:before {
+.game-icon-animal-hide:before {
 	content: "\E29C";
 }
 
-.game-icon-fire-extinguisher:before {
+.game-icon-bat-2:before {
 	content: "\E29D";
 }
 
-.game-icon-fire-flower:before {
+.game-icon-bear-head:before {
 	content: "\E29E";
 }
 
-.game-icon-fire-shrine:before {
+.game-icon-camel-head:before {
 	content: "\E29F";
 }
 
-.game-icon-fire-spell-cast:before {
+.game-icon-cassowary-head:before {
 	content: "\E2A0";
 }
 
-.game-icon-fish-smoking:before {
+.game-icon-charging-bull:before {
 	content: "\E2A1";
 }
 
-.game-icon-flint-spark:before {
+.game-icon-chicken:before {
 	content: "\E2A2";
 }
 
-.game-icon-lighter:before {
+.game-icon-clownfish:before {
 	content: "\E2A3";
 }
 
-.game-icon-primitive-torch:before {
+.game-icon-cow:before {
 	content: "\E2A4";
 }
 
-.game-icon-torch:before {
+.game-icon-cricket:before {
 	content: "\E2A5";
 }
 
-.game-icon-alien-fire:before {
+.game-icon-dolphin:before {
 	content: "\E2A6";
 }
 
-.game-icon-arson:before {
+.game-icon-duck:before {
 	content: "\E2A7";
 }
 
-.game-icon-burning-book:before {
+.game-icon-eagle-head:before {
 	content: "\E2A8";
 }
 
-.game-icon-burning-dot:before {
+.game-icon-elephant-head:before {
 	content: "\E2A9";
 }
 
-.game-icon-burning-embers:before {
+.game-icon-elephant:before {
 	content: "\E2AA";
 }
 
-.game-icon-burning-eye:before {
+.game-icon-falcon-moon:before {
 	content: "\E2AB";
 }
 
-.game-icon-burning-meteor:before {
+.game-icon-feline:before {
 	content: "\E2AC";
 }
 
-.game-icon-burning-passion:before {
+.game-icon-finch:before {
 	content: "\E2AD";
 }
 
-.game-icon-burning-tree:before {
+.game-icon-flamingo:before {
 	content: "\E2AE";
 }
 
-.game-icon-caldera:before {
+.game-icon-fox-tail:before {
 	content: "\E2AF";
 }
 
-.game-icon-campfire:before {
+.game-icon-giant-squid:before {
 	content: "\E2B0";
 }
 
-.game-icon-candle-flame:before {
+.game-icon-gorilla:before {
 	content: "\E2B1";
 }
 
-.game-icon-candle-holder:before {
+.game-icon-griffin-symbol:before {
 	content: "\E2B2";
 }
 
-.game-icon-candle-light:before {
+.game-icon-horse-head:before {
 	content: "\E2B3";
 }
 
-.game-icon-candlebright:before {
+.game-icon-ivory-tusks:before {
 	content: "\E2B4";
 }
 
-.game-icon-celebration-fire:before {
+.game-icon-kangaroo:before {
 	content: "\E2B5";
 }
 
-.game-icon-dragon-breath:before {
+.game-icon-koala:before {
 	content: "\E2B6";
 }
 
-.game-icon-ember-shot:before {
+.game-icon-lynx-head:before {
 	content: "\E2B7";
 }
 
-.game-icon-eruption:before {
+.game-icon-manta-ray:before {
 	content: "\E2B8";
 }
 
-.game-icon-fire-ace:before {
+.game-icon-panda:before {
 	content: "\E2B9";
 }
 
-.game-icon-fire-axe:before {
+.game-icon-penguin:before {
 	content: "\E2BA";
 }
 
-.game-icon-fire-bomb:before {
+.game-icon-praying-mantis:before {
 	content: "\E2BB";
 }
 
-.game-icon-fire-bottle:before {
+.game-icon-rabbit:before {
 	content: "\E2BC";
 }
 
-.game-icon-fire-bowl:before {
+.game-icon-rat:before {
 	content: "\E2BD";
 }
 
-.game-icon-fire-breath:before {
+.game-icon-rhinoceros-horn:before {
 	content: "\E2BE";
 }
 
-.game-icon-fire-dash:before {
+.game-icon-rooster:before {
 	content: "\E2BF";
 }
 
-.game-icon-fire-punch:before {
+.game-icon-saddle:before {
 	content: "\E2C0";
 }
 
-.game-icon-fire-ray:before {
+.game-icon-sea-star:before {
 	content: "\E2C1";
 }
 
-.game-icon-fire-ring:before {
+.game-icon-seahorse:before {
 	content: "\E2C2";
 }
 
-.game-icon-fire-silhouette:before {
+.game-icon-shark-bite:before {
 	content: "\E2C3";
 }
 
-.game-icon-fire-tail:before {
+.game-icon-shark-fin:before {
 	content: "\E2C4";
 }
 
-.game-icon-fire-wave:before {
+.game-icon-sheep:before {
 	content: "\E2C5";
 }
 
-.game-icon-fire-zone:before {
+.game-icon-snail-eyes:before {
 	content: "\E2C6";
 }
 
-.game-icon-fireball:before {
+.game-icon-sperm-whale:before {
 	content: "\E2C7";
 }
 
-.game-icon-firework-rocket:before {
+.game-icon-tiger-head:before {
 	content: "\E2C8";
 }
 
-.game-icon-flame-claws:before {
+.game-icon-tiger:before {
 	content: "\E2C9";
 }
 
-.game-icon-flame-spin:before {
+.game-icon-tortoise:before {
 	content: "\E2CA";
 }
 
-.game-icon-flame-tunnel:before {
+.game-icon-toucan:before {
 	content: "\E2CB";
 }
 
-.game-icon-flamed-leaf:before {
+.game-icon-trojan-horse:before {
 	content: "\E2CC";
 }
 
-.game-icon-flaming-claw:before {
+.game-icon-udder:before {
 	content: "\E2CD";
 }
 
-.game-icon-flaming-sheet:before {
+.game-icon-whale-tail:before {
 	content: "\E2CE";
 }
 
-.game-icon-fluffy-flame:before {
+.game-icon-wool:before {
 	content: "\E2CF";
 }
 
-.game-icon-frostfire:before {
+.game-icon-worms:before {
 	content: "\E2D0";
 }
 
-.game-icon-heartburn:before {
+.game-icon-ammonite-fossil:before {
 	content: "\E2D1";
 }
 
-.game-icon-heat-haze:before {
+.game-icon-ammonite:before {
 	content: "\E2D2";
 }
 
-.game-icon-hot-spices:before {
+.game-icon-angler-fish:before {
 	content: "\E2D3";
 }
 
-.game-icon-ifrit:before {
+.game-icon-angular-spider:before {
 	content: "\E2D4";
 }
 
-.game-icon-kindle:before {
+.game-icon-animal-skull:before {
 	content: "\E2D5";
 }
 
-.game-icon-lantern-flame:before {
+.game-icon-armadillo-tail:before {
 	content: "\E2D6";
 }
 
-.game-icon-lit-candelabra:before {
+.game-icon-bat-wing:before {
 	content: "\E2D7";
 }
 
-.game-icon-match-head:before {
+.game-icon-bee:before {
 	content: "\E2D8";
 }
 
-.game-icon-match-tip:before {
+.game-icon-bird-twitter:before {
 	content: "\E2D9";
 }
 
-.game-icon-molotov:before {
+.game-icon-black-cat:before {
 	content: "\E2DA";
 }
 
-.game-icon-plasma-bolt:before {
+.game-icon-boar-tusks:before {
 	content: "\E2DB";
 }
 
-.game-icon-pyromaniac:before {
+.game-icon-bull-horns:before {
 	content: "\E2DC";
 }
 
-.game-icon-salamander:before {
+.game-icon-bull:before {
 	content: "\E2DD";
 }
 
-.game-icon-small-fire:before {
+.game-icon-butterfly-warning:before {
 	content: "\E2DE";
 }
 
-.game-icon-spark-spirit:before {
+.game-icon-butterfly:before {
 	content: "\E2DF";
 }
 
-.game-icon-three-burning-balls:before {
+.game-icon-centipede:before {
 	content: "\E2E0";
 }
 
-.game-icon-thrown-charcoal:before {
+.game-icon-chicken-leg:before {
 	content: "\E2E1";
 }
 
-.game-icon-unfriendly-fire:before {
+.game-icon-cobweb:before {
 	content: "\E2E2";
 }
 
-.game-icon-volcano:before {
+.game-icon-crab-claw:before {
 	content: "\E2E3";
 }
 
-.game-icon-wildfires:before {
+.game-icon-crab:before {
 	content: "\E2E4";
 }
 
-.game-icon-mite-alt:before {
+.game-icon-croc-jaws:before {
 	content: "\E2E5";
 }
 
-.game-icon-spider-alt:before {
+.game-icon-crossed-claws:before {
 	content: "\E2E6";
 }
 
-.game-icon-spider-face:before {
+.game-icon-crow-dive:before {
 	content: "\E2E7";
 }
 
-.game-icon-earth-worm:before {
+.game-icon-desert-skull:before {
 	content: "\E2E8";
 }
 
-.game-icon-flying-trout:before {
+.game-icon-dinosaur-rex:before {
 	content: "\E2E9";
 }
 
-.game-icon-polar-bear:before {
+.game-icon-dragonfly:before {
 	content: "\E2EA";
 }
 
-.game-icon-plants-and-animals:before {
+.game-icon-earwig:before {
 	content: "\E2EB";
 }
 
-.game-icon-big-egg:before {
+.game-icon-evil-bat:before {
 	content: "\E2EC";
 }
 
-.game-icon-claw:before {
+.game-icon-fish-corpse:before {
 	content: "\E2ED";
 }
 
-.game-icon-poison:before {
+.game-icon-fishbone:before {
 	content: "\E2EE";
 }
 
-.game-icon-donkey:before {
+.game-icon-food-chain:before {
 	content: "\E2EF";
 }
 
-.game-icon-goat:before {
+.game-icon-fox-head:before {
 	content: "\E2F0";
 }
 
-.game-icon-long-legged-spider:before {
+.game-icon-frog:before {
 	content: "\E2F1";
 }
 
-.game-icon-mounted-knight:before {
+.game-icon-gecko:before {
 	content: "\E2F2";
 }
 
-.game-icon-pegasus:before {
+.game-icon-gold-scarab:before {
 	content: "\E2F3";
 }
 
-.game-icon-pig:before {
+.game-icon-grasping-claws:before {
 	content: "\E2F4";
 }
 
-.game-icon-bear-face:before {
+.game-icon-hanging-spider:before {
 	content: "\E2F5";
 }
 
-.game-icon-animal-hide:before {
+.game-icon-hoof:before {
 	content: "\E2F6";
 }
 
-.game-icon-bat-2:before {
+.game-icon-horse-head-2:before {
 	content: "\E2F7";
 }
 
-.game-icon-bear-head:before {
+.game-icon-hound:before {
 	content: "\E2F8";
 }
 
-.game-icon-camel-head:before {
+.game-icon-insect-jaws:before {
 	content: "\E2F9";
 }
 
-.game-icon-cassowary-head:before {
+.game-icon-jellyfish:before {
 	content: "\E2FA";
 }
 
-.game-icon-charging-bull:before {
+.game-icon-lamprey-mouth:before {
 	content: "\E2FB";
 }
 
-.game-icon-chicken:before {
+.game-icon-leeching-worm:before {
 	content: "\E2FC";
 }
 
-.game-icon-clownfish:before {
+.game-icon-lion:before {
 	content: "\E2FD";
 }
 
-.game-icon-cow:before {
+.game-icon-maggot:before {
 	content: "\E2FE";
 }
 
-.game-icon-cricket:before {
+.game-icon-masked-spider:before {
 	content: "\E2FF";
 }
 
-.game-icon-dolphin:before {
+.game-icon-minotaur:before {
 	content: "\E300";
 }
 
-.game-icon-duck:before {
+.game-icon-mite:before {
 	content: "\E301";
 }
 
-.game-icon-eagle-head:before {
+.game-icon-monkey:before {
 	content: "\E302";
 }
 
-.game-icon-elephant-head:before {
+.game-icon-mouse:before {
 	content: "\E303";
 }
 
-.game-icon-elephant:before {
+.game-icon-octopus:before {
 	content: "\E304";
 }
 
-.game-icon-falcon-moon:before {
+.game-icon-ouroboros:before {
 	content: "\E305";
 }
 
-.game-icon-feline:before {
+.game-icon-owl:before {
 	content: "\E306";
 }
 
-.game-icon-finch:before {
+.game-icon-parmecia:before {
 	content: "\E307";
 }
 
-.game-icon-flamingo:before {
+.game-icon-parrot-head:before {
 	content: "\E308";
 }
 
-.game-icon-fox-tail:before {
+.game-icon-paw-front:before {
 	content: "\E309";
 }
 
-.game-icon-giant-squid:before {
+.game-icon-paw-heart:before {
 	content: "\E30A";
 }
 
-.game-icon-gorilla:before {
+.game-icon-paw-print:before {
 	content: "\E30B";
 }
 
-.game-icon-griffin-symbol:before {
+.game-icon-paw:before {
 	content: "\E30C";
 }
 
-.game-icon-horse-head:before {
+.game-icon-raven:before {
 	content: "\E30D";
 }
 
-.game-icon-ivory-tusks:before {
+.game-icon-roast-chicken:before {
 	content: "\E30E";
 }
 
-.game-icon-kangaroo:before {
+.game-icon-sad-crab:before {
 	content: "\E30F";
 }
 
-.game-icon-koala:before {
+.game-icon-scarab-beetle:before {
 	content: "\E310";
 }
 
-.game-icon-lynx-head:before {
+.game-icon-scorpion-tail:before {
 	content: "\E311";
 }
 
-.game-icon-manta-ray:before {
+.game-icon-scorpion:before {
 	content: "\E312";
 }
 
-.game-icon-panda:before {
+.game-icon-sea-serpent:before {
 	content: "\E313";
 }
 
-.game-icon-penguin:before {
+.game-icon-seated-mouse:before {
 	content: "\E314";
 }
 
-.game-icon-praying-mantis:before {
+.game-icon-shark-jaws:before {
 	content: "\E315";
 }
 
-.game-icon-rabbit:before {
+.game-icon-snail:before {
 	content: "\E316";
 }
 
-.game-icon-rat:before {
+.game-icon-snake-bite:before {
 	content: "\E317";
 }
 
-.game-icon-rhinoceros-horn:before {
+.game-icon-snake-totem:before {
 	content: "\E318";
 }
 
-.game-icon-rooster:before {
+.game-icon-snake:before {
 	content: "\E319";
 }
 
-.game-icon-saddle:before {
+.game-icon-sonic-screech:before {
 	content: "\E31A";
 }
 
-.game-icon-sea-star:before {
+.game-icon-spider-web:before {
 	content: "\E31B";
 }
 
-.game-icon-seahorse:before {
+.game-icon-spiked-snail:before {
 	content: "\E31C";
 }
 
-.game-icon-shark-bite:before {
+.game-icon-squid-head:before {
 	content: "\E31D";
 }
 
-.game-icon-shark-fin:before {
+.game-icon-squid:before {
 	content: "\E31E";
 }
 
-.game-icon-sheep:before {
+.game-icon-stag-head:before {
 	content: "\E31F";
 }
 
-.game-icon-snail-eyes:before {
+.game-icon-stomp:before {
 	content: "\E320";
 }
 
-.game-icon-sperm-whale:before {
+.game-icon-swan:before {
 	content: "\E321";
 }
 
-.game-icon-tiger-head:before {
+.game-icon-tick:before {
 	content: "\E322";
 }
 
-.game-icon-tiger:before {
+.game-icon-top-paw:before {
 	content: "\E323";
 }
 
-.game-icon-tortoise:before {
+.game-icon-trilobite:before {
 	content: "\E324";
 }
 
-.game-icon-toucan:before {
+.game-icon-turd:before {
 	content: "\E325";
 }
 
-.game-icon-trojan-horse:before {
+.game-icon-turtle-shell:before {
 	content: "\E326";
 }
 
-.game-icon-udder:before {
+.game-icon-turtle:before {
 	content: "\E327";
 }
 
-.game-icon-whale-tail:before {
+.game-icon-virus:before {
 	content: "\E328";
 }
 
-.game-icon-wool:before {
+.game-icon-vulture:before {
 	content: "\E329";
 }
 
-.game-icon-worms:before {
+.game-icon-wasp-sting:before {
 	content: "\E32A";
 }
 
-.game-icon-ammonite-fossil:before {
+.game-icon-web-spit:before {
 	content: "\E32B";
 }
 
-.game-icon-ammonite:before {
+.game-icon-werewolf:before {
 	content: "\E32C";
 }
 
-.game-icon-angler-fish:before {
+.game-icon-white-cat:before {
 	content: "\E32D";
 }
 
-.game-icon-angular-spider:before {
+.game-icon-wolf-head:before {
 	content: "\E32E";
 }
 
-.game-icon-animal-skull:before {
+.game-icon-wolf-howl:before {
 	content: "\E32F";
 }
 
-.game-icon-armadillo-tail:before {
+.game-icon-wolverine-claws:before {
 	content: "\E330";
 }
 
-.game-icon-bat-wing:before {
+.game-icon-worm-mouth:before {
 	content: "\E331";
 }
 
-.game-icon-bee:before {
+.game-icon-spotted-bug:before {
 	content: "\E332";
 }
 
-.game-icon-bird-twitter:before {
+.game-icon-amber-mosquito:before {
 	content: "\E333";
 }
 
-.game-icon-black-cat:before {
+.game-icon-ant:before {
 	content: "\E334";
 }
 
-.game-icon-boar-tusks:before {
+.game-icon-ants:before {
 	content: "\E335";
 }
 
-.game-icon-bull-horns:before {
+.game-icon-beehive:before {
 	content: "\E336";
 }
 
-.game-icon-bull:before {
+.game-icon-caterpillar:before {
 	content: "\E337";
 }
 
-.game-icon-butterfly-warning:before {
+.game-icon-cigale:before {
 	content: "\E338";
 }
 
-.game-icon-butterfly:before {
+.game-icon-claws:before {
 	content: "\E339";
 }
 
-.game-icon-centipede:before {
+.game-icon-fly:before {
 	content: "\E33A";
 }
 
-.game-icon-chicken-leg:before {
+.game-icon-ladybug:before {
 	content: "\E33B";
 }
 
-.game-icon-cobweb:before {
+.game-icon-shrimp:before {
 	content: "\E33C";
 }
 
-.game-icon-crab-claw:before {
+.game-icon-tree-beehive:before {
 	content: "\E33D";
 }
 
-.game-icon-crab:before {
+.game-icon-apple-maggot:before {
 	content: "\E33E";
 }
 
-.game-icon-croc-jaws:before {
+.game-icon-beetle-shell:before {
 	content: "\E33F";
 }
 
-.game-icon-crossed-claws:before {
+.game-icon-dripping-honey:before {
 	content: "\E340";
 }
 
-.game-icon-crow-dive:before {
+.game-icon-honeycomb:before {
 	content: "\E341";
 }
 
-.game-icon-desert-skull:before {
+.game-icon-long-antennae-bug:before {
 	content: "\E342";
 }
 
-.game-icon-dinosaur-rex:before {
+.game-icon-opening-shell:before {
 	content: "\E343";
 }
 
-.game-icon-dragonfly:before {
+.game-icon-card-10-clubs:before {
 	content: "\E344";
 }
 
-.game-icon-earwig:before {
+.game-icon-card-10-diamonds:before {
 	content: "\E345";
 }
 
-.game-icon-evil-bat:before {
+.game-icon-card-10-hearts:before {
 	content: "\E346";
 }
 
-.game-icon-fish-corpse:before {
+.game-icon-card-10-spades:before {
 	content: "\E347";
 }
 
-.game-icon-fishbone:before {
+.game-icon-card-2-clubs:before {
 	content: "\E348";
 }
 
-.game-icon-food-chain:before {
+.game-icon-card-2-diamonds:before {
 	content: "\E349";
 }
 
-.game-icon-fox-head:before {
+.game-icon-card-2-hearts:before {
 	content: "\E34A";
 }
 
-.game-icon-frog:before {
+.game-icon-card-2-spades:before {
 	content: "\E34B";
 }
 
-.game-icon-gecko:before {
+.game-icon-card-3-clubs:before {
 	content: "\E34C";
 }
 
-.game-icon-gold-scarab:before {
+.game-icon-card-3-diamonds:before {
 	content: "\E34D";
 }
 
-.game-icon-grasping-claws:before {
+.game-icon-card-3-hearts:before {
 	content: "\E34E";
 }
 
-.game-icon-hanging-spider:before {
+.game-icon-card-3-spades:before {
 	content: "\E34F";
 }
 
-.game-icon-hoof:before {
+.game-icon-card-4-clubs:before {
 	content: "\E350";
 }
 
-.game-icon-horse-head-2:before {
+.game-icon-card-4-diamonds:before {
 	content: "\E351";
 }
 
-.game-icon-hound:before {
+.game-icon-card-4-hearts:before {
 	content: "\E352";
 }
 
-.game-icon-insect-jaws:before {
+.game-icon-card-4-spades:before {
 	content: "\E353";
 }
 
-.game-icon-jellyfish:before {
+.game-icon-card-5-clubs:before {
 	content: "\E354";
 }
 
-.game-icon-lamprey-mouth:before {
+.game-icon-card-5-diamonds:before {
 	content: "\E355";
 }
 
-.game-icon-leeching-worm:before {
+.game-icon-card-5-hearts:before {
 	content: "\E356";
 }
 
-.game-icon-lion:before {
+.game-icon-card-5-spades:before {
 	content: "\E357";
 }
 
-.game-icon-maggot:before {
+.game-icon-card-6-clubs:before {
 	content: "\E358";
 }
 
-.game-icon-masked-spider:before {
+.game-icon-card-6-diamonds:before {
 	content: "\E359";
 }
 
-.game-icon-minotaur:before {
+.game-icon-card-6-hearts:before {
 	content: "\E35A";
 }
 
-.game-icon-mite:before {
+.game-icon-card-6-spades:before {
 	content: "\E35B";
 }
 
-.game-icon-monkey:before {
+.game-icon-card-7-clubs:before {
 	content: "\E35C";
 }
 
-.game-icon-mouse:before {
+.game-icon-card-7-diamonds:before {
 	content: "\E35D";
 }
 
-.game-icon-octopus:before {
+.game-icon-card-7-hearts:before {
 	content: "\E35E";
 }
 
-.game-icon-ouroboros:before {
+.game-icon-card-7-spades:before {
 	content: "\E35F";
 }
 
-.game-icon-owl:before {
+.game-icon-card-8-clubs:before {
 	content: "\E360";
 }
 
-.game-icon-parmecia:before {
+.game-icon-card-8-diamonds:before {
 	content: "\E361";
 }
 
-.game-icon-parrot-head:before {
+.game-icon-card-8-hearts:before {
 	content: "\E362";
 }
 
-.game-icon-paw-front:before {
+.game-icon-card-8-spades:before {
 	content: "\E363";
 }
 
-.game-icon-paw-heart:before {
+.game-icon-card-9-clubs:before {
 	content: "\E364";
 }
 
-.game-icon-paw-print:before {
+.game-icon-card-9-diamonds:before {
 	content: "\E365";
 }
 
-.game-icon-paw:before {
+.game-icon-card-9-hearts:before {
 	content: "\E366";
 }
 
-.game-icon-raven:before {
+.game-icon-card-9-spades:before {
 	content: "\E367";
 }
 
-.game-icon-roast-chicken:before {
+.game-icon-card-ace-clubs:before {
 	content: "\E368";
 }
 
-.game-icon-sad-crab:before {
+.game-icon-card-ace-diamonds:before {
 	content: "\E369";
 }
 
-.game-icon-scarab-beetle:before {
+.game-icon-card-ace-hearts:before {
 	content: "\E36A";
 }
 
-.game-icon-scorpion-tail:before {
+.game-icon-card-ace-spades:before {
 	content: "\E36B";
 }
 
-.game-icon-scorpion:before {
+.game-icon-card-jack-clubs:before {
 	content: "\E36C";
 }
 
-.game-icon-sea-serpent:before {
+.game-icon-card-jack-diamonds:before {
 	content: "\E36D";
 }
 
-.game-icon-seated-mouse:before {
+.game-icon-card-jack-hearts:before {
 	content: "\E36E";
 }
 
-.game-icon-shark-jaws:before {
+.game-icon-card-jack-spades:before {
 	content: "\E36F";
 }
 
-.game-icon-snail:before {
+.game-icon-card-king-clubs:before {
 	content: "\E370";
 }
 
-.game-icon-snake-bite:before {
+.game-icon-card-king-diamonds:before {
 	content: "\E371";
 }
 
-.game-icon-snake-totem:before {
+.game-icon-card-king-hearts:before {
 	content: "\E372";
 }
 
-.game-icon-snake:before {
+.game-icon-card-king-spades:before {
 	content: "\E373";
 }
 
-.game-icon-sonic-screech:before {
+.game-icon-card-queen-clubs:before {
 	content: "\E374";
 }
 
-.game-icon-spider-web:before {
+.game-icon-card-queen-diamonds:before {
 	content: "\E375";
 }
 
-.game-icon-spiked-snail:before {
+.game-icon-card-queen-hearts:before {
 	content: "\E376";
 }
 
-.game-icon-squid-head:before {
+.game-icon-card-queen-spades:before {
 	content: "\E377";
 }
 
-.game-icon-squid:before {
+.game-icon-card-discard:before {
 	content: "\E378";
 }
 
-.game-icon-stag-head:before {
+.game-icon-card-pick:before {
 	content: "\E379";
 }
 
-.game-icon-stomp:before {
+.game-icon-card-random:before {
 	content: "\E37A";
 }
 
-.game-icon-swan:before {
+.game-icon-card-pickup:before {
 	content: "\E37B";
 }
 
-.game-icon-tick:before {
+.game-icon-card-play:before {
 	content: "\E37C";
 }
 
-.game-icon-top-paw:before {
+.game-icon-chess-bishop:before {
 	content: "\E37D";
 }
 
-.game-icon-trilobite:before {
+.game-icon-chess-pawn:before {
 	content: "\E37E";
 }
 
-.game-icon-turd:before {
+.game-icon-chess-rook:before {
 	content: "\E37F";
 }
 
-.game-icon-turtle-shell:before {
+.game-icon-hexes:before {
 	content: "\E380";
 }
 
-.game-icon-turtle:before {
+.game-icon-3d-meeple:before {
 	content: "\E381";
 }
 
-.game-icon-virus:before {
+.game-icon-ages:before {
 	content: "\E382";
 }
 
-.game-icon-vulture:before {
+.game-icon-backgammon:before {
 	content: "\E383";
 }
 
-.game-icon-wasp-sting:before {
+.game-icon-card-burn:before {
 	content: "\E384";
 }
 
-.game-icon-web-spit:before {
+.game-icon-card-joker:before {
 	content: "\E385";
 }
 
-.game-icon-werewolf:before {
+.game-icon-coins:before {
 	content: "\E386";
 }
 
-.game-icon-white-cat:before {
+.game-icon-conway-life-glider:before {
 	content: "\E387";
 }
 
-.game-icon-wolf-head:before {
+.game-icon-dice-six-faces-three:before {
 	content: "\E388";
 }
 
-.game-icon-wolf-howl:before {
+.game-icon-domino-tiles:before {
 	content: "\E389";
 }
 
-.game-icon-wolverine-claws:before {
+.game-icon-empty-chessboard:before {
 	content: "\E38A";
 }
 
-.game-icon-worm-mouth:before {
+.game-icon-meeple-group:before {
 	content: "\E38B";
 }
 
-.game-icon-spotted-bug:before {
+.game-icon-meeple-king:before {
 	content: "\E38C";
 }
 
-.game-icon-amber-mosquito:before {
+.game-icon-meeple:before {
 	content: "\E38D";
 }
 
-.game-icon-ant:before {
+.game-icon-pay-money:before {
 	content: "\E38E";
 }
 
-.game-icon-ants:before {
+.game-icon-perspective-dice-six-faces-four:before {
 	content: "\E38F";
 }
 
-.game-icon-beehive:before {
+.game-icon-receive-money:before {
 	content: "\E390";
 }
 
-.game-icon-caterpillar:before {
+.game-icon-rolling-dice-cup:before {
 	content: "\E391";
 }
 
-.game-icon-cigale:before {
+.game-icon-rolling-dices:before {
 	content: "\E392";
 }
 
-.game-icon-claws:before {
+.game-icon-round-table:before {
 	content: "\E393";
 }
 
-.game-icon-fly:before {
+.game-icon-stack:before {
 	content: "\E394";
 }
 
-.game-icon-ladybug:before {
+.game-icon-tabletop-players:before {
 	content: "\E395";
 }
 
-.game-icon-shrimp:before {
+.game-icon-tic-tac-toe:before {
 	content: "\E396";
 }
 
-.game-icon-tree-beehive:before {
+.game-icon-two-coins:before {
 	content: "\E397";
 }
 
-.game-icon-apple-maggot:before {
+.game-icon-hourglass:before {
 	content: "\E398";
 }
 
-.game-icon-beetle-shell:before {
+.game-icon-pawn:before {
 	content: "\E399";
 }
 
-.game-icon-dripping-honey:before {
+.game-icon-poker-hand:before {
 	content: "\E39A";
 }
 
-.game-icon-long-antennae-bug:before {
+.game-icon-stopwatch:before {
 	content: "\E39B";
 }
 
-.game-icon-opening-shell:before {
+.game-icon-suits:before {
 	content: "\E39C";
 }
 
@@ -3968,11 +3968,11 @@
 	content: "\E3DB";
 }
 
-.game-icon-orbit:before {
+.game-icon-digital-trace:before {
 	content: "\E3DC";
 }
 
-.game-icon-digital-trace:before {
+.game-icon-orbit:before {
 	content: "\E3DD";
 }
 
@@ -4908,15 +4908,15 @@
 	content: "\E4C6";
 }
 
-.game-icon-hearing-disabled:before {
+.game-icon-violin:before {
 	content: "\E4C7";
 }
 
-.game-icon-sound-waves:before {
+.game-icon-hearing-disabled:before {
 	content: "\E4C8";
 }
 
-.game-icon-violin:before {
+.game-icon-sound-waves:before {
 	content: "\E4C9";
 }
 
@@ -8088,19 +8088,19 @@
 	content: "\E7E1";
 }
 
-.game-icon-breaking-chain:before {
+.game-icon-gold-bar:before {
 	content: "\E7E2";
 }
 
-.game-icon-steel-claws:before {
+.game-icon-breaking-chain:before {
 	content: "\E7E3";
 }
 
-.game-icon-steel-door:before {
+.game-icon-steel-claws:before {
 	content: "\E7E4";
 }
 
-.game-icon-gold-bar:before {
+.game-icon-steel-door:before {
 	content: "\E7E5";
 }
 
@@ -8388,5282 +8388,5306 @@
 	content: "\E82C";
 }
 
-.game-icon-catapult:before {
+.game-icon-health-decrease:before {
 	content: "\E82D";
 }
 
-.game-icon-computing:before {
+.game-icon-health-increase:before {
 	content: "\E82E";
 }
 
-.game-icon-diagram:before {
+.game-icon-health-normal:before {
 	content: "\E82F";
 }
 
-.game-icon-microscope:before {
+.game-icon-medical-pack-alt:before {
 	content: "\E830";
 }
 
-.game-icon-tesla:before {
+.game-icon-medical-pack:before {
 	content: "\E831";
 }
 
-.game-icon-unplugged:before {
+.game-icon-heart-minus:before {
 	content: "\E832";
 }
 
-.game-icon-beam-satellite:before {
+.game-icon-heart-plus:before {
 	content: "\E833";
 }
 
-.game-icon-bouncing-spring:before {
+.game-icon-fetus:before {
 	content: "\E834";
 }
 
-.game-icon-candlestick-phone:before {
+.game-icon-eternal-love:before {
 	content: "\E835";
 }
 
-.game-icon-computer-fan:before {
+.game-icon-first-aid-kit:before {
 	content: "\E836";
 }
 
-.game-icon-drill:before {
+.game-icon-foot-plaster:before {
 	content: "\E837";
 }
 
-.game-icon-floor-polisher:before {
+.game-icon-hand-bandage:before {
 	content: "\E838";
 }
 
-.game-icon-gps:before {
+.game-icon-healing:before {
 	content: "\E839";
 }
 
-.game-icon-pipes:before {
+.game-icon-health-capsule:before {
 	content: "\E83A";
 }
 
-.game-icon-plug:before {
+.game-icon-health-potion:before {
 	content: "\E83B";
 }
 
-.game-icon-power-generator:before {
+.game-icon-herbs-bundle:before {
 	content: "\E83C";
 }
 
-.game-icon-round-knob:before {
+.game-icon-life-bar:before {
 	content: "\E83D";
 }
 
-.game-icon-satellite-communication:before {
+.game-icon-medicine-pills:before {
 	content: "\E83E";
 }
 
-.game-icon-settings-knobs:before {
+.game-icon-medicines:before {
 	content: "\E83F";
 }
 
-.game-icon-star-gate:before {
+.game-icon-nested-hearts:before {
 	content: "\E840";
 }
 
-.game-icon-tv:before {
+.game-icon-stethoscope:before {
 	content: "\E841";
 }
 
-.game-icon-vacuum-cleaner:before {
+.game-icon-broken-heart:before {
 	content: "\E842";
 }
 
-.game-icon-valve:before {
+.game-icon-defibrilate:before {
 	content: "\E843";
 }
 
-.game-icon-vending-machine:before {
+.game-icon-embryo:before {
 	content: "\E844";
 }
 
-.game-icon-auto-repair:before {
+.game-icon-heart-bottle:before {
 	content: "\E845";
 }
 
-.game-icon-circuitry:before {
+.game-icon-life-support:before {
 	content: "\E846";
 }
 
-.game-icon-clockwork:before {
+.game-icon-life-tap:before {
 	content: "\E847";
 }
 
-.game-icon-cog-lock:before {
+.game-icon-love-injection:before {
 	content: "\E848";
 }
 
-.game-icon-cog:before {
+.game-icon-miracle-medecine:before {
 	content: "\E849";
 }
 
-.game-icon-cogsplosion:before {
+.game-icon-overdose:before {
 	content: "\E84A";
 }
 
-.game-icon-drill-2:before {
+.game-icon-pill-drop:before {
 	content: "\E84B";
 }
 
-.game-icon-gears:before {
+.game-icon-pill:before {
 	content: "\E84C";
 }
 
-.game-icon-lever:before {
+.game-icon-scalpel:before {
 	content: "\E84D";
 }
 
-.game-icon-mechanical-arm:before {
+.game-icon-sticking-plaster:before {
 	content: "\E84E";
 }
 
-.game-icon-microchip:before {
+.game-icon-syringe:before {
 	content: "\E84F";
 }
 
-.game-icon-microscope-lens:before {
+.game-icon-catapult:before {
 	content: "\E850";
 }
 
-.game-icon-overdrive:before {
+.game-icon-computing:before {
 	content: "\E851";
 }
 
-.game-icon-pokecog:before {
+.game-icon-diagram:before {
 	content: "\E852";
 }
 
-.game-icon-processor:before {
+.game-icon-microscope:before {
 	content: "\E853";
 }
 
-.game-icon-sattelite:before {
+.game-icon-tesla:before {
 	content: "\E854";
 }
 
-.game-icon-skid-mark:before {
+.game-icon-unplugged:before {
 	content: "\E855";
 }
 
-.game-icon-spoutnik:before {
+.game-icon-ancient-screw:before {
 	content: "\E856";
 }
 
-.game-icon-tyre:before {
+.game-icon-beam-satellite:before {
 	content: "\E857";
 }
 
-.game-icon-revolt:before {
+.game-icon-bouncing-spring:before {
 	content: "\E858";
 }
 
-.game-icon-robber-hand:before {
+.game-icon-candlestick-phone:before {
 	content: "\E859";
 }
 
-.game-icon-severed-hand:before {
+.game-icon-computer-fan:before {
 	content: "\E85A";
 }
 
-.game-icon-fingers-crossed:before {
+.game-icon-drill:before {
 	content: "\E85B";
 }
 
-.game-icon-paper:before {
+.game-icon-floor-polisher:before {
 	content: "\E85C";
 }
 
-.game-icon-rock:before {
+.game-icon-gps:before {
 	content: "\E85D";
 }
 
-.game-icon-scissors:before {
+.game-icon-pipes:before {
 	content: "\E85E";
 }
 
-.game-icon-hand:before {
+.game-icon-plug:before {
 	content: "\E85F";
 }
 
-.game-icon-revolt-2:before {
+.game-icon-power-generator:before {
 	content: "\E860";
 }
 
-.game-icon-usable:before {
+.game-icon-round-knob:before {
 	content: "\E861";
 }
 
-.game-icon-click:before {
+.game-icon-satellite-communication:before {
 	content: "\E862";
 }
 
-.game-icon-fist:before {
+.game-icon-settings-knobs:before {
 	content: "\E863";
 }
 
-.game-icon-halt:before {
+.game-icon-star-gate:before {
 	content: "\E864";
 }
 
-.game-icon-open-palm:before {
+.game-icon-tv:before {
 	content: "\E865";
 }
 
-.game-icon-raise-skeleton:before {
+.game-icon-vacuum-cleaner:before {
 	content: "\E866";
 }
 
-.game-icon-armor-punch:before {
+.game-icon-valve:before {
 	content: "\E867";
 }
 
-.game-icon-baseball-glove:before {
+.game-icon-vending-machine:before {
 	content: "\E868";
 }
 
-.game-icon-bolt-spell-cast:before {
+.game-icon-auto-repair:before {
 	content: "\E869";
 }
 
-.game-icon-cherish:before {
+.game-icon-circuitry:before {
 	content: "\E86A";
 }
 
-.game-icon-finger-print:before {
+.game-icon-clockwork:before {
 	content: "\E86B";
 }
 
-.game-icon-fingernail:before {
+.game-icon-cog-lock:before {
 	content: "\E86C";
 }
 
-.game-icon-gauntlet:before {
+.game-icon-cog:before {
 	content: "\E86D";
 }
 
-.game-icon-gloves:before {
+.game-icon-cogsplosion:before {
 	content: "\E86E";
 }
 
-.game-icon-hand-grip:before {
+.game-icon-drill-2:before {
 	content: "\E86F";
 }
 
-.game-icon-hand-of-god:before {
+.game-icon-gears:before {
 	content: "\E870";
 }
 
-.game-icon-hand-ok:before {
+.game-icon-lever:before {
 	content: "\E871";
 }
 
-.game-icon-handcuffed:before {
+.game-icon-mechanical-arm:before {
 	content: "\E872";
 }
 
-.game-icon-pirate-hook:before {
+.game-icon-microchip:before {
 	content: "\E873";
 }
 
-.game-icon-take-my-money:before {
+.game-icon-microscope-lens:before {
 	content: "\E874";
 }
 
-.game-icon-thumb-down:before {
+.game-icon-overdrive:before {
 	content: "\E875";
 }
 
-.game-icon-thumb-up:before {
+.game-icon-pokecog:before {
 	content: "\E876";
 }
 
-.game-icon-boxing-glove-surprise:before {
+.game-icon-processor:before {
 	content: "\E877";
 }
 
-.game-icon-boxing-glove:before {
+.game-icon-sattelite:before {
 	content: "\E878";
 }
 
-.game-icon-cut-palm:before {
+.game-icon-skid-mark:before {
 	content: "\E879";
 }
 
-.game-icon-evil-hand:before {
+.game-icon-spoutnik:before {
 	content: "\E87A";
 }
 
-.game-icon-fist-2:before {
+.game-icon-tyre:before {
 	content: "\E87B";
 }
 
-.game-icon-fulguro-punch:before {
+.game-icon-revolt:before {
 	content: "\E87C";
 }
 
-.game-icon-gift-of-knowledge:before {
+.game-icon-robber-hand:before {
 	content: "\E87D";
 }
 
-.game-icon-glowing-hands:before {
+.game-icon-severed-hand:before {
 	content: "\E87E";
 }
 
-.game-icon-hand-2:before {
+.game-icon-fingers-crossed:before {
 	content: "\E87F";
 }
 
-.game-icon-high-five:before {
+.game-icon-paper:before {
 	content: "\E880";
 }
 
-.game-icon-magic-palm:before {
+.game-icon-rock:before {
 	content: "\E881";
 }
 
-.game-icon-magic-swirl:before {
+.game-icon-scissors:before {
 	content: "\E882";
 }
 
-.game-icon-mailed-fist:before {
+.game-icon-hand:before {
 	content: "\E883";
 }
 
-.game-icon-monster-grasp:before {
+.game-icon-revolt-2:before {
 	content: "\E884";
 }
 
-.game-icon-moon-claws:before {
+.game-icon-usable:before {
 	content: "\E885";
 }
 
-.game-icon-punch-blast:before {
+.game-icon-click:before {
 	content: "\E886";
 }
 
-.game-icon-punch:before {
+.game-icon-fist:before {
 	content: "\E887";
 }
 
-.game-icon-shadow-grasp:before {
+.game-icon-halt:before {
 	content: "\E888";
 }
 
-.game-icon-stigmata:before {
+.game-icon-open-palm:before {
 	content: "\E889";
 }
 
-.game-icon-thor-fist:before {
+.game-icon-raise-skeleton:before {
 	content: "\E88A";
 }
 
-.game-icon-box-trap:before {
+.game-icon-armor-punch:before {
 	content: "\E88B";
 }
 
-.game-icon-oil-drum:before {
+.game-icon-baseball-glove:before {
 	content: "\E88C";
 }
 
-.game-icon-open-chest:before {
+.game-icon-bolt-spell-cast:before {
 	content: "\E88D";
 }
 
-.game-icon-open-treasure-chest:before {
+.game-icon-cherish:before {
 	content: "\E88E";
 }
 
-.game-icon-backpack:before {
+.game-icon-finger-print:before {
 	content: "\E88F";
 }
 
-.game-icon-beach-bucket:before {
+.game-icon-fingernail:before {
 	content: "\E890";
 }
 
-.game-icon-bindle:before {
+.game-icon-gauntlet:before {
 	content: "\E891";
 }
 
-.game-icon-briefcase:before {
+.game-icon-gloves:before {
 	content: "\E892";
 }
 
-.game-icon-cardboard-box:before {
+.game-icon-hand-grip:before {
 	content: "\E893";
 }
 
-.game-icon-chest:before {
+.game-icon-hand-of-god:before {
 	content: "\E894";
 }
 
-.game-icon-companion-cube:before {
+.game-icon-hand-ok:before {
 	content: "\E895";
 }
 
-.game-icon-database:before {
+.game-icon-handcuffed:before {
 	content: "\E896";
 }
 
-.game-icon-energy-tank:before {
+.game-icon-pirate-hook:before {
 	content: "\E897";
 }
 
-.game-icon-fuel-tank:before {
+.game-icon-take-my-money:before {
 	content: "\E898";
 }
 
-.game-icon-hand-bag:before {
+.game-icon-thumb-down:before {
 	content: "\E899";
 }
 
-.game-icon-health-capsule:before {
+.game-icon-thumb-up:before {
 	content: "\E89A";
 }
 
-.game-icon-jerrycan:before {
+.game-icon-boxing-glove-surprise:before {
 	content: "\E89B";
 }
 
-.game-icon-light-backpack:before {
+.game-icon-boxing-glove:before {
 	content: "\E89C";
 }
 
-.game-icon-locked-box:before {
+.game-icon-cut-palm:before {
 	content: "\E89D";
 }
 
-.game-icon-magic-potion:before {
+.game-icon-evil-hand:before {
 	content: "\E89E";
 }
 
-.game-icon-matryoshka-dolls:before {
+.game-icon-fist-2:before {
 	content: "\E89F";
 }
 
-.game-icon-opened-food-can:before {
+.game-icon-fulguro-punch:before {
 	content: "\E8A0";
 }
 
-.game-icon-paper-tray:before {
+.game-icon-gift-of-knowledge:before {
 	content: "\E8A1";
 }
 
-.game-icon-powder-bag:before {
+.game-icon-glowing-hands:before {
 	content: "\E8A2";
 }
 
-.game-icon-present:before {
+.game-icon-hand-2:before {
 	content: "\E8A3";
 }
 
-.game-icon-shoulder-bag:before {
+.game-icon-high-five:before {
 	content: "\E8A4";
 }
 
-.game-icon-suitcase:before {
+.game-icon-magic-palm:before {
 	content: "\E8A5";
 }
 
-.game-icon-toolbox:before {
+.game-icon-magic-swirl:before {
 	content: "\E8A6";
 }
 
-.game-icon-watering-can:before {
+.game-icon-mailed-fist:before {
 	content: "\E8A7";
 }
 
-.game-icon-cannister:before {
+.game-icon-monster-grasp:before {
 	content: "\E8A8";
 }
 
-.game-icon-chemical-tank:before {
+.game-icon-moon-claws:before {
 	content: "\E8A9";
 }
 
-.game-icon-jigsaw-box:before {
+.game-icon-punch-blast:before {
 	content: "\E8AA";
 }
 
-.game-icon-knapsack:before {
+.game-icon-punch:before {
 	content: "\E8AB";
 }
 
-.game-icon-locked-chest:before {
+.game-icon-shadow-grasp:before {
 	content: "\E8AC";
 }
 
-.game-icon-shiny-purse:before {
+.game-icon-stigmata:before {
 	content: "\E8AD";
 }
 
-.game-icon-swap-bag:before {
+.game-icon-thor-fist:before {
 	content: "\E8AE";
 }
 
-.game-icon-milk-carton:before {
+.game-icon-box-trap:before {
 	content: "\E8AF";
 }
 
-.game-icon-acid:before {
+.game-icon-oil-drum:before {
 	content: "\E8B0";
 }
 
-.game-icon-water-drop:before {
+.game-icon-open-chest:before {
 	content: "\E8B1";
 }
 
-.game-icon-blood:before {
+.game-icon-open-treasure-chest:before {
 	content: "\E8B2";
 }
 
-.game-icon-booze:before {
+.game-icon-backpack:before {
 	content: "\E8B3";
 }
 
-.game-icon-holy-water:before {
+.game-icon-beach-bucket:before {
 	content: "\E8B4";
 }
 
-.game-icon-leak:before {
+.game-icon-bindle:before {
 	content: "\E8B5";
 }
 
-.game-icon-lily-pads:before {
+.game-icon-briefcase:before {
 	content: "\E8B6";
 }
 
-.game-icon-shower:before {
+.game-icon-cardboard-box:before {
 	content: "\E8B7";
 }
 
-.game-icon-tap:before {
+.game-icon-chest:before {
 	content: "\E8B8";
 }
 
-.game-icon-water-bottle:before {
+.game-icon-companion-cube:before {
 	content: "\E8B9";
 }
 
-.game-icon-water-gallon:before {
+.game-icon-database:before {
 	content: "\E8BA";
 }
 
-.game-icon-acid-blob:before {
+.game-icon-disc-golf-bag:before {
 	content: "\E8BB";
 }
 
-.game-icon-beer-stein:before {
+.game-icon-energy-tank:before {
 	content: "\E8BC";
 }
 
-.game-icon-bleeding-eye:before {
+.game-icon-fuel-tank:before {
 	content: "\E8BD";
 }
 
-.game-icon-boiling-bubbles:before {
+.game-icon-hand-bag:before {
 	content: "\E8BE";
 }
 
-.game-icon-bubbles:before {
+.game-icon-jerrycan:before {
 	content: "\E8BF";
 }
 
-.game-icon-burst-blob:before {
+.game-icon-light-backpack:before {
 	content: "\E8C0";
 }
 
-.game-icon-chemical-drop:before {
+.game-icon-locked-box:before {
 	content: "\E8C1";
 }
 
-.game-icon-crystalize:before {
+.game-icon-magic-potion:before {
 	content: "\E8C2";
 }
 
-.game-icon-dew:before {
+.game-icon-matryoshka-dolls:before {
 	content: "\E8C3";
 }
 
-.game-icon-drink-me:before {
+.game-icon-opened-food-can:before {
 	content: "\E8C4";
 }
 
-.game-icon-dripping-blade:before {
+.game-icon-paper-tray:before {
 	content: "\E8C5";
 }
 
-.game-icon-dripping-goo:before {
+.game-icon-powder-bag:before {
 	content: "\E8C6";
 }
 
-.game-icon-dripping-star:before {
+.game-icon-present:before {
 	content: "\E8C7";
 }
 
-.game-icon-dripping-stone:before {
+.game-icon-shoulder-bag:before {
 	content: "\E8C8";
 }
 
-.game-icon-dripping-sword:before {
+.game-icon-suitcase:before {
 	content: "\E8C9";
 }
 
-.game-icon-drop:before {
+.game-icon-toolbox:before {
 	content: "\E8CA";
 }
 
-.game-icon-droplet-splash:before {
+.game-icon-watering-can:before {
 	content: "\E8CB";
 }
 
-.game-icon-droplets:before {
+.game-icon-cannister:before {
 	content: "\E8CC";
 }
 
-.game-icon-eyedropper:before {
+.game-icon-chemical-tank:before {
 	content: "\E8CD";
 }
 
-.game-icon-foam:before {
+.game-icon-jigsaw-box:before {
 	content: "\E8CE";
 }
 
-.game-icon-gloop:before {
+.game-icon-knapsack:before {
 	content: "\E8CF";
 }
 
-.game-icon-goo-explosion:before {
+.game-icon-locked-chest:before {
 	content: "\E8D0";
 }
 
-.game-icon-goo-skull:before {
+.game-icon-shiny-purse:before {
 	content: "\E8D1";
 }
 
-.game-icon-goo-spurt:before {
+.game-icon-swap-bag:before {
 	content: "\E8D2";
 }
 
-.game-icon-gooey-impact:before {
+.game-icon-milk-carton:before {
 	content: "\E8D3";
 }
 
-.game-icon-gooey-molecule:before {
+.game-icon-acid:before {
 	content: "\E8D4";
 }
 
-.game-icon-gooey-sword:before {
+.game-icon-water-drop:before {
 	content: "\E8D5";
 }
 
-.game-icon-grease-trap:before {
+.game-icon-blood:before {
 	content: "\E8D6";
 }
 
-.game-icon-grouped-drops:before {
+.game-icon-booze:before {
 	content: "\E8D7";
 }
 
-.game-icon-heart-drop:before {
+.game-icon-holy-water:before {
 	content: "\E8D8";
 }
 
-.game-icon-heavy-rain:before {
+.game-icon-leak:before {
 	content: "\E8D9";
 }
 
-.game-icon-hypodermic-test:before {
+.game-icon-lily-pads:before {
 	content: "\E8DA";
 }
 
-.game-icon-kaleidoscope-pearls:before {
+.game-icon-shower:before {
 	content: "\E8DB";
 }
 
-.game-icon-marrow-drain:before {
+.game-icon-tap:before {
 	content: "\E8DC";
 }
 
-.game-icon-oily-spiral:before {
+.game-icon-water-bottle:before {
 	content: "\E8DD";
 }
 
-.game-icon-poison-bottle:before {
+.game-icon-water-gallon:before {
 	content: "\E8DE";
 }
 
-.game-icon-ragged-wound:before {
+.game-icon-acid-blob:before {
 	content: "\E8DF";
 }
 
-.game-icon-spatter:before {
+.game-icon-beer-stein:before {
 	content: "\E8E0";
 }
 
-.game-icon-spill:before {
+.game-icon-bleeding-eye:before {
 	content: "\E8E1";
 }
 
-.game-icon-splash:before {
+.game-icon-boiling-bubbles:before {
 	content: "\E8E2";
 }
 
-.game-icon-splashy-stream:before {
+.game-icon-bubbles:before {
 	content: "\E8E3";
 }
 
-.game-icon-splurt:before {
+.game-icon-burst-blob:before {
 	content: "\E8E4";
 }
 
-.game-icon-transparent-tubes:before {
+.game-icon-chemical-drop:before {
 	content: "\E8E5";
 }
 
-.game-icon-water-bolt:before {
+.game-icon-crystalize:before {
 	content: "\E8E6";
 }
 
-.game-icon-skull-sabertooth:before {
+.game-icon-dew:before {
 	content: "\E8E7";
 }
 
-.game-icon-death-skull:before {
+.game-icon-drink-me:before {
 	content: "\E8E8";
 }
 
-.game-icon-skull-with-syringe:before {
+.game-icon-dripping-blade:before {
 	content: "\E8E9";
 }
 
-.game-icon-calavera:before {
+.game-icon-dripping-goo:before {
 	content: "\E8EA";
 }
 
-.game-icon-alien-skull:before {
+.game-icon-dripping-star:before {
 	content: "\E8EB";
 }
 
-.game-icon-blade-bite:before {
+.game-icon-dripping-stone:before {
 	content: "\E8EC";
 }
 
-.game-icon-bone-gnawer:before {
+.game-icon-dripping-sword:before {
 	content: "\E8ED";
 }
 
-.game-icon-broken-skull:before {
+.game-icon-drop:before {
 	content: "\E8EE";
 }
 
-.game-icon-chewed-skull:before {
+.game-icon-droplet-splash:before {
 	content: "\E8EF";
 }
 
-.game-icon-chopped-skull:before {
+.game-icon-droplets:before {
 	content: "\E8F0";
 }
 
-.game-icon-condylura-skull:before {
+.game-icon-eyedropper:before {
 	content: "\E8F1";
 }
 
-.game-icon-death-note:before {
+.game-icon-foam:before {
 	content: "\E8F2";
 }
 
-.game-icon-deathcab:before {
+.game-icon-gloop:before {
 	content: "\E8F3";
 }
 
-.game-icon-dread-skull:before {
+.game-icon-goo-explosion:before {
 	content: "\E8F4";
 }
 
-.game-icon-fanged-skull:before {
+.game-icon-goo-skull:before {
 	content: "\E8F5";
 }
 
-.game-icon-happy-skull:before {
+.game-icon-goo-spurt:before {
 	content: "\E8F6";
 }
 
-.game-icon-harry-potter-skull:before {
+.game-icon-gooey-impact:before {
 	content: "\E8F7";
 }
 
-.game-icon-leaky-skull:before {
+.game-icon-gooey-molecule:before {
 	content: "\E8F8";
 }
 
-.game-icon-morbid-humour:before {
+.game-icon-gooey-sword:before {
 	content: "\E8F9";
 }
 
-.game-icon-piece-skull:before {
+.game-icon-grease-trap:before {
 	content: "\E8FA";
 }
 
-.game-icon-pirate-skull:before {
+.game-icon-grouped-drops:before {
 	content: "\E8FB";
 }
 
-.game-icon-sharped-teeth-skull:before {
+.game-icon-heart-drop:before {
 	content: "\E8FC";
 }
 
-.game-icon-skeleton-key:before {
+.game-icon-heavy-rain:before {
 	content: "\E8FD";
 }
 
-.game-icon-skull-bolt:before {
+.game-icon-hypodermic-test:before {
 	content: "\E8FE";
 }
 
-.game-icon-skull-crack:before {
+.game-icon-kaleidoscope-pearls:before {
 	content: "\E8FF";
 }
 
-.game-icon-skull-in-jar:before {
+.game-icon-marrow-drain:before {
 	content: "\E900";
 }
 
-.game-icon-skull-mask:before {
+.game-icon-oily-spiral:before {
 	content: "\E901";
 }
 
-.game-icon-skull-slices:before {
+.game-icon-poison-bottle:before {
 	content: "\E902";
 }
 
-.game-icon-spade-skull:before {
+.game-icon-ragged-wound:before {
 	content: "\E903";
 }
 
-.game-icon-star-skull:before {
+.game-icon-spatter:before {
 	content: "\E904";
 }
 
-.game-icon-tentacles-skull:before {
+.game-icon-spill:before {
 	content: "\E905";
 }
 
-.game-icon-thunder-skull:before {
+.game-icon-splash:before {
 	content: "\E906";
 }
 
-.game-icon-triple-skulls:before {
+.game-icon-splashy-stream:before {
 	content: "\E907";
 }
 
-.game-icon-soda-can:before {
+.game-icon-splurt:before {
 	content: "\E908";
 }
 
-.game-icon-chocolate-bar:before {
+.game-icon-transparent-tubes:before {
 	content: "\E909";
 }
 
-.game-icon-peanut:before {
+.game-icon-water-bolt:before {
 	content: "\E90A";
 }
 
-.game-icon-ham-shank:before {
+.game-icon-skull-sabertooth:before {
 	content: "\E90B";
 }
 
-.game-icon-almond:before {
+.game-icon-death-skull:before {
 	content: "\E90C";
 }
 
-.game-icon-banana:before {
+.game-icon-skull-with-syringe:before {
 	content: "\E90D";
 }
 
-.game-icon-beer-bottle:before {
+.game-icon-calavera:before {
 	content: "\E90E";
 }
 
-.game-icon-beet:before {
+.game-icon-alien-skull:before {
 	content: "\E90F";
 }
 
-.game-icon-berries-bowl:before {
+.game-icon-blade-bite:before {
 	content: "\E910";
 }
 
-.game-icon-bread:before {
+.game-icon-bone-gnawer:before {
 	content: "\E911";
 }
 
-.game-icon-candy-canes:before {
+.game-icon-broken-skull:before {
 	content: "\E912";
 }
 
-.game-icon-carrot:before {
+.game-icon-chewed-skull:before {
 	content: "\E913";
 }
 
-.game-icon-cherry:before {
+.game-icon-chopped-skull:before {
 	content: "\E914";
 }
 
-.game-icon-chili-pepper:before {
+.game-icon-condylura-skull:before {
 	content: "\E915";
 }
 
-.game-icon-chips-bag:before {
+.game-icon-death-note:before {
 	content: "\E916";
 }
 
-.game-icon-coffee-beans:before {
+.game-icon-deathcab:before {
 	content: "\E917";
 }
 
-.game-icon-cookie:before {
+.game-icon-dread-skull:before {
 	content: "\E918";
 }
 
-.game-icon-corn:before {
+.game-icon-fanged-skull:before {
 	content: "\E919";
 }
 
-.game-icon-croissant:before {
+.game-icon-happy-skull:before {
 	content: "\E91A";
 }
 
-.game-icon-cupcake:before {
+.game-icon-harry-potter-skull:before {
 	content: "\E91B";
 }
 
-.game-icon-dango:before {
+.game-icon-leaky-skull:before {
 	content: "\E91C";
 }
 
-.game-icon-dog-bowl:before {
+.game-icon-morbid-humour:before {
 	content: "\E91D";
 }
 
-.game-icon-donut:before {
+.game-icon-piece-skull:before {
 	content: "\E91E";
 }
 
-.game-icon-garlic:before {
+.game-icon-pirate-skull:before {
 	content: "\E91F";
 }
 
-.game-icon-gingerbread-man:before {
+.game-icon-sharped-teeth-skull:before {
 	content: "\E920";
 }
 
-.game-icon-grain:before {
+.game-icon-skeleton-key:before {
 	content: "\E921";
 }
 
-.game-icon-hamburger:before {
+.game-icon-skull-bolt:before {
 	content: "\E922";
 }
 
-.game-icon-herbs-bundle:before {
+.game-icon-skull-crack:before {
 	content: "\E923";
 }
 
-.game-icon-hot-meal:before {
+.game-icon-skull-in-jar:before {
 	content: "\E924";
 }
 
-.game-icon-kiwi-fruit:before {
+.game-icon-skull-mask:before {
 	content: "\E925";
 }
 
-.game-icon-mushrooms:before {
+.game-icon-skull-slices:before {
 	content: "\E926";
 }
 
-.game-icon-noodles:before {
+.game-icon-spade-skull:before {
 	content: "\E927";
 }
 
-.game-icon-oden:before {
+.game-icon-star-skull:before {
 	content: "\E928";
 }
 
-.game-icon-olive:before {
+.game-icon-tentacles-skull:before {
 	content: "\E929";
 }
 
-.game-icon-pear:before {
+.game-icon-thunder-skull:before {
 	content: "\E92A";
 }
 
-.game-icon-pizza-slice:before {
+.game-icon-triple-skulls:before {
 	content: "\E92B";
 }
 
-.game-icon-popcorn:before {
+.game-icon-soda-can:before {
 	content: "\E92C";
 }
 
-.game-icon-potato:before {
+.game-icon-chocolate-bar:before {
 	content: "\E92D";
 }
 
-.game-icon-pretzel:before {
+.game-icon-peanut:before {
 	content: "\E92E";
 }
 
-.game-icon-sliced-mushroom:before {
+.game-icon-ham-shank:before {
 	content: "\E92F";
 }
 
-.game-icon-spiral-lollipop:before {
+.game-icon-almond:before {
 	content: "\E930";
 }
 
-.game-icon-steak:before {
+.game-icon-banana:before {
 	content: "\E931";
 }
 
-.game-icon-tacos:before {
+.game-icon-beer-bottle:before {
 	content: "\E932";
 }
 
-.game-icon-tangerine:before {
+.game-icon-beet:before {
 	content: "\E933";
 }
 
-.game-icon-tomato:before {
+.game-icon-berries-bowl:before {
 	content: "\E934";
 }
 
-.game-icon-wine-bottle:before {
+.game-icon-bread:before {
 	content: "\E935";
 }
 
-.game-icon-aubergine:before {
+.game-icon-candy-canes:before {
 	content: "\E936";
 }
 
-.game-icon-brandy-bottle:before {
+.game-icon-carrot:before {
 	content: "\E937";
 }
 
-.game-icon-cake-slice:before {
+.game-icon-cherry:before {
 	content: "\E938";
 }
 
-.game-icon-cheese-wedge:before {
+.game-icon-chili-pepper:before {
 	content: "\E939";
 }
 
-.game-icon-cool-spices:before {
+.game-icon-chips-bag:before {
 	content: "\E93A";
 }
 
-.game-icon-elderberry:before {
+.game-icon-coffee-beans:before {
 	content: "\E93B";
 }
 
-.game-icon-grapes:before {
+.game-icon-cookie:before {
 	content: "\E93C";
 }
 
-.game-icon-honeypot:before {
+.game-icon-corn:before {
 	content: "\E93D";
 }
 
-.game-icon-meat-hook:before {
+.game-icon-croissant:before {
 	content: "\E93E";
 }
 
-.game-icon-meat:before {
+.game-icon-cupcake:before {
 	content: "\E93F";
 }
 
-.game-icon-mushroom-gills:before {
+.game-icon-dango:before {
 	content: "\E940";
 }
 
-.game-icon-mushroom:before {
+.game-icon-dog-bowl:before {
 	content: "\E941";
 }
 
-.game-icon-oat:before {
+.game-icon-donut:before {
 	content: "\E942";
 }
 
-.game-icon-overdose:before {
+.game-icon-garlic:before {
 	content: "\E943";
 }
 
-.game-icon-pie-slice:before {
+.game-icon-gingerbread-man:before {
 	content: "\E944";
 }
 
-.game-icon-pill:before {
+.game-icon-grain:before {
 	content: "\E945";
 }
 
-.game-icon-powder:before {
+.game-icon-hamburger:before {
 	content: "\E946";
 }
 
-.game-icon-salt-shaker:before {
+.game-icon-hot-meal:before {
 	content: "\E947";
 }
 
-.game-icon-shiny-apple:before {
+.game-icon-kiwi-fruit:before {
 	content: "\E948";
 }
 
-.game-icon-sliced-bread:before {
+.game-icon-mushrooms:before {
 	content: "\E949";
 }
 
-.game-icon-wheat:before {
+.game-icon-noodles:before {
 	content: "\E94A";
 }
 
-.game-icon-wrapped-sweet:before {
+.game-icon-oden:before {
 	content: "\E94B";
 }
 
-.game-icon-spikeball:before {
+.game-icon-olive:before {
 	content: "\E94C";
 }
 
-.game-icon-spikes-full:before {
+.game-icon-pear:before {
 	content: "\E94D";
 }
 
-.game-icon-spikes-half:before {
+.game-icon-pizza-slice:before {
 	content: "\E94E";
 }
 
-.game-icon-spikes-init:before {
+.game-icon-popcorn:before {
 	content: "\E94F";
 }
 
-.game-icon-spikes:before {
+.game-icon-potato:before {
 	content: "\E950";
 }
 
-.game-icon-trigger-hurt:before {
+.game-icon-pretzel:before {
 	content: "\E951";
 }
 
-.game-icon-cactus:before {
+.game-icon-sausage:before {
 	content: "\E952";
 }
 
-.game-icon-caltrops:before {
+.game-icon-sliced-mushroom:before {
 	content: "\E953";
 }
 
-.game-icon-spiked-shoulder-armor:before {
+.game-icon-spiral-lollipop:before {
 	content: "\E954";
 }
 
-.game-icon-spiky-pit:before {
+.game-icon-steak:before {
 	content: "\E955";
 }
 
-.game-icon-air-zigzag:before {
+.game-icon-tacos:before {
 	content: "\E956";
 }
 
-.game-icon-alligator-clip:before {
+.game-icon-tangerine:before {
 	content: "\E957";
 }
 
-.game-icon-armoured-shell:before {
+.game-icon-tomato:before {
 	content: "\E958";
 }
 
-.game-icon-atomic-slashes:before {
+.game-icon-wine-bottle:before {
 	content: "\E959";
 }
 
-.game-icon-bleeding-heart:before {
+.game-icon-aubergine:before {
 	content: "\E95A";
 }
 
-.game-icon-broken-bone:before {
+.game-icon-brandy-bottle:before {
 	content: "\E95B";
 }
 
-.game-icon-broken-heart:before {
+.game-icon-cake-slice:before {
 	content: "\E95C";
 }
 
-.game-icon-burning-round-shot:before {
+.game-icon-cheese-wedge:before {
 	content: "\E95D";
 }
 
-.game-icon-circle-claws:before {
+.game-icon-cool-spices:before {
 	content: "\E95E";
 }
 
-.game-icon-claw-slashes:before {
+.game-icon-elderberry:before {
 	content: "\E95F";
 }
 
-.game-icon-cracked-ball-dunk:before {
+.game-icon-grapes:before {
 	content: "\E960";
 }
 
-.game-icon-cracked-disc:before {
+.game-icon-honeypot:before {
 	content: "\E961";
 }
 
-.game-icon-cracked-glass:before {
+.game-icon-meat-hook:before {
 	content: "\E962";
 }
 
-.game-icon-cracked-mask:before {
+.game-icon-meat:before {
 	content: "\E963";
 }
 
-.game-icon-cracked-saber:before {
+.game-icon-mushroom-gills:before {
 	content: "\E964";
 }
 
-.game-icon-crossed-air-flows:before {
+.game-icon-mushroom:before {
 	content: "\E965";
 }
 
-.game-icon-crossed-slashes:before {
+.game-icon-oat:before {
 	content: "\E966";
 }
 
-.game-icon-earth-spit:before {
+.game-icon-pie-slice:before {
 	content: "\E967";
 }
 
-.game-icon-eclipse-saw:before {
+.game-icon-powder:before {
 	content: "\E968";
 }
 
-.game-icon-edge-crack:before {
+.game-icon-salt-shaker:before {
 	content: "\E969";
 }
 
-.game-icon-fangs-circle:before {
+.game-icon-shiny-apple:before {
 	content: "\E96A";
 }
 
-.game-icon-groundbreaker:before {
+.game-icon-sliced-bread:before {
 	content: "\E96B";
 }
 
-.game-icon-heavy-thorny-triskelion:before {
+.game-icon-wheat:before {
 	content: "\E96C";
 }
 
-.game-icon-large-wound:before {
+.game-icon-wrapped-sweet:before {
 	content: "\E96D";
 }
 
-.game-icon-light-thorny-triskelion:before {
+.game-icon-spikeball:before {
 	content: "\E96E";
 }
 
-.game-icon-mantrap:before {
+.game-icon-spikes-full:before {
 	content: "\E96F";
 }
 
-.game-icon-mighty-spanner:before {
+.game-icon-spikes-half:before {
 	content: "\E970";
 }
 
-.game-icon-needle-jaws:before {
+.game-icon-spikes-init:before {
 	content: "\E971";
 }
 
-.game-icon-quick-slash:before {
+.game-icon-spikes:before {
 	content: "\E972";
 }
 
-.game-icon-rough-wound:before {
+.game-icon-trigger-hurt:before {
 	content: "\E973";
 }
 
-.game-icon-serrated-slash:before {
+.game-icon-cactus:before {
 	content: "\E974";
 }
 
-.game-icon-shatter:before {
+.game-icon-caltrops:before {
 	content: "\E975";
 }
 
-.game-icon-shattered-sword:before {
+.game-icon-spiked-shoulder-armor:before {
 	content: "\E976";
 }
 
-.game-icon-spiked-armor:before {
+.game-icon-spiky-pit:before {
 	content: "\E977";
 }
 
-.game-icon-spiked-fence:before {
+.game-icon-air-zigzag:before {
 	content: "\E978";
 }
 
-.game-icon-spiked-shell:before {
+.game-icon-alligator-clip:before {
 	content: "\E979";
 }
 
-.game-icon-spiked-tail:before {
+.game-icon-armoured-shell:before {
 	content: "\E97A";
 }
 
-.game-icon-spiked-tentacle:before {
+.game-icon-atomic-slashes:before {
 	content: "\E97B";
 }
 
-.game-icon-spiky-eclipse:before {
+.game-icon-bleeding-heart:before {
 	content: "\E97C";
 }
 
-.game-icon-spiky-explosion:before {
+.game-icon-broken-bone:before {
 	content: "\E97D";
 }
 
-.game-icon-striking-diamonds:before {
+.game-icon-burning-round-shot:before {
 	content: "\E97E";
 }
 
-.game-icon-swan-breeze:before {
+.game-icon-circle-claws:before {
 	content: "\E97F";
 }
 
-.game-icon-swirl-ring:before {
+.game-icon-claw-slashes:before {
 	content: "\E980";
 }
 
-.game-icon-swirl-string:before {
+.game-icon-cracked-ball-dunk:before {
 	content: "\E981";
 }
 
-.game-icon-sword-break:before {
+.game-icon-cracked-disc:before {
 	content: "\E982";
 }
 
-.game-icon-tension-snowflake:before {
+.game-icon-cracked-glass:before {
 	content: "\E983";
 }
 
-.game-icon-tornado-discs:before {
+.game-icon-cracked-mask:before {
 	content: "\E984";
 }
 
-.game-icon-triple-claws:before {
+.game-icon-cracked-saber:before {
 	content: "\E985";
 }
 
-.game-icon-triple-needle:before {
+.game-icon-crossed-air-flows:before {
 	content: "\E986";
 }
 
-.game-icon-unstable-projectile:before {
+.game-icon-crossed-slashes:before {
 	content: "\E987";
 }
 
-.game-icon-whiplash:before {
+.game-icon-earth-spit:before {
 	content: "\E988";
 }
 
-.game-icon-wind-slap:before {
+.game-icon-eclipse-saw:before {
 	content: "\E989";
 }
 
-.game-icon-wolf-trap:before {
+.game-icon-edge-crack:before {
 	content: "\E98A";
 }
 
-.game-icon-wrapped-heart:before {
+.game-icon-fangs-circle:before {
 	content: "\E98B";
 }
 
-.game-icon-cultist-2:before {
+.game-icon-groundbreaker:before {
 	content: "\E98C";
 }
 
-.game-icon-gas-mask-2:before {
+.game-icon-heavy-thorny-triskelion:before {
 	content: "\E98D";
 }
 
-.game-icon-bat-mask:before {
+.game-icon-large-wound:before {
 	content: "\E98E";
 }
 
-.game-icon-cadillac-helm:before {
+.game-icon-light-thorny-triskelion:before {
 	content: "\E98F";
 }
 
-.game-icon-carnival-mask:before {
+.game-icon-mantrap:before {
 	content: "\E990";
 }
 
-.game-icon-cyborg-face:before {
+.game-icon-mighty-spanner:before {
 	content: "\E991";
 }
 
-.game-icon-jason-mask:before {
+.game-icon-needle-jaws:before {
 	content: "\E992";
 }
 
-.game-icon-king-ju-mask:before {
+.game-icon-quick-slash:before {
 	content: "\E993";
 }
 
-.game-icon-luchador:before {
+.game-icon-rough-wound:before {
 	content: "\E994";
 }
 
-.game-icon-mighty-boosh:before {
+.game-icon-serrated-slash:before {
 	content: "\E995";
 }
 
-.game-icon-pharoah:before {
+.game-icon-shatter:before {
 	content: "\E996";
 }
 
-.game-icon-protection-glasses:before {
+.game-icon-shattered-sword:before {
 	content: "\E997";
 }
 
-.game-icon-steampunk-goggles:before {
+.game-icon-spiked-armor:before {
 	content: "\E998";
 }
 
-.game-icon-android-mask:before {
+.game-icon-spiked-fence:before {
 	content: "\E999";
 }
 
-.game-icon-architect-mask:before {
+.game-icon-spiked-shell:before {
 	content: "\E99A";
 }
 
-.game-icon-curly-mask:before {
+.game-icon-spiked-tail:before {
 	content: "\E99B";
 }
 
-.game-icon-domino-mask:before {
+.game-icon-spiked-tentacle:before {
 	content: "\E99C";
 }
 
-.game-icon-duality-mask:before {
+.game-icon-spiky-eclipse:before {
 	content: "\E99D";
 }
 
-.game-icon-lightning-mask:before {
+.game-icon-spiky-explosion:before {
 	content: "\E99E";
 }
 
-.game-icon-trap-mask:before {
+.game-icon-striking-diamonds:before {
 	content: "\E99F";
 }
 
-.game-icon-splash-2:before {
+.game-icon-swan-breeze:before {
 	content: "\E9A0";
 }
 
-.game-icon-solar-power:before {
+.game-icon-swirl-ring:before {
 	content: "\E9A1";
 }
 
-.game-icon-carambola:before {
+.game-icon-swirl-string:before {
 	content: "\E9A2";
 }
 
-.game-icon-flower-star:before {
+.game-icon-sword-break:before {
 	content: "\E9A3";
 }
 
-.game-icon-round-star:before {
+.game-icon-tension-snowflake:before {
 	content: "\E9A4";
 }
 
-.game-icon-seven-pointed-star:before {
+.game-icon-tornado-discs:before {
 	content: "\E9A5";
 }
 
-.game-icon-solar-system:before {
+.game-icon-triple-claws:before {
 	content: "\E9A6";
 }
 
-.game-icon-solar-time:before {
+.game-icon-triple-needle:before {
 	content: "\E9A7";
 }
 
-.game-icon-star-formation:before {
+.game-icon-unstable-projectile:before {
 	content: "\E9A8";
 }
 
-.game-icon-stars-stack:before {
+.game-icon-whiplash:before {
 	content: "\E9A9";
 }
 
-.game-icon-sun-cloud:before {
+.game-icon-wind-slap:before {
 	content: "\E9AA";
 }
 
-.game-icon-sunflower:before {
+.game-icon-wolf-trap:before {
 	content: "\E9AB";
 }
 
-.game-icon-thermometer-hot:before {
+.game-icon-wrapped-heart:before {
 	content: "\E9AC";
 }
 
-.game-icon-ursa-major:before {
+.game-icon-cultist-2:before {
 	content: "\E9AD";
 }
 
-.game-icon-barbed-star:before {
+.game-icon-gas-mask-2:before {
 	content: "\E9AE";
 }
 
-.game-icon-boomerang-sun:before {
+.game-icon-bat-mask:before {
 	content: "\E9AF";
 }
 
-.game-icon-circle-sparks:before {
+.game-icon-cadillac-helm:before {
 	content: "\E9B0";
 }
 
-.game-icon-cross-flare:before {
+.game-icon-carnival-mask:before {
 	content: "\E9B1";
 }
 
-.game-icon-eclipse-flare:before {
+.game-icon-cyborg-face:before {
 	content: "\E9B2";
 }
 
-.game-icon-flat-star:before {
+.game-icon-jason-mask:before {
 	content: "\E9B3";
 }
 
-.game-icon-flexible-star:before {
+.game-icon-king-ju-mask:before {
 	content: "\E9B4";
 }
 
-.game-icon-lotus-flower:before {
+.game-icon-luchador:before {
 	content: "\E9B5";
 }
 
-.game-icon-orbital-rays:before {
+.game-icon-mighty-boosh:before {
 	content: "\E9B6";
 }
 
-.game-icon-rainbow-star:before {
+.game-icon-pharoah:before {
 	content: "\E9B7";
 }
 
-.game-icon-shiny-iris:before {
+.game-icon-protection-glasses:before {
 	content: "\E9B8";
 }
 
-.game-icon-star-cycle:before {
+.game-icon-steampunk-goggles:before {
 	content: "\E9B9";
 }
 
-.game-icon-star-prominences:before {
+.game-icon-android-mask:before {
 	content: "\E9BA";
 }
 
-.game-icon-star-pupil:before {
+.game-icon-architect-mask:before {
 	content: "\E9BB";
 }
 
-.game-icon-star-sattelites:before {
+.game-icon-curly-mask:before {
 	content: "\E9BC";
 }
 
-.game-icon-star-swirl:before {
+.game-icon-domino-mask:before {
 	content: "\E9BD";
 }
 
-.game-icon-sun-radiations:before {
+.game-icon-duality-mask:before {
 	content: "\E9BE";
 }
 
-.game-icon-wrapping-star:before {
+.game-icon-lightning-mask:before {
 	content: "\E9BF";
 }
 
-.game-icon-on-sight:before {
+.game-icon-trap-mask:before {
 	content: "\E9C0";
 }
 
-.game-icon-head-shot:before {
+.game-icon-splash-2:before {
 	content: "\E9C1";
 }
 
-.game-icon-select:before {
+.game-icon-solar-power:before {
 	content: "\E9C2";
 }
 
-.game-icon-target-laser:before {
+.game-icon-carambola:before {
 	content: "\E9C3";
 }
 
-.game-icon-targeted:before {
+.game-icon-flower-star:before {
 	content: "\E9C4";
 }
 
-.game-icon-convergence-target:before {
+.game-icon-round-star:before {
 	content: "\E9C5";
 }
 
-.game-icon-crosshair:before {
+.game-icon-seven-pointed-star:before {
 	content: "\E9C6";
 }
 
-.game-icon-eye-target:before {
+.game-icon-solar-system:before {
 	content: "\E9C7";
 }
 
-.game-icon-multiple-targets:before {
+.game-icon-solar-time:before {
 	content: "\E9C8";
 }
 
-.game-icon-triangle-target:before {
+.game-icon-star-formation:before {
 	content: "\E9C9";
 }
 
-.game-icon-poppy:before {
+.game-icon-stars-stack:before {
 	content: "\E9CA";
 }
 
-.game-icon-bamboo:before {
+.game-icon-sun-cloud:before {
 	content: "\E9CB";
 }
 
-.game-icon-cotton-flower:before {
+.game-icon-sunflower:before {
 	content: "\E9CC";
 }
 
-.game-icon-dandelion-flower:before {
+.game-icon-thermometer-hot:before {
 	content: "\E9CD";
 }
 
-.game-icon-fertilizer-bag:before {
+.game-icon-ursa-major:before {
 	content: "\E9CE";
 }
 
-.game-icon-hemp:before {
+.game-icon-barbed-star:before {
 	content: "\E9CF";
 }
 
-.game-icon-hops:before {
+.game-icon-boomerang-sun:before {
 	content: "\E9D0";
 }
 
-.game-icon-jasmine:before {
+.game-icon-circle-sparks:before {
 	content: "\E9D1";
 }
 
-.game-icon-papyrus:before {
+.game-icon-cross-flare:before {
 	content: "\E9D2";
 }
 
-.game-icon-reed:before {
+.game-icon-eclipse-flare:before {
 	content: "\E9D3";
 }
 
-.game-icon-round-straw-bale:before {
+.game-icon-flat-star:before {
 	content: "\E9D4";
 }
 
-.game-icon-seedling:before {
+.game-icon-flexible-star:before {
 	content: "\E9D5";
 }
 
-.game-icon-shamrock:before {
+.game-icon-lotus-flower:before {
 	content: "\E9D6";
 }
 
-.game-icon-sugar-cane:before {
+.game-icon-orbital-rays:before {
 	content: "\E9D7";
 }
 
-.game-icon-tumbleweed:before {
+.game-icon-rainbow-star:before {
 	content: "\E9D8";
 }
 
-.game-icon-beanstalk:before {
+.game-icon-shiny-iris:before {
 	content: "\E9D9";
 }
 
-.game-icon-bud:before {
+.game-icon-star-cycle:before {
 	content: "\E9DA";
 }
 
-.game-icon-bulb:before {
+.game-icon-star-prominences:before {
 	content: "\E9DB";
 }
 
-.game-icon-curling-vines:before {
+.game-icon-star-pupil:before {
 	content: "\E9DC";
 }
 
-.game-icon-daisy:before {
+.game-icon-star-sattelites:before {
 	content: "\E9DD";
 }
 
-.game-icon-evil-bud:before {
+.game-icon-star-swirl:before {
 	content: "\E9DE";
 }
 
-.game-icon-flower-pot:before {
+.game-icon-sun-radiations:before {
 	content: "\E9DF";
 }
 
-.game-icon-ground-sprout:before {
+.game-icon-wrapping-star:before {
 	content: "\E9E0";
 }
 
-.game-icon-leaf-skeleton:before {
+.game-icon-on-sight:before {
 	content: "\E9E1";
 }
 
-.game-icon-lotus:before {
+.game-icon-head-shot:before {
 	content: "\E9E2";
 }
 
-.game-icon-pollen-dust:before {
+.game-icon-select:before {
 	content: "\E9E3";
 }
 
-.game-icon-rose:before {
+.game-icon-target-laser:before {
 	content: "\E9E4";
 }
 
-.game-icon-shut-rose:before {
+.game-icon-targeted:before {
 	content: "\E9E5";
 }
 
-.game-icon-spiral-bloom:before {
+.game-icon-convergence-target:before {
 	content: "\E9E6";
 }
 
-.game-icon-spoted-flower:before {
+.game-icon-crosshair:before {
 	content: "\E9E7";
 }
 
-.game-icon-spotted-mushroom:before {
+.game-icon-eye-target:before {
 	content: "\E9E8";
 }
 
-.game-icon-sprout-disc:before {
+.game-icon-multiple-targets:before {
 	content: "\E9E9";
 }
 
-.game-icon-sprout:before {
+.game-icon-triangle-target:before {
 	content: "\E9EA";
 }
 
-.game-icon-super-mushroom:before {
+.game-icon-poppy:before {
 	content: "\E9EB";
 }
 
-.game-icon-trefoil-lily:before {
+.game-icon-bamboo:before {
 	content: "\E9EC";
 }
 
-.game-icon-twirly-flower:before {
+.game-icon-cotton-flower:before {
 	content: "\E9ED";
 }
 
-.game-icon-vanilla-flower:before {
+.game-icon-dandelion-flower:before {
 	content: "\E9EE";
 }
 
-.game-icon-vine-flower:before {
+.game-icon-fertilizer-bag:before {
 	content: "\E9EF";
 }
 
-.game-icon-vine-whip:before {
+.game-icon-hemp:before {
 	content: "\E9F0";
 }
 
-.game-icon-viola:before {
+.game-icon-hops:before {
 	content: "\E9F1";
 }
 
-.game-icon-gold-nuggets:before {
+.game-icon-jasmine:before {
 	content: "\E9F2";
 }
 
-.game-icon-money-stack:before {
+.game-icon-papyrus:before {
 	content: "\E9F3";
 }
 
-.game-icon-piggy-bank:before {
+.game-icon-reed:before {
 	content: "\E9F4";
 }
 
-.game-icon-price-tag:before {
+.game-icon-round-straw-bale:before {
 	content: "\E9F5";
 }
 
-.game-icon-ticket:before {
+.game-icon-seedling:before {
 	content: "\E9F6";
 }
 
-.game-icon-wallet:before {
+.game-icon-shamrock:before {
 	content: "\E9F7";
 }
 
-.game-icon-joint:before {
+.game-icon-sugar-cane:before {
 	content: "\E9F8";
 }
 
-.game-icon-swirled-shell:before {
+.game-icon-tumbleweed:before {
 	content: "\E9F9";
 }
 
-.game-icon-bone-knife:before {
+.game-icon-beanstalk:before {
 	content: "\E9FA";
 }
 
-.game-icon-backbone-shell:before {
+.game-icon-bud:before {
 	content: "\E9FB";
 }
 
-.game-icon-bone-knife-2:before {
+.game-icon-bulb:before {
 	content: "\E9FC";
 }
 
-.game-icon-crossed-bones:before {
+.game-icon-curling-vines:before {
 	content: "\E9FD";
 }
 
-.game-icon-horn-internal:before {
+.game-icon-daisy:before {
 	content: "\E9FE";
 }
 
-.game-icon-jawbone:before {
+.game-icon-evil-bud:before {
 	content: "\E9FF";
 }
 
-.game-icon-ribcage:before {
+.game-icon-flower-pot:before {
 	content: "\EA00";
 }
 
-.game-icon-spinal-coil:before {
+.game-icon-ground-sprout:before {
 	content: "\EA01";
 }
 
-.game-icon-artillery-shell:before {
+.game-icon-leaf-skeleton:before {
 	content: "\EA02";
 }
 
-.game-icon-bundle-grenade:before {
+.game-icon-lotus:before {
 	content: "\EA03";
 }
 
-.game-icon-minefield:before {
+.game-icon-pollen-dust:before {
 	content: "\EA04";
 }
 
-.game-icon-bolt-bomb:before {
+.game-icon-rose:before {
 	content: "\EA05";
 }
 
-.game-icon-dynamite:before {
+.game-icon-shut-rose:before {
 	content: "\EA06";
 }
 
-.game-icon-falling-bomb:before {
+.game-icon-spiral-bloom:before {
 	content: "\EA07";
 }
 
-.game-icon-holy-hand-grenade:before {
+.game-icon-spoted-flower:before {
 	content: "\EA08";
 }
 
-.game-icon-stun-grenade:before {
+.game-icon-spotted-mushroom:before {
 	content: "\EA09";
 }
 
-.game-icon-bombing-run:before {
+.game-icon-sprout-disc:before {
 	content: "\EA0A";
 }
 
-.game-icon-cluster-bomb:before {
+.game-icon-sprout:before {
 	content: "\EA0B";
 }
 
-.game-icon-letter-bomb:before {
+.game-icon-super-mushroom:before {
 	content: "\EA0C";
 }
 
-.game-icon-paper-bomb:before {
+.game-icon-trefoil-lily:before {
 	content: "\EA0D";
 }
 
-.game-icon-rolling-bomb:before {
+.game-icon-twirly-flower:before {
 	content: "\EA0E";
 }
 
-.game-icon-sparky-bomb:before {
+.game-icon-vanilla-flower:before {
 	content: "\EA0F";
 }
 
-.game-icon-time-bomb:before {
+.game-icon-vine-flower:before {
 	content: "\EA10";
 }
 
-.game-icon-unlit-bomb:before {
+.game-icon-vine-whip:before {
 	content: "\EA11";
 }
 
-.game-icon-tabi-boot:before {
+.game-icon-viola:before {
 	content: "\EA12";
 }
 
-.game-icon-footsteps:before {
+.game-icon-gold-nuggets:before {
 	content: "\EA13";
 }
 
-.game-icon-banana-peel:before {
+.game-icon-money-stack:before {
 	content: "\EA14";
 }
 
-.game-icon-chelsea-boot:before {
+.game-icon-piggy-bank:before {
 	content: "\EA15";
 }
 
-.game-icon-cowboy-boot:before {
+.game-icon-price-tag:before {
 	content: "\EA16";
 }
 
-.game-icon-female-legs:before {
+.game-icon-ticket:before {
 	content: "\EA17";
 }
 
-.game-icon-flip-flops:before {
+.game-icon-wallet:before {
 	content: "\EA18";
 }
 
-.game-icon-foot-plaster:before {
+.game-icon-joint:before {
 	content: "\EA19";
 }
 
-.game-icon-fur-boot:before {
+.game-icon-swirled-shell:before {
 	content: "\EA1A";
 }
 
-.game-icon-greaves:before {
+.game-icon-bone-knife:before {
 	content: "\EA1B";
 }
 
-.game-icon-high-heel:before {
+.game-icon-backbone-shell:before {
 	content: "\EA1C";
 }
 
-.game-icon-leg-armor:before {
+.game-icon-bone-knife-2:before {
 	content: "\EA1D";
 }
 
-.game-icon-running-shoe:before {
+.game-icon-crossed-bones:before {
 	content: "\EA1E";
 }
 
-.game-icon-socks:before {
+.game-icon-horn-internal:before {
 	content: "\EA1F";
 }
 
-.game-icon-sticky-boot:before {
+.game-icon-jawbone:before {
 	content: "\EA20";
 }
 
-.game-icon-barefoot:before {
+.game-icon-ribcage:before {
 	content: "\EA21";
 }
 
-.game-icon-boot-prints:before {
+.game-icon-spinal-coil:before {
 	content: "\EA22";
 }
 
-.game-icon-boots:before {
+.game-icon-artillery-shell:before {
 	content: "\EA23";
 }
 
-.game-icon-foot-trip:before {
+.game-icon-bundle-grenade:before {
 	content: "\EA24";
 }
 
-.game-icon-footprint:before {
+.game-icon-minefield:before {
 	content: "\EA25";
 }
 
-.game-icon-leather-boot:before {
+.game-icon-bolt-bomb:before {
 	content: "\EA26";
 }
 
-.game-icon-nailed-foot:before {
+.game-icon-dynamite:before {
 	content: "\EA27";
 }
 
-.game-icon-quake-stomp:before {
+.game-icon-falling-bomb:before {
 	content: "\EA28";
 }
 
-.game-icon-tread:before {
+.game-icon-holy-hand-grenade:before {
 	content: "\EA29";
 }
 
-.game-icon-tripwire:before {
+.game-icon-stun-grenade:before {
 	content: "\EA2A";
 }
 
-.game-icon-walking-boot:before {
+.game-icon-bombing-run:before {
 	content: "\EA2B";
 }
 
-.game-icon-minerals:before {
+.game-icon-cluster-bomb:before {
 	content: "\EA2C";
 }
 
-.game-icon-ore:before {
+.game-icon-letter-bomb:before {
 	content: "\EA2D";
 }
 
-.game-icon-crystal-shrine:before {
+.game-icon-paper-bomb:before {
 	content: "\EA2E";
 }
 
-.game-icon-checkered-diamond:before {
+.game-icon-rolling-bomb:before {
 	content: "\EA2F";
 }
 
-.game-icon-crystal-bars:before {
+.game-icon-sparky-bomb:before {
 	content: "\EA30";
 }
 
-.game-icon-crystal-cluster:before {
+.game-icon-time-bomb:before {
 	content: "\EA31";
 }
 
-.game-icon-crystal-eye:before {
+.game-icon-unlit-bomb:before {
 	content: "\EA32";
 }
 
-.game-icon-crystal-shine:before {
+.game-icon-tabi-boot:before {
 	content: "\EA33";
 }
 
-.game-icon-diamond-hard:before {
+.game-icon-footsteps:before {
 	content: "\EA34";
 }
 
-.game-icon-floating-crystal:before {
+.game-icon-banana-peel:before {
 	content: "\EA35";
 }
 
-.game-icon-gems:before {
+.game-icon-chelsea-boot:before {
 	content: "\EA36";
 }
 
-.game-icon-mineral-heart:before {
+.game-icon-cowboy-boot:before {
 	content: "\EA37";
 }
 
-.game-icon-fossil:before {
+.game-icon-female-legs:before {
 	content: "\EA38";
 }
 
-.game-icon-gold-shell:before {
+.game-icon-flip-flops:before {
 	content: "\EA39";
 }
 
-.game-icon-scallop:before {
+.game-icon-fur-boot:before {
 	content: "\EA3A";
 }
 
-.game-icon-sewed-shell:before {
+.game-icon-greaves:before {
 	content: "\EA3B";
 }
 
-.game-icon-spiral-shell:before {
+.game-icon-high-heel:before {
 	content: "\EA3C";
 }
 
-.game-icon-triple-shells:before {
+.game-icon-leg-armor:before {
 	content: "\EA3D";
 }
 
-.game-icon-twin-shell:before {
+.game-icon-running-shoe:before {
 	content: "\EA3E";
 }
 
-.game-icon-asteroid:before {
+.game-icon-socks:before {
 	content: "\EA3F";
 }
 
-.game-icon-clay-brick:before {
+.game-icon-sticky-boot:before {
 	content: "\EA40";
 }
 
-.game-icon-colombian-statue:before {
+.game-icon-barefoot:before {
 	content: "\EA41";
 }
 
-.game-icon-dig-hole:before {
+.game-icon-boot-prints:before {
 	content: "\EA42";
 }
 
-.game-icon-dolmen:before {
+.game-icon-boots:before {
 	content: "\EA43";
 }
 
-.game-icon-falling-rocks:before {
+.game-icon-foot-trip:before {
 	content: "\EA44";
 }
 
-.game-icon-menhir:before {
+.game-icon-footprint:before {
 	content: "\EA45";
 }
 
-.game-icon-silex:before {
+.game-icon-leather-boot:before {
 	content: "\EA46";
 }
 
-.game-icon-stone-pile:before {
+.game-icon-nailed-foot:before {
 	content: "\EA47";
 }
 
-.game-icon-stone-wheel:before {
+.game-icon-quake-stomp:before {
 	content: "\EA48";
 }
 
-.game-icon-wax-tablet:before {
+.game-icon-tread:before {
 	content: "\EA49";
 }
 
-.game-icon-broken-tablet:before {
+.game-icon-tripwire:before {
 	content: "\EA4A";
 }
 
-.game-icon-crags:before {
+.game-icon-walking-boot:before {
 	content: "\EA4B";
 }
 
-.game-icon-meteor-impact:before {
+.game-icon-minerals:before {
 	content: "\EA4C";
 }
 
-.game-icon-rock-2:before {
+.game-icon-ore:before {
 	content: "\EA4D";
 }
 
-.game-icon-rune-stone:before {
+.game-icon-crystal-shrine:before {
 	content: "\EA4E";
 }
 
-.game-icon-stone-axe:before {
+.game-icon-checkered-diamond:before {
 	content: "\EA4F";
 }
 
-.game-icon-stone-block:before {
+.game-icon-crystal-bars:before {
 	content: "\EA50";
 }
 
-.game-icon-stone-sphere:before {
+.game-icon-crystal-cluster:before {
 	content: "\EA51";
 }
 
-.game-icon-stone-tablet:before {
+.game-icon-crystal-eye:before {
 	content: "\EA52";
 }
 
-.game-icon-stone-throne:before {
+.game-icon-crystal-shine:before {
 	content: "\EA53";
 }
 
-.game-icon-trample:before {
+.game-icon-diamond-hard:before {
 	content: "\EA54";
 }
 
-.game-icon-wrench:before {
+.game-icon-floating-crystal:before {
 	content: "\EA55";
 }
 
-.game-icon-trench-spade:before {
+.game-icon-gems:before {
 	content: "\EA56";
 }
 
-.game-icon-3d-hammer:before {
+.game-icon-mineral-heart:before {
 	content: "\EA57";
 }
 
-.game-icon-aspergillum:before {
+.game-icon-fossil:before {
 	content: "\EA58";
 }
 
-.game-icon-banging-gavel:before {
+.game-icon-gold-shell:before {
 	content: "\EA59";
 }
 
-.game-icon-box-cutter:before {
+.game-icon-scallop:before {
 	content: "\EA5A";
 }
 
-.game-icon-broom:before {
+.game-icon-sewed-shell:before {
 	content: "\EA5B";
 }
 
-.game-icon-crook-flail:before {
+.game-icon-spiral-shell:before {
 	content: "\EA5C";
 }
 
-.game-icon-hair-strands:before {
+.game-icon-triple-shells:before {
 	content: "\EA5D";
 }
 
-.game-icon-hole-ladder:before {
+.game-icon-twin-shell:before {
 	content: "\EA5E";
 }
 
-.game-icon-injustice:before {
+.game-icon-asteroid:before {
 	content: "\EA5F";
 }
 
-.game-icon-large-paint-brush:before {
+.game-icon-clay-brick:before {
 	content: "\EA60";
 }
 
-.game-icon-lock-picking:before {
+.game-icon-colombian-statue:before {
 	content: "\EA61";
 }
 
-.game-icon-lockpicks:before {
+.game-icon-dig-hole:before {
 	content: "\EA62";
 }
 
-.game-icon-paint-brush:before {
+.game-icon-dolmen:before {
 	content: "\EA63";
 }
 
-.game-icon-paint-bucket:before {
+.game-icon-falling-rocks:before {
 	content: "\EA64";
 }
 
-.game-icon-paint-roller:before {
+.game-icon-menhir:before {
 	content: "\EA65";
 }
 
-.game-icon-plow:before {
+.game-icon-silex:before {
 	content: "\EA66";
 }
 
-.game-icon-rake:before {
+.game-icon-stone-pile:before {
 	content: "\EA67";
 }
 
-.game-icon-sickle:before {
+.game-icon-stone-wheel:before {
 	content: "\EA68";
 }
 
-.game-icon-stethoscope:before {
+.game-icon-wax-tablet:before {
 	content: "\EA69";
 }
 
-.game-icon-swiss-army-knife:before {
+.game-icon-broken-tablet:before {
 	content: "\EA6A";
 }
 
-.game-icon-toy-mallet:before {
+.game-icon-crags:before {
 	content: "\EA6B";
 }
 
-.game-icon-trowel:before {
+.game-icon-meteor-impact:before {
 	content: "\EA6C";
 }
 
-.game-icon-weight:before {
+.game-icon-rock-2:before {
 	content: "\EA6D";
 }
 
-.game-icon-claw-hammer:before {
+.game-icon-rune-stone:before {
 	content: "\EA6E";
 }
 
-.game-icon-dig-dug:before {
+.game-icon-stone-axe:before {
 	content: "\EA6F";
 }
 
-.game-icon-fishhook-fork:before {
+.game-icon-stone-block:before {
 	content: "\EA70";
 }
 
-.game-icon-flat-hammer:before {
+.game-icon-stone-sphere:before {
 	content: "\EA71";
 }
 
-.game-icon-gavel:before {
+.game-icon-stone-tablet:before {
 	content: "\EA72";
 }
 
-.game-icon-gear-hammer:before {
+.game-icon-stone-throne:before {
 	content: "\EA73";
 }
 
-.game-icon-hammer-drop:before {
+.game-icon-trample:before {
 	content: "\EA74";
 }
 
-.game-icon-hammer-nails:before {
+.game-icon-wrench:before {
 	content: "\EA75";
 }
 
-.game-icon-lightning-spanner:before {
+.game-icon-trench-spade:before {
 	content: "\EA76";
 }
 
-.game-icon-scalpel:before {
+.game-icon-3d-hammer:before {
 	content: "\EA77";
 }
 
-.game-icon-scissors-2:before {
+.game-icon-aspergillum:before {
 	content: "\EA78";
 }
 
-.game-icon-screwdriver:before {
+.game-icon-banging-gavel:before {
 	content: "\EA79";
 }
 
-.game-icon-sewing-needle:before {
+.game-icon-box-cutter:before {
 	content: "\EA7A";
 }
 
-.game-icon-spade:before {
+.game-icon-broom:before {
 	content: "\EA7B";
 }
 
-.game-icon-spanner:before {
+.game-icon-crook-flail:before {
 	content: "\EA7C";
 }
 
-.game-icon-sword-smithing:before {
+.game-icon-hair-strands:before {
 	content: "\EA7D";
 }
 
-.game-icon-thermometer-scale:before {
+.game-icon-hole-ladder:before {
 	content: "\EA7E";
 }
 
-.game-icon-tinker:before {
+.game-icon-injustice:before {
 	content: "\EA7F";
 }
 
-.game-icon-pause-button:before {
+.game-icon-large-paint-brush:before {
 	content: "\EA80";
 }
 
-.game-icon-play-button:before {
+.game-icon-lock-picking:before {
 	content: "\EA81";
 }
 
-.game-icon-retro-controller:before {
+.game-icon-lockpicks:before {
 	content: "\EA82";
 }
 
-.game-icon-smartphone:before {
+.game-icon-paint-brush:before {
 	content: "\EA83";
 }
 
-.game-icon-tablet:before {
+.game-icon-paint-bucket:before {
 	content: "\EA84";
 }
 
-.game-icon-abacus:before {
+.game-icon-paint-roller:before {
 	content: "\EA85";
 }
 
-.game-icon-calendar:before {
+.game-icon-plow:before {
 	content: "\EA86";
 }
 
-.game-icon-checklist:before {
+.game-icon-rake:before {
 	content: "\EA87";
 }
 
-.game-icon-circle:before {
+.game-icon-sickle:before {
 	content: "\EA88";
 }
 
-.game-icon-clapperboard:before {
+.game-icon-swiss-army-knife:before {
 	content: "\EA89";
 }
 
-.game-icon-cube:before {
+.game-icon-toy-mallet:before {
 	content: "\EA8A";
 }
 
-.game-icon-family-tree:before {
+.game-icon-trowel:before {
 	content: "\EA8B";
 }
 
-.game-icon-files:before {
+.game-icon-weight:before {
 	content: "\EA8C";
 }
 
-.game-icon-film-projector:before {
+.game-icon-claw-hammer:before {
 	content: "\EA8D";
 }
 
-.game-icon-full-folder:before {
+.game-icon-dig-dug:before {
 	content: "\EA8E";
 }
 
-.game-icon-funnel:before {
+.game-icon-fishhook-fork:before {
 	content: "\EA8F";
 }
 
-.game-icon-gamepad:before {
+.game-icon-flat-hammer:before {
 	content: "\EA90";
 }
 
-.game-icon-hamburger-menu:before {
+.game-icon-gavel:before {
 	content: "\EA91";
 }
 
-.game-icon-histogram:before {
+.game-icon-gear-hammer:before {
 	content: "\EA92";
 }
 
-.game-icon-joystick:before {
+.game-icon-hammer-drop:before {
 	content: "\EA93";
 }
 
-.game-icon-keyboard:before {
+.game-icon-hammer-nails:before {
 	content: "\EA94";
 }
 
-.game-icon-load:before {
+.game-icon-lightning-spanner:before {
 	content: "\EA95";
 }
 
-.game-icon-mailbox:before {
+.game-icon-scissors-2:before {
 	content: "\EA96";
 }
 
-.game-icon-mouse-2:before {
+.game-icon-screwdriver:before {
 	content: "\EA97";
 }
 
-.game-icon-network-bars:before {
+.game-icon-sewing-needle:before {
 	content: "\EA98";
 }
 
-.game-icon-newspaper:before {
+.game-icon-spade:before {
 	content: "\EA99";
 }
 
-.game-icon-open-folder:before {
+.game-icon-spanner:before {
 	content: "\EA9A";
 }
 
-.game-icon-organigram:before {
+.game-icon-sword-smithing:before {
 	content: "\EA9B";
 }
 
-.game-icon-palette:before {
+.game-icon-thermometer-scale:before {
 	content: "\EA9C";
 }
 
-.game-icon-pencil-brush:before {
+.game-icon-tinker:before {
 	content: "\EA9D";
 }
 
-.game-icon-pencil:before {
+.game-icon-pause-button:before {
 	content: "\EA9E";
 }
 
-.game-icon-photo-camera:before {
+.game-icon-play-button:before {
 	content: "\EA9F";
 }
 
-.game-icon-pie-chart:before {
+.game-icon-retro-controller:before {
 	content: "\EAA0";
 }
 
-.game-icon-pin:before {
+.game-icon-smartphone:before {
 	content: "\EAA1";
 }
 
-.game-icon-plain-circle:before {
+.game-icon-tablet:before {
 	content: "\EAA2";
 }
 
-.game-icon-plain-square:before {
+.game-icon-abacus:before {
 	content: "\EAA3";
 }
 
-.game-icon-resize:before {
+.game-icon-calendar:before {
 	content: "\EAA4";
 }
 
-.game-icon-save:before {
+.game-icon-checklist:before {
 	content: "\EAA5";
 }
 
-.game-icon-shopping-cart:before {
+.game-icon-circle:before {
 	content: "\EAA6";
 }
 
-.game-icon-square:before {
+.game-icon-clapperboard:before {
 	content: "\EAA7";
 }
 
-.game-icon-trash-can:before {
+.game-icon-cube:before {
 	content: "\EAA8";
 }
 
-.game-icon-unbalanced:before {
+.game-icon-family-tree:before {
 	content: "\EAA9";
 }
 
-.game-icon-video-camera:before {
+.game-icon-files:before {
 	content: "\EAAA";
 }
 
-.game-icon-bookmark:before {
+.game-icon-film-projector:before {
 	content: "\EAAB";
 }
 
-.game-icon-envelope:before {
+.game-icon-full-folder:before {
 	content: "\EAAC";
 }
 
-.game-icon-magnifying-glass:before {
+.game-icon-funnel:before {
 	content: "\EAAD";
 }
 
-.game-icon-open-book:before {
+.game-icon-gamepad:before {
 	content: "\EAAE";
 }
 
-.game-icon-bottled-bolt:before {
+.game-icon-hamburger-menu:before {
 	content: "\EAAF";
 }
 
-.game-icon-bubbling-flask:before {
+.game-icon-histogram:before {
 	content: "\EAB0";
 }
 
-.game-icon-heart-bottle:before {
+.game-icon-joystick:before {
 	content: "\EAB1";
 }
 
-.game-icon-perfume-bottle:before {
+.game-icon-keyboard:before {
 	content: "\EAB2";
 }
 
-.game-icon-potion-ball:before {
+.game-icon-load:before {
 	content: "\EAB3";
 }
 
-.game-icon-round-bottom-flask:before {
+.game-icon-mailbox:before {
 	content: "\EAB4";
 }
 
-.game-icon-spiral-bottle:before {
+.game-icon-mouse-2:before {
 	content: "\EAB5";
 }
 
-.game-icon-square-bottle:before {
+.game-icon-network-bars:before {
 	content: "\EAB6";
 }
 
-.game-icon-standing-potion:before {
+.game-icon-newspaper:before {
 	content: "\EAB7";
 }
 
-.game-icon-armored-pants:before {
+.game-icon-open-folder:before {
 	content: "\EAB8";
 }
 
-.game-icon-kevlar:before {
+.game-icon-organigram:before {
 	content: "\EAB9";
 }
 
-.game-icon-bracers:before {
+.game-icon-palette:before {
 	content: "\EABA";
 }
 
-.game-icon-kevlar-vest:before {
+.game-icon-pencil-brush:before {
 	content: "\EABB";
 }
 
-.game-icon-pauldrons:before {
+.game-icon-pencil:before {
 	content: "\EABC";
 }
 
-.game-icon-pteruges:before {
+.game-icon-photo-camera:before {
 	content: "\EABD";
 }
 
-.game-icon-trench-body-armor:before {
+.game-icon-pie-chart:before {
 	content: "\EABE";
 }
 
-.game-icon-chain-mail:before {
+.game-icon-pin:before {
 	content: "\EABF";
 }
 
-.game-icon-bracer:before {
+.game-icon-plain-circle:before {
 	content: "\EAC0";
 }
 
-.game-icon-chest-armor:before {
+.game-icon-plain-square:before {
 	content: "\EAC1";
 }
 
-.game-icon-knee-pad:before {
+.game-icon-resize:before {
 	content: "\EAC2";
 }
 
-.game-icon-leather-armor:before {
+.game-icon-save:before {
 	content: "\EAC3";
 }
 
-.game-icon-loincloth:before {
+.game-icon-shopping-cart:before {
 	content: "\EAC4";
 }
 
-.game-icon-saiyan-suit:before {
+.game-icon-square:before {
 	content: "\EAC5";
 }
 
-.game-icon-armor-vest:before {
+.game-icon-trash-can:before {
 	content: "\EAC6";
 }
 
-.game-icon-breastplate:before {
+.game-icon-unbalanced:before {
 	content: "\EAC7";
 }
 
-.game-icon-dorsal-scales:before {
+.game-icon-video-camera:before {
 	content: "\EAC8";
 }
 
-.game-icon-lamellar:before {
+.game-icon-bookmark:before {
 	content: "\EAC9";
 }
 
-.game-icon-leather-vest:before {
+.game-icon-envelope:before {
 	content: "\EACA";
 }
 
-.game-icon-mail-shirt:before {
+.game-icon-magnifying-glass:before {
 	content: "\EACB";
 }
 
-.game-icon-plastron:before {
+.game-icon-open-book:before {
 	content: "\EACC";
 }
 
-.game-icon-scale-mail:before {
+.game-icon-bottled-bolt:before {
 	content: "\EACD";
 }
 
-.game-icon-shoulder-scales:before {
+.game-icon-bubbling-flask:before {
 	content: "\EACE";
 }
 
-.game-icon-space-suit:before {
+.game-icon-perfume-bottle:before {
 	content: "\EACF";
 }
 
-.game-icon-belt:before {
+.game-icon-potion-ball:before {
 	content: "\EAD0";
 }
 
-.game-icon-cloak:before {
+.game-icon-round-bottom-flask:before {
 	content: "\EAD1";
 }
 
-.game-icon-shirt:before {
+.game-icon-spiral-bottle:before {
 	content: "\EAD2";
 }
 
-.game-icon-trousers:before {
+.game-icon-square-bottle:before {
 	content: "\EAD3";
 }
 
-.game-icon-dress:before {
+.game-icon-standing-potion:before {
 	content: "\EAD4";
 }
 
-.game-icon-basketball-jersey:before {
+.game-icon-armored-pants:before {
 	content: "\EAD5";
 }
 
-.game-icon-black-belt:before {
+.game-icon-kevlar:before {
 	content: "\EAD6";
 }
 
-.game-icon-bow-tie-ribbon:before {
+.game-icon-chain-mail:before {
 	content: "\EAD7";
 }
 
-.game-icon-bow-tie:before {
+.game-icon-bracers:before {
 	content: "\EAD8";
 }
 
-.game-icon-cape:before {
+.game-icon-kevlar-vest:before {
 	content: "\EAD9";
 }
 
-.game-icon-clothespin:before {
+.game-icon-pauldrons:before {
 	content: "\EADA";
 }
 
-.game-icon-corset:before {
+.game-icon-pteruges:before {
 	content: "\EADB";
 }
 
-.game-icon-fur-shirt:before {
+.game-icon-trench-body-armor:before {
 	content: "\EADC";
 }
 
-.game-icon-hanger:before {
+.game-icon-bracer:before {
 	content: "\EADD";
 }
 
-.game-icon-kimono:before {
+.game-icon-chest-armor:before {
 	content: "\EADE";
 }
 
-.game-icon-lab-coat:before {
+.game-icon-knee-pad:before {
 	content: "\EADF";
 }
 
-.game-icon-large-dress:before {
+.game-icon-leather-armor:before {
 	content: "\EAE0";
 }
 
-.game-icon-moncler-jacket:before {
+.game-icon-loincloth:before {
 	content: "\EAE1";
 }
 
-.game-icon-ninja-armor:before {
+.game-icon-saiyan-suit:before {
 	content: "\EAE2";
 }
 
-.game-icon-pirate-coat:before {
+.game-icon-armor-vest:before {
 	content: "\EAE3";
 }
 
-.game-icon-polo-shirt:before {
+.game-icon-breastplate:before {
 	content: "\EAE4";
 }
 
-.game-icon-poncho:before {
+.game-icon-dorsal-scales:before {
 	content: "\EAE5";
 }
 
-.game-icon-rolled-cloth:before {
+.game-icon-lamellar:before {
 	content: "\EAE6";
 }
 
-.game-icon-roman-toga:before {
+.game-icon-leather-vest:before {
 	content: "\EAE7";
 }
 
-.game-icon-safety-pin:before {
+.game-icon-mail-shirt:before {
 	content: "\EAE8";
 }
 
-.game-icon-shorts:before {
+.game-icon-plastron:before {
 	content: "\EAE9";
 }
 
-.game-icon-skirt:before {
+.game-icon-scale-mail:before {
 	content: "\EAEA";
 }
 
-.game-icon-sleeveless-jacket:before {
+.game-icon-shoulder-scales:before {
 	content: "\EAEB";
 }
 
-.game-icon-sleeveless-top:before {
+.game-icon-space-suit:before {
 	content: "\EAEC";
 }
 
-.game-icon-t-shirt:before {
+.game-icon-belt:before {
 	content: "\EAED";
 }
 
-.game-icon-tie:before {
+.game-icon-cloak:before {
 	content: "\EAEE";
 }
 
-.game-icon-underwear:before {
+.game-icon-shirt:before {
 	content: "\EAEF";
 }
 
-.game-icon-belt-buckles:before {
+.game-icon-trousers:before {
 	content: "\EAF0";
 }
 
-.game-icon-robe:before {
+.game-icon-dress:before {
 	content: "\EAF1";
 }
 
-.game-icon-trousers-2:before {
+.game-icon-basketball-jersey:before {
 	content: "\EAF2";
 }
 
-.game-icon-ak47:before {
+.game-icon-black-belt:before {
 	content: "\EAF3";
 }
 
-.game-icon-ak47u:before {
+.game-icon-bow-tie-ribbon:before {
 	content: "\EAF4";
 }
 
-.game-icon-c96:before {
+.game-icon-bow-tie:before {
 	content: "\EAF5";
 }
 
-.game-icon-colt-m1911:before {
+.game-icon-cape:before {
 	content: "\EAF6";
 }
 
-.game-icon-cz-skorpion:before {
+.game-icon-clothespin:before {
 	content: "\EAF7";
 }
 
-.game-icon-desert-eagle:before {
+.game-icon-corset:before {
 	content: "\EAF8";
 }
 
-.game-icon-fn-fal:before {
+.game-icon-fur-shirt:before {
 	content: "\EAF9";
 }
 
-.game-icon-glock:before {
+.game-icon-hanger:before {
 	content: "\EAFA";
 }
 
-.game-icon-m3-grease-gun:before {
+.game-icon-kimono:before {
 	content: "\EAFB";
 }
 
-.game-icon-mac-10:before {
+.game-icon-lab-coat:before {
 	content: "\EAFC";
 }
 
-.game-icon-machine-gun:before {
+.game-icon-large-dress:before {
 	content: "\EAFD";
 }
 
-.game-icon-mp-40:before {
+.game-icon-moncler-jacket:before {
 	content: "\EAFE";
 }
 
-.game-icon-mp5-2:before {
+.game-icon-ninja-armor:before {
 	content: "\EAFF";
 }
 
-.game-icon-mp5k:before {
+.game-icon-pirate-coat:before {
 	content: "\EB00";
 }
 
-.game-icon-musket:before {
+.game-icon-polo-shirt:before {
 	content: "\EB01";
 }
 
-.game-icon-p90:before {
+.game-icon-poncho:before {
 	content: "\EB02";
 }
 
-.game-icon-revolver-2:before {
+.game-icon-rolled-cloth:before {
 	content: "\EB03";
 }
 
-.game-icon-spectre-m4:before {
+.game-icon-roman-toga:before {
 	content: "\EB04";
 }
 
-.game-icon-thompson-m1:before {
+.game-icon-safety-pin:before {
 	content: "\EB05";
 }
 
-.game-icon-thompson-m1928:before {
+.game-icon-shorts:before {
 	content: "\EB06";
 }
 
-.game-icon-walther-ppk:before {
+.game-icon-skirt:before {
 	content: "\EB07";
 }
 
-.game-icon-winchester-rifle:before {
+.game-icon-sleeveless-jacket:before {
 	content: "\EB08";
 }
 
-.game-icon-bullet-impacts:before {
+.game-icon-sleeveless-top:before {
 	content: "\EB09";
 }
 
-.game-icon-cowboy-holster:before {
+.game-icon-t-shirt:before {
 	content: "\EB0A";
 }
 
-.game-icon-shotgun-rounds:before {
+.game-icon-tie:before {
 	content: "\EB0B";
 }
 
-.game-icon-fog:before {
+.game-icon-underwear:before {
 	content: "\EB0C";
 }
 
-.game-icon-kite:before {
+.game-icon-belt-buckles:before {
 	content: "\EB0D";
 }
 
-.game-icon-windsock:before {
+.game-icon-robe:before {
 	content: "\EB0E";
 }
 
-.game-icon-cloud-ring:before {
+.game-icon-trousers-2:before {
 	content: "\EB0F";
 }
 
-.game-icon-dust-cloud:before {
+.game-icon-ak47:before {
 	content: "\EB10";
 }
 
-.game-icon-flower-twirl:before {
+.game-icon-ak47u:before {
 	content: "\EB11";
 }
 
-.game-icon-fluffy-cloud:before {
+.game-icon-c96:before {
 	content: "\EB12";
 }
 
-.game-icon-half-tornado:before {
+.game-icon-colt-m1911:before {
 	content: "\EB13";
 }
 
-.game-icon-lightning-storm:before {
+.game-icon-cz-skorpion:before {
 	content: "\EB14";
 }
 
-.game-icon-lightning-tree:before {
+.game-icon-desert-eagle:before {
 	content: "\EB15";
 }
 
-.game-icon-moon:before {
+.game-icon-fn-fal:before {
 	content: "\EB16";
 }
 
-.game-icon-night-sky:before {
+.game-icon-glock:before {
 	content: "\EB17";
 }
 
-.game-icon-parachute:before {
+.game-icon-m3-grease-gun:before {
 	content: "\EB18";
 }
 
-.game-icon-raining:before {
+.game-icon-mac-10:before {
 	content: "\EB19";
 }
 
-.game-icon-static:before {
+.game-icon-machine-gun:before {
 	content: "\EB1A";
 }
 
-.game-icon-stomp-tornado:before {
+.game-icon-mp-40:before {
 	content: "\EB1B";
 }
 
-.game-icon-tornado:before {
+.game-icon-mp5-2:before {
 	content: "\EB1C";
 }
 
-.game-icon-twirl-center:before {
+.game-icon-mp5k:before {
 	content: "\EB1D";
 }
 
-.game-icon-twister:before {
+.game-icon-musket:before {
 	content: "\EB1E";
 }
 
-.game-icon-umbrella:before {
+.game-icon-p90:before {
 	content: "\EB1F";
 }
 
-.game-icon-whirlwind:before {
+.game-icon-revolver-2:before {
 	content: "\EB20";
 }
 
-.game-icon-console-controller:before {
+.game-icon-spectre-m4:before {
 	content: "\EB21";
 }
 
-.game-icon-pc:before {
+.game-icon-thompson-m1:before {
 	content: "\EB22";
 }
 
-.game-icon-cctv-camera:before {
+.game-icon-thompson-m1928:before {
 	content: "\EB23";
 }
 
-.game-icon-cyber-eye:before {
+.game-icon-walther-ppk:before {
 	content: "\EB24";
 }
 
-.game-icon-electrical-resistance:before {
+.game-icon-winchester-rifle:before {
 	content: "\EB25";
 }
 
-.game-icon-game-console:before {
+.game-icon-bullet-impacts:before {
 	content: "\EB26";
 }
 
-.game-icon-smartphone-2:before {
+.game-icon-cowboy-holster:before {
 	content: "\EB27";
 }
 
-.game-icon-tv-remote:before {
+.game-icon-shotgun-rounds:before {
 	content: "\EB28";
 }
 
-.game-icon-usb-key:before {
+.game-icon-fog:before {
 	content: "\EB29";
 }
 
-.game-icon-batteries:before {
+.game-icon-kite:before {
 	content: "\EB2A";
 }
 
-.game-icon-lightning-arc:before {
+.game-icon-windsock:before {
 	content: "\EB2B";
 }
 
-.game-icon-ram-2:before {
+.game-icon-cloud-ring:before {
 	content: "\EB2C";
 }
 
-.game-icon-american-football-ball:before {
+.game-icon-dust-cloud:before {
 	content: "\EB2D";
 }
 
-.game-icon-babyfoot-players:before {
+.game-icon-flower-twirl:before {
 	content: "\EB2E";
 }
 
-.game-icon-basketball-ball:before {
+.game-icon-fluffy-cloud:before {
 	content: "\EB2F";
 }
 
-.game-icon-beach-ball:before {
+.game-icon-half-tornado:before {
 	content: "\EB30";
 }
 
-.game-icon-boulder-dash:before {
+.game-icon-lightning-storm:before {
 	content: "\EB31";
 }
 
-.game-icon-bowling-strike:before {
+.game-icon-lightning-tree:before {
 	content: "\EB32";
 }
 
-.game-icon-dragon-orb:before {
+.game-icon-moon:before {
 	content: "\EB33";
 }
 
-.game-icon-eight-ball:before {
+.game-icon-night-sky:before {
 	content: "\EB34";
 }
 
-.game-icon-glass-ball:before {
+.game-icon-parachute:before {
 	content: "\EB35";
 }
 
-.game-icon-jupiter:before {
+.game-icon-raining:before {
 	content: "\EB36";
 }
 
-.game-icon-marbles:before {
+.game-icon-static:before {
 	content: "\EB37";
 }
 
-.game-icon-moon-orbit:before {
+.game-icon-stomp-tornado:before {
 	content: "\EB38";
 }
 
-.game-icon-morph-ball:before {
+.game-icon-tornado:before {
 	content: "\EB39";
 }
 
-.game-icon-pendulum-swing:before {
+.game-icon-twirl-center:before {
 	content: "\EB3A";
 }
 
-.game-icon-pinball-flipper:before {
+.game-icon-twister:before {
 	content: "\EB3B";
 }
 
-.game-icon-ping-pong-bat:before {
+.game-icon-umbrella:before {
 	content: "\EB3C";
 }
 
-.game-icon-planet-core:before {
+.game-icon-whirlwind:before {
 	content: "\EB3D";
 }
 
-.game-icon-snitch-quidditch-ball:before {
+.game-icon-console-controller:before {
 	content: "\EB3E";
 }
 
-.game-icon-soccer-ball:before {
+.game-icon-pc:before {
 	content: "\EB3F";
 }
 
-.game-icon-tennis-ball:before {
+.game-icon-cctv-camera:before {
 	content: "\EB40";
 }
 
-.game-icon-volleyball-ball:before {
+.game-icon-cyber-eye:before {
 	content: "\EB41";
 }
 
-.game-icon-ball-glow:before {
+.game-icon-electrical-resistance:before {
 	content: "\EB42";
 }
 
-.game-icon-balloons:before {
+.game-icon-game-console:before {
 	content: "\EB43";
 }
 
-.game-icon-black-hole-bolas:before {
+.game-icon-smartphone-2:before {
 	content: "\EB44";
 }
 
-.game-icon-blackball:before {
+.game-icon-tv-remote:before {
 	content: "\EB45";
 }
 
-.game-icon-bowling-propulsion:before {
+.game-icon-usb-key:before {
 	content: "\EB46";
 }
 
-.game-icon-caged-ball:before {
+.game-icon-batteries:before {
 	content: "\EB47";
 }
 
-.game-icon-circle-cage:before {
+.game-icon-lightning-arc:before {
 	content: "\EB48";
 }
 
-.game-icon-concentration-orb:before {
+.game-icon-ram-2:before {
 	content: "\EB49";
 }
 
-.game-icon-crumbling-ball:before {
+.game-icon-american-football-ball:before {
 	content: "\EB4A";
 }
 
-.game-icon-crystal-ball:before {
+.game-icon-babyfoot-players:before {
 	content: "\EB4B";
 }
 
-.game-icon-double-diaphragm:before {
+.game-icon-basketball-ball:before {
 	content: "\EB4C";
 }
 
-.game-icon-double-ringed-orb:before {
+.game-icon-beach-ball:before {
 	content: "\EB4D";
 }
 
-.game-icon-dragon-balls:before {
+.game-icon-boulder-dash:before {
 	content: "\EB4E";
 }
 
-.game-icon-extraction-orb:before {
+.game-icon-bowling-strike:before {
 	content: "\EB4F";
 }
 
-.game-icon-eyeball:before {
+.game-icon-dragon-orb:before {
 	content: "\EB50";
 }
 
-.game-icon-falling-blob:before {
+.game-icon-eight-ball:before {
 	content: "\EB51";
 }
 
-.game-icon-mesh-ball:before {
+.game-icon-glass-ball:before {
 	content: "\EB52";
 }
 
-.game-icon-nested-eclipses:before {
+.game-icon-jupiter:before {
 	content: "\EB53";
 }
 
-.game-icon-noodle-ball:before {
+.game-icon-marbles:before {
 	content: "\EB54";
 }
 
-.game-icon-striking-balls:before {
+.game-icon-moon-orbit:before {
 	content: "\EB55";
 }
 
-.game-icon-sword-slice:before {
+.game-icon-morph-ball:before {
 	content: "\EB56";
 }
 
-.game-icon-unstable-orb:before {
+.game-icon-pendulum-swing:before {
 	content: "\EB57";
 }
 
-.game-icon-acid-tube:before {
+.game-icon-pinball-flipper:before {
 	content: "\EB58";
 }
 
-.game-icon-syringe:before {
+.game-icon-ping-pong-bat:before {
 	content: "\EB59";
 }
 
-.game-icon-vial:before {
+.game-icon-planet-core:before {
 	content: "\EB5A";
 }
 
-.game-icon-atom:before {
+.game-icon-snitch-quidditch-ball:before {
 	content: "\EB5B";
 }
 
-.game-icon-molecule:before {
+.game-icon-soccer-ball:before {
 	content: "\EB5C";
 }
 
-.game-icon-antibody:before {
+.game-icon-tennis-ball:before {
 	content: "\EB5D";
 }
 
-.game-icon-h2o:before {
+.game-icon-volleyball-ball:before {
 	content: "\EB5E";
 }
 
-.game-icon-medicine-pills:before {
+.game-icon-ball-glow:before {
 	content: "\EB5F";
 }
 
-.game-icon-medicines:before {
+.game-icon-balloons:before {
 	content: "\EB60";
 }
 
-.game-icon-chemical-bolt:before {
+.game-icon-black-hole-bolas:before {
 	content: "\EB61";
 }
 
-.game-icon-corked-tube:before {
+.game-icon-blackball:before {
 	content: "\EB62";
 }
 
-.game-icon-dripping-tube:before {
+.game-icon-bowling-propulsion:before {
 	content: "\EB63";
 }
 
-.game-icon-energise:before {
+.game-icon-caged-ball:before {
 	content: "\EB64";
 }
 
-.game-icon-erlenmeyer:before {
+.game-icon-circle-cage:before {
 	content: "\EB65";
 }
 
-.game-icon-foamy-disc:before {
+.game-icon-concentration-orb:before {
 	content: "\EB66";
 }
 
-.game-icon-love-injection:before {
+.game-icon-crumbling-ball:before {
 	content: "\EB67";
 }
 
-.game-icon-materials-science:before {
+.game-icon-crystal-ball:before {
 	content: "\EB68";
 }
 
-.game-icon-miracle-medecine:before {
+.game-icon-double-diaphragm:before {
 	content: "\EB69";
 }
 
-.game-icon-molecule-2:before {
+.game-icon-double-ringed-orb:before {
 	content: "\EB6A";
 }
 
-.game-icon-pill-drop:before {
+.game-icon-dragon-balls:before {
 	content: "\EB6B";
 }
 
-.game-icon-soap-experiment:before {
+.game-icon-extraction-orb:before {
 	content: "\EB6C";
 }
 
-.game-icon-syringe-2:before {
+.game-icon-eyeball:before {
 	content: "\EB6D";
 }
 
-.game-icon-test-tubes:before {
+.game-icon-falling-blob:before {
 	content: "\EB6E";
 }
 
-.game-icon-battery-0:before {
+.game-icon-mesh-ball:before {
 	content: "\EB6F";
 }
 
-.game-icon-battery-100:before {
+.game-icon-nested-eclipses:before {
 	content: "\EB70";
 }
 
-.game-icon-battery-25:before {
+.game-icon-noodle-ball:before {
 	content: "\EB71";
 }
 
-.game-icon-battery-50:before {
+.game-icon-striking-balls:before {
 	content: "\EB72";
 }
 
-.game-icon-battery-75:before {
+.game-icon-sword-slice:before {
 	content: "\EB73";
 }
 
-.game-icon-battery-minus:before {
+.game-icon-unstable-orb:before {
 	content: "\EB74";
 }
 
-.game-icon-battery-plus:before {
+.game-icon-acid-tube:before {
 	content: "\EB75";
 }
 
-.game-icon-battery-pack-alt:before {
+.game-icon-syringe-2:before {
 	content: "\EB76";
 }
 
-.game-icon-battery-pack:before {
+.game-icon-vial:before {
 	content: "\EB77";
 }
 
-.game-icon-life-bar:before {
+.game-icon-atom:before {
 	content: "\EB78";
 }
 
-.game-icon-entangled-typhoon:before {
+.game-icon-molecule:before {
 	content: "\EB79";
 }
 
-.game-icon-lightning-electron:before {
+.game-icon-antibody:before {
 	content: "\EB7A";
 }
 
-.game-icon-portal:before {
+.game-icon-h2o:before {
 	content: "\EB7B";
 }
 
-.game-icon-rolling-energy:before {
+.game-icon-chemical-bolt:before {
 	content: "\EB7C";
 }
 
-.game-icon-sinusoidal-beam:before {
+.game-icon-corked-tube:before {
 	content: "\EB7D";
 }
 
-.game-icon-tesla-coil:before {
+.game-icon-dripping-tube:before {
 	content: "\EB7E";
 }
 
-.game-icon-banana-bunch:before {
+.game-icon-energise:before {
 	content: "\EB7F";
 }
 
-.game-icon-banana-peeled:before {
+.game-icon-erlenmeyer:before {
 	content: "\EB80";
 }
 
-.game-icon-broccoli:before {
+.game-icon-foamy-disc:before {
 	content: "\EB81";
 }
 
-.game-icon-coconuts:before {
+.game-icon-materials-science:before {
 	content: "\EB82";
 }
 
-.game-icon-cut-lemon:before {
+.game-icon-molecule-2:before {
 	content: "\EB83";
 }
 
-.game-icon-lemon:before {
+.game-icon-soap-experiment:before {
 	content: "\EB84";
 }
 
-.game-icon-orange:before {
+.game-icon-test-tubes:before {
 	content: "\EB85";
 }
 
-.game-icon-peach:before {
+.game-icon-battery-0:before {
 	content: "\EB86";
 }
 
-.game-icon-pineapple:before {
+.game-icon-battery-100:before {
 	content: "\EB87";
 }
 
-.game-icon-pumpkin:before {
+.game-icon-battery-25:before {
 	content: "\EB88";
 }
 
-.game-icon-raspberry:before {
+.game-icon-battery-50:before {
 	content: "\EB89";
 }
 
-.game-icon-strawberry:before {
+.game-icon-battery-75:before {
 	content: "\EB8A";
 }
 
-.game-icon-watermelon:before {
+.game-icon-battery-minus:before {
 	content: "\EB8B";
 }
 
-.game-icon-apple-seeds:before {
+.game-icon-battery-plus:before {
 	content: "\EB8C";
 }
 
-.game-icon-blackcurrant:before {
+.game-icon-battery-pack-alt:before {
 	content: "\EB8D";
 }
 
-.game-icon-gift-trap:before {
+.game-icon-battery-pack:before {
 	content: "\EB8E";
 }
 
-.game-icon-electric:before {
+.game-icon-heart-battery:before {
 	content: "\EB8F";
 }
 
-.game-icon-chain-lightning:before {
+.game-icon-entangled-typhoon:before {
 	content: "\EB90";
 }
 
-.game-icon-lightning-dome:before {
+.game-icon-lightning-electron:before {
 	content: "\EB91";
 }
 
-.game-icon-bolt-eye:before {
+.game-icon-portal:before {
 	content: "\EB92";
 }
 
-.game-icon-bolt-saw:before {
+.game-icon-rolling-energy:before {
 	content: "\EB93";
 }
 
-.game-icon-book-storm:before {
+.game-icon-sinusoidal-beam:before {
 	content: "\EB94";
 }
 
-.game-icon-electric-whip:before {
+.game-icon-tesla-coil:before {
 	content: "\EB95";
 }
 
-.game-icon-focused-lightning:before {
+.game-icon-banana-bunch:before {
 	content: "\EB96";
 }
 
-.game-icon-heavy-lightning:before {
+.game-icon-banana-peeled:before {
 	content: "\EB97";
 }
 
-.game-icon-lightning-branches:before {
+.game-icon-broccoli:before {
 	content: "\EB98";
 }
 
-.game-icon-lightning-dissipation:before {
+.game-icon-coconuts:before {
 	content: "\EB99";
 }
 
-.game-icon-lightning-frequency:before {
+.game-icon-cut-lemon:before {
 	content: "\EB9A";
 }
 
-.game-icon-lightning-helix:before {
+.game-icon-lemon:before {
 	content: "\EB9B";
 }
 
-.game-icon-lightning-saber:before {
+.game-icon-orange:before {
 	content: "\EB9C";
 }
 
-.game-icon-lightning-shadow:before {
+.game-icon-peach:before {
 	content: "\EB9D";
 }
 
-.game-icon-lightning-shout:before {
+.game-icon-pineapple:before {
 	content: "\EB9E";
 }
 
-.game-icon-lightning-slashes:before {
+.game-icon-pumpkin:before {
 	content: "\EB9F";
 }
 
-.game-icon-lightning-trio:before {
+.game-icon-raspberry:before {
 	content: "\EBA0";
 }
 
-.game-icon-power-lightning:before {
+.game-icon-strawberry:before {
 	content: "\EBA1";
 }
 
-.game-icon-round-struck:before {
+.game-icon-watermelon:before {
 	content: "\EBA2";
 }
 
-.game-icon-sonic-lightning:before {
+.game-icon-apple-seeds:before {
 	content: "\EBA3";
 }
 
-.game-icon-static-waves:before {
+.game-icon-blackcurrant:before {
 	content: "\EBA4";
 }
 
-.game-icon-thunder-blade:before {
+.game-icon-gift-trap:before {
 	content: "\EBA5";
 }
 
-.game-icon-thunder-struck:before {
+.game-icon-electric:before {
 	content: "\EBA6";
 }
 
-.game-icon-thunderball:before {
+.game-icon-chain-lightning:before {
 	content: "\EBA7";
 }
 
-.game-icon-windy-stripes:before {
+.game-icon-lightning-dome:before {
 	content: "\EBA8";
 }
 
-.game-icon-zeus-sword:before {
+.game-icon-bolt-eye:before {
 	content: "\EBA9";
 }
 
-.game-icon-arcing-bolt:before {
+.game-icon-bolt-saw:before {
 	content: "\EBAA";
 }
 
-.game-icon-bright-explosion:before {
+.game-icon-book-storm:before {
 	content: "\EBAB";
 }
 
-.game-icon-bubbling-beam:before {
+.game-icon-electric-whip:before {
 	content: "\EBAC";
 }
 
-.game-icon-burning-blobs:before {
+.game-icon-focused-lightning:before {
 	content: "\EBAD";
 }
 
-.game-icon-clout:before {
+.game-icon-heavy-lightning:before {
 	content: "\EBAE";
 }
 
-.game-icon-comet-spark:before {
+.game-icon-lightning-branches:before {
 	content: "\EBAF";
 }
 
-.game-icon-corner-explosion:before {
+.game-icon-lightning-dissipation:before {
 	content: "\EBB0";
 }
 
-.game-icon-crowned-explosion:before {
+.game-icon-lightning-frequency:before {
 	content: "\EBB1";
 }
 
-.game-icon-egg-defense:before {
+.game-icon-lightning-helix:before {
 	content: "\EBB2";
 }
 
-.game-icon-electrical-crescent:before {
+.game-icon-lightning-saber:before {
 	content: "\EBB3";
 }
 
-.game-icon-explosive-meeting:before {
+.game-icon-lightning-shadow:before {
 	content: "\EBB4";
 }
 
-.game-icon-fission:before {
+.game-icon-lightning-shout:before {
 	content: "\EBB5";
 }
 
-.game-icon-fragmented-meteor:before {
+.game-icon-lightning-slashes:before {
 	content: "\EBB6";
 }
 
-.game-icon-heavy-fall:before {
+.game-icon-lightning-trio:before {
 	content: "\EBB7";
 }
 
-.game-icon-hypersonic-bolt:before {
+.game-icon-power-lightning:before {
 	content: "\EBB8";
 }
 
-.game-icon-hypersonic-melon:before {
+.game-icon-round-struck:before {
 	content: "\EBB9";
 }
 
-.game-icon-implosion:before {
+.game-icon-sonic-lightning:before {
 	content: "\EBBA";
 }
 
-.game-icon-incoming-rocket:before {
+.game-icon-static-waves:before {
 	content: "\EBBB";
 }
 
-.game-icon-ink-swirl:before {
+.game-icon-thunder-blade:before {
 	content: "\EBBC";
 }
 
-.game-icon-ion-cannon-blast:before {
+.game-icon-thunder-struck:before {
 	content: "\EBBD";
 }
 
-.game-icon-land-mine:before {
+.game-icon-thunderball:before {
 	content: "\EBBE";
 }
 
-.game-icon-mine-explosion:before {
+.game-icon-windy-stripes:before {
 	content: "\EBBF";
 }
 
-.game-icon-ringed-beam:before {
+.game-icon-zeus-sword:before {
 	content: "\EBC0";
 }
 
-.game-icon-screen-impact:before {
+.game-icon-arcing-bolt:before {
 	content: "\EBC1";
 }
 
-.game-icon-squib:before {
+.game-icon-bright-explosion:before {
 	content: "\EBC2";
 }
 
-.game-icon-striking-splinter:before {
+.game-icon-bubbling-beam:before {
 	content: "\EBC3";
 }
 
-.game-icon-health-decrease:before {
+.game-icon-burning-blobs:before {
 	content: "\EBC4";
 }
 
-.game-icon-health-increase:before {
+.game-icon-clout:before {
 	content: "\EBC5";
 }
 
-.game-icon-health-normal:before {
+.game-icon-comet-spark:before {
 	content: "\EBC6";
 }
 
-.game-icon-light-sabers:before {
+.game-icon-corner-explosion:before {
 	content: "\EBC7";
 }
 
-.game-icon-swords-power:before {
+.game-icon-crowned-explosion:before {
 	content: "\EBC8";
 }
 
-.game-icon-cross-mark:before {
+.game-icon-egg-defense:before {
 	content: "\EBC9";
 }
 
-.game-icon-crossed-axes:before {
+.game-icon-electrical-crescent:before {
 	content: "\EBCA";
 }
 
-.game-icon-dervish-swords:before {
+.game-icon-explosive-meeting:before {
 	content: "\EBCB";
 }
 
-.game-icon-royal-love:before {
+.game-icon-fission:before {
 	content: "\EBCC";
 }
 
-.game-icon-split-cross:before {
+.game-icon-fragmented-meteor:before {
 	content: "\EBCD";
 }
 
-.game-icon-templar-eye:before {
+.game-icon-heavy-fall:before {
 	content: "\EBCE";
 }
 
-.game-icon-templar-heart:before {
+.game-icon-hypersonic-bolt:before {
 	content: "\EBCF";
 }
 
-.game-icon-barbed-nails:before {
+.game-icon-hypersonic-melon:before {
 	content: "\EBD0";
 }
 
-.game-icon-claw-string:before {
+.game-icon-implosion:before {
 	content: "\EBD1";
 }
 
-.game-icon-interleaved-claws:before {
+.game-icon-incoming-rocket:before {
 	content: "\EBD2";
 }
 
-.game-icon-midnight-claw:before {
+.game-icon-ink-swirl:before {
 	content: "\EBD3";
 }
 
-.game-icon-pawprint:before {
+.game-icon-ion-cannon-blast:before {
 	content: "\EBD4";
 }
 
-.game-icon-plate-claw:before {
+.game-icon-land-mine:before {
 	content: "\EBD5";
 }
 
-.game-icon-saw-claw:before {
+.game-icon-mine-explosion:before {
 	content: "\EBD6";
 }
 
-.game-icon-shining-claw:before {
+.game-icon-ringed-beam:before {
 	content: "\EBD7";
 }
 
-.game-icon-triple-scratches:before {
+.game-icon-screen-impact:before {
 	content: "\EBD8";
 }
 
-.game-icon-crescent-blade:before {
+.game-icon-squib:before {
 	content: "\EBD9";
 }
 
-.game-icon-floor-hatch:before {
+.game-icon-striking-splinter:before {
 	content: "\EBDA";
 }
 
-.game-icon-hole:before {
+.game-icon-light-sabers:before {
 	content: "\EBDB";
 }
 
-.game-icon-enlightenment:before {
+.game-icon-swords-power:before {
 	content: "\EBDC";
 }
 
-.game-icon-time-trap:before {
+.game-icon-cross-mark:before {
 	content: "\EBDD";
 }
 
-.game-icon-medical-pack-alt:before {
+.game-icon-crossed-axes:before {
 	content: "\EBDE";
 }
 
-.game-icon-medical-pack:before {
+.game-icon-dervish-swords:before {
 	content: "\EBDF";
 }
 
-.game-icon-fetus:before {
+.game-icon-royal-love:before {
 	content: "\EBE0";
 }
 
-.game-icon-heart-minus:before {
+.game-icon-split-cross:before {
 	content: "\EBE1";
 }
 
-.game-icon-heart-plus:before {
+.game-icon-templar-eye:before {
 	content: "\EBE2";
 }
 
-.game-icon-eternal-love:before {
+.game-icon-templar-heart:before {
 	content: "\EBE3";
 }
 
-.game-icon-first-aid-kit:before {
+.game-icon-barbed-nails:before {
 	content: "\EBE4";
 }
 
-.game-icon-healing:before {
+.game-icon-claw-string:before {
 	content: "\EBE5";
 }
 
-.game-icon-health-potion:before {
+.game-icon-interleaved-claws:before {
 	content: "\EBE6";
 }
 
-.game-icon-nested-hearts:before {
+.game-icon-midnight-claw:before {
 	content: "\EBE7";
 }
 
-.game-icon-defibrilate:before {
+.game-icon-pawprint:before {
 	content: "\EBE8";
 }
 
-.game-icon-embryo:before {
+.game-icon-plate-claw:before {
 	content: "\EBE9";
 }
 
-.game-icon-life-support:before {
+.game-icon-saw-claw:before {
 	content: "\EBEA";
 }
 
-.game-icon-life-tap:before {
+.game-icon-shining-claw:before {
 	content: "\EBEB";
 }
 
-.game-icon-sticking-plaster:before {
+.game-icon-triple-scratches:before {
 	content: "\EBEC";
 }
 
-.game-icon-key:before {
+.game-icon-crescent-blade:before {
 	content: "\EBED";
 }
 
-.game-icon-combination-lock:before {
+.game-icon-floor-hatch:before {
 	content: "\EBEE";
 }
 
-.game-icon-boss-key:before {
+.game-icon-hole:before {
 	content: "\EBEF";
 }
 
-.game-icon-house-keys:before {
+.game-icon-enlightenment:before {
 	content: "\EBF0";
 }
 
-.game-icon-keyring:before {
+.game-icon-time-trap:before {
 	content: "\EBF1";
 }
 
-.game-icon-lock-spy:before {
+.game-icon-key:before {
 	content: "\EBF2";
 }
 
-.game-icon-locked-heart:before {
+.game-icon-combination-lock:before {
 	content: "\EBF3";
 }
 
-.game-icon-millenium-key:before {
+.game-icon-boss-key:before {
 	content: "\EBF4";
 }
 
-.game-icon-secret-book:before {
+.game-icon-house-keys:before {
 	content: "\EBF5";
 }
 
-.game-icon-key-2:before {
+.game-icon-keyring:before {
 	content: "\EBF6";
 }
 
-.game-icon-padlock:before {
+.game-icon-lock-spy:before {
 	content: "\EBF7";
 }
 
-.game-icon-three-keys:before {
+.game-icon-locked-heart:before {
 	content: "\EBF8";
 }
 
-.game-icon-triple-lock:before {
+.game-icon-millenium-key:before {
 	content: "\EBF9";
 }
 
-.game-icon-unlocking:before {
+.game-icon-secret-book:before {
 	content: "\EBFA";
 }
 
-.game-icon-wax-seal:before {
+.game-icon-key-2:before {
 	content: "\EBFB";
 }
 
-.game-icon-level-four-advanced:before {
+.game-icon-padlock:before {
 	content: "\EBFC";
 }
 
-.game-icon-level-four:before {
+.game-icon-three-keys:before {
 	content: "\EBFD";
 }
 
-.game-icon-level-three-advanced:before {
+.game-icon-triple-lock:before {
 	content: "\EBFE";
 }
 
-.game-icon-level-three:before {
+.game-icon-unlocking:before {
 	content: "\EBFF";
 }
 
-.game-icon-level-two-advanced:before {
+.game-icon-wax-seal:before {
 	content: "\EC00";
 }
 
-.game-icon-level-two:before {
+.game-icon-level-four-advanced:before {
 	content: "\EC01";
 }
 
-.game-icon-achievement:before {
+.game-icon-level-four:before {
 	content: "\EC02";
 }
 
-.game-icon-rank-1:before {
+.game-icon-level-three-advanced:before {
 	content: "\EC03";
 }
 
-.game-icon-rank-2:before {
+.game-icon-level-three:before {
 	content: "\EC04";
 }
 
-.game-icon-rank-3:before {
+.game-icon-level-two-advanced:before {
 	content: "\EC05";
 }
 
-.game-icon-champions:before {
+.game-icon-level-two:before {
 	content: "\EC06";
 }
 
-.game-icon-diploma:before {
+.game-icon-achievement:before {
 	content: "\EC07";
 }
 
-.game-icon-laurels-trophy:before {
+.game-icon-rank-1:before {
 	content: "\EC08";
 }
 
-.game-icon-podium-second:before {
+.game-icon-rank-2:before {
 	content: "\EC09";
 }
 
-.game-icon-podium-third:before {
+.game-icon-rank-3:before {
 	content: "\EC0A";
 }
 
-.game-icon-podium-winner:before {
+.game-icon-champions:before {
 	content: "\EC0B";
 }
 
-.game-icon-podium:before {
+.game-icon-diploma:before {
 	content: "\EC0C";
 }
 
-.game-icon-private-first-class:before {
+.game-icon-laurels-trophy:before {
 	content: "\EC0D";
 }
 
-.game-icon-private:before {
+.game-icon-podium-second:before {
 	content: "\EC0E";
 }
 
-.game-icon-ribbon-medal:before {
+.game-icon-podium-third:before {
 	content: "\EC0F";
 }
 
-.game-icon-sergeant:before {
+.game-icon-podium-winner:before {
 	content: "\EC10";
 }
 
-.game-icon-sport-medal:before {
+.game-icon-podium:before {
 	content: "\EC11";
 }
 
-.game-icon-trophy-cup:before {
+.game-icon-private-first-class:before {
 	content: "\EC12";
 }
 
-.game-icon-stopwatch-2:before {
+.game-icon-private:before {
 	content: "\EC13";
 }
 
-.game-icon-basketball-basket:before {
+.game-icon-ribbon-medal:before {
 	content: "\EC14";
 }
 
-.game-icon-bowling-pin:before {
+.game-icon-sergeant:before {
 	content: "\EC15";
 }
 
-.game-icon-cricket-bat:before {
+.game-icon-sport-medal:before {
 	content: "\EC16";
 }
 
-.game-icon-fencer:before {
+.game-icon-trophy-cup:before {
 	content: "\EC17";
 }
 
-.game-icon-footy-field:before {
+.game-icon-stopwatch-2:before {
 	content: "\EC18";
 }
 
-.game-icon-frisbee:before {
+.game-icon-basketball-basket:before {
 	content: "\EC19";
 }
 
-.game-icon-juggling-clubs:before {
+.game-icon-bowling-pin:before {
 	content: "\EC1A";
 }
 
-.game-icon-pool-dive:before {
+.game-icon-cricket-bat:before {
 	content: "\EC1B";
 }
 
-.game-icon-rugby-conversion:before {
+.game-icon-disc-golf-basket:before {
 	content: "\EC1C";
 }
 
-.game-icon-shuttlecock:before {
+.game-icon-fencer:before {
 	content: "\EC1D";
 }
 
-.game-icon-soccer-field:before {
+.game-icon-footy-field:before {
 	content: "\EC1E";
 }
 
-.game-icon-tennis-court:before {
+.game-icon-frisbee:before {
 	content: "\EC1F";
 }
 
-.game-icon-tennis-racket:before {
+.game-icon-juggling-clubs:before {
 	content: "\EC20";
 }
 
-.game-icon-bowie-knife:before {
+.game-icon-pool-dive:before {
 	content: "\EC21";
 }
 
-.game-icon-butterfly-knife:before {
+.game-icon-rugby-conversion:before {
 	content: "\EC22";
 }
 
-.game-icon-stiletto-2:before {
+.game-icon-shuttlecock:before {
 	content: "\EC23";
 }
 
-.game-icon-switchblade:before {
+.game-icon-soccer-field:before {
 	content: "\EC24";
 }
 
-.game-icon-trench-knife:before {
+.game-icon-tennis-court:before {
 	content: "\EC25";
 }
 
-.game-icon-ancient-sword:before {
+.game-icon-tennis-racket:before {
 	content: "\EC26";
 }
 
-.game-icon-butterfly-knife-2:before {
+.game-icon-abstract-001:before {
 	content: "\EC27";
 }
 
-.game-icon-glaive:before {
+.game-icon-abstract-002:before {
 	content: "\EC28";
 }
 
-.game-icon-katana:before {
+.game-icon-abstract-003:before {
 	content: "\EC29";
 }
 
-.game-icon-scabbard:before {
+.game-icon-abstract-004:before {
 	content: "\EC2A";
 }
 
-.game-icon-spiral-hilt:before {
+.game-icon-abstract-005:before {
 	content: "\EC2B";
 }
 
-.game-icon-stabbed-note:before {
+.game-icon-abstract-006:before {
 	content: "\EC2C";
 }
 
-.game-icon-sword-altar:before {
+.game-icon-abstract-007:before {
 	content: "\EC2D";
 }
 
-.game-icon-two-handed-sword:before {
+.game-icon-abstract-008:before {
 	content: "\EC2E";
 }
 
-.game-icon-assassin-pocket:before {
+.game-icon-abstract-009:before {
 	content: "\EC2F";
 }
 
-.game-icon-blade-drag:before {
+.game-icon-abstract-010:before {
 	content: "\EC30";
 }
 
-.game-icon-blade-fall:before {
+.game-icon-abstract-011:before {
 	content: "\EC31";
 }
 
-.game-icon-bloody-sword:before {
+.game-icon-abstract-012:before {
 	content: "\EC32";
 }
 
-.game-icon-bouncing-sword:before {
+.game-icon-abstract-013:before {
 	content: "\EC33";
 }
 
-.game-icon-bowie-knife-2:before {
+.game-icon-abstract-014:before {
 	content: "\EC34";
 }
 
-.game-icon-broad-dagger:before {
+.game-icon-abstract-015:before {
 	content: "\EC35";
 }
 
-.game-icon-broadsword:before {
+.game-icon-abstract-016:before {
 	content: "\EC36";
 }
 
-.game-icon-cloak-dagger:before {
+.game-icon-abstract-017:before {
 	content: "\EC37";
 }
 
-.game-icon-crescent-blade-2:before {
+.game-icon-abstract-018:before {
 	content: "\EC38";
 }
 
-.game-icon-croc-sword:before {
+.game-icon-abstract-019:before {
 	content: "\EC39";
 }
 
-.game-icon-curvy-knife:before {
+.game-icon-abstract-020:before {
 	content: "\EC3A";
 }
 
-.game-icon-daggers:before {
+.game-icon-abstract-021:before {
 	content: "\EC3B";
 }
 
-.game-icon-diving-dagger:before {
+.game-icon-abstract-022:before {
 	content: "\EC3C";
 }
 
-.game-icon-energy-sword:before {
+.game-icon-abstract-023:before {
 	content: "\EC3D";
 }
 
-.game-icon-flying-dagger:before {
+.game-icon-abstract-024:before {
 	content: "\EC3E";
 }
 
-.game-icon-fragmented-sword:before {
+.game-icon-abstract-025:before {
 	content: "\EC3F";
 }
 
-.game-icon-knife-thrust:before {
+.game-icon-abstract-026:before {
 	content: "\EC40";
 }
 
-.game-icon-plain-dagger:before {
+.game-icon-abstract-027:before {
 	content: "\EC41";
 }
 
-.game-icon-pointy-sword:before {
+.game-icon-abstract-028:before {
 	content: "\EC42";
 }
 
-.game-icon-relic-blade:before {
+.game-icon-abstract-029:before {
 	content: "\EC43";
 }
 
-.game-icon-shard-sword:before {
+.game-icon-abstract-030:before {
 	content: "\EC44";
 }
 
-.game-icon-shining-sword:before {
+.game-icon-abstract-031:before {
 	content: "\EC45";
 }
 
-.game-icon-spinning-blades:before {
+.game-icon-abstract-032:before {
 	content: "\EC46";
 }
 
-.game-icon-spinning-sword:before {
+.game-icon-abstract-033:before {
 	content: "\EC47";
 }
 
-.game-icon-spiral-thrust:before {
+.game-icon-abstract-034:before {
 	content: "\EC48";
 }
 
-.game-icon-striped-sword:before {
+.game-icon-abstract-035:before {
 	content: "\EC49";
 }
 
-.game-icon-sword-array:before {
+.game-icon-abstract-036:before {
 	content: "\EC4A";
 }
 
-.game-icon-sword-hilt:before {
+.game-icon-abstract-037:before {
 	content: "\EC4B";
 }
 
-.game-icon-sword-spin:before {
+.game-icon-abstract-038:before {
 	content: "\EC4C";
 }
 
-.game-icon-sword-wound:before {
+.game-icon-abstract-039:before {
 	content: "\EC4D";
 }
 
-.game-icon-thrown-daggers:before {
+.game-icon-abstract-040:before {
 	content: "\EC4E";
 }
 
-.game-icon-thrown-knife:before {
+.game-icon-abstract-041:before {
 	content: "\EC4F";
 }
 
-.game-icon-neck-bite:before {
+.game-icon-abstract-042:before {
 	content: "\EC50";
 }
 
-.game-icon-bandaged:before {
+.game-icon-abstract-043:before {
 	content: "\EC51";
 }
 
-.game-icon-bleeding-wound:before {
+.game-icon-abstract-044:before {
 	content: "\EC52";
 }
 
-.game-icon-bloody-stash:before {
+.game-icon-abstract-045:before {
 	content: "\EC53";
 }
 
-.game-icon-feather-wound:before {
+.game-icon-abstract-046:before {
 	content: "\EC54";
 }
 
-.game-icon-open-wound:before {
+.game-icon-abstract-047:before {
 	content: "\EC55";
 }
 
-.game-icon-scar-wound:before {
+.game-icon-abstract-048:before {
 	content: "\EC56";
 }
 
-.game-icon-spotted-wound:before {
+.game-icon-abstract-049:before {
 	content: "\EC57";
 }
 
-.game-icon-stitched-wound:before {
+.game-icon-abstract-050:before {
 	content: "\EC58";
 }
 
-.game-icon-spinning-top:before {
+.game-icon-abstract-051:before {
 	content: "\EC59";
 }
 
-.game-icon-balloon-dog:before {
+.game-icon-abstract-052:before {
 	content: "\EC5A";
 }
 
-.game-icon-paper-plane:before {
+.game-icon-abstract-053:before {
 	content: "\EC5B";
 }
 
-.game-icon-paper-windmill:before {
+.game-icon-abstract-054:before {
 	content: "\EC5C";
 }
 
-.game-icon-puzzle:before {
+.game-icon-abstract-055:before {
 	content: "\EC5D";
 }
 
-.game-icon-jigsaw-piece:before {
+.game-icon-abstract-056:before {
 	content: "\EC5E";
 }
 
-.game-icon-voodoo-doll:before {
+.game-icon-abstract-057:before {
 	content: "\EC5F";
 }
 
-.game-icon-d10:before {
+.game-icon-abstract-058:before {
 	content: "\EC60";
 }
 
-.game-icon-d12:before {
+.game-icon-abstract-059:before {
 	content: "\EC61";
 }
 
-.game-icon-d4:before {
+.game-icon-abstract-060:before {
 	content: "\EC62";
 }
 
-.game-icon-inverted-dice-1:before {
+.game-icon-abstract-061:before {
 	content: "\EC63";
 }
 
-.game-icon-inverted-dice-2:before {
+.game-icon-abstract-062:before {
 	content: "\EC64";
 }
 
-.game-icon-inverted-dice-3:before {
+.game-icon-abstract-063:before {
 	content: "\EC65";
 }
 
-.game-icon-inverted-dice-4:before {
+.game-icon-abstract-064:before {
 	content: "\EC66";
 }
 
-.game-icon-inverted-dice-5:before {
+.game-icon-abstract-065:before {
 	content: "\EC67";
 }
 
-.game-icon-inverted-dice-6:before {
+.game-icon-abstract-066:before {
 	content: "\EC68";
 }
 
-.game-icon-dice-eight-faces-eight:before {
+.game-icon-abstract-067:before {
 	content: "\EC69";
 }
 
-.game-icon-dice-six-faces-five:before {
+.game-icon-abstract-068:before {
 	content: "\EC6A";
 }
 
-.game-icon-dice-six-faces-four:before {
+.game-icon-abstract-069:before {
 	content: "\EC6B";
 }
 
-.game-icon-dice-six-faces-one:before {
+.game-icon-abstract-070:before {
 	content: "\EC6C";
 }
 
-.game-icon-dice-six-faces-six:before {
+.game-icon-abstract-071:before {
 	content: "\EC6D";
 }
 
-.game-icon-dice-six-faces-two:before {
+.game-icon-abstract-072:before {
 	content: "\EC6E";
 }
 
-.game-icon-dice-twenty-faces-twenty:before {
+.game-icon-abstract-073:before {
 	content: "\EC6F";
 }
 
-.game-icon-perspective-dice-five:before {
+.game-icon-abstract-074:before {
 	content: "\EC70";
 }
 
-.game-icon-perspective-dice-four:before {
+.game-icon-abstract-075:before {
 	content: "\EC71";
 }
 
-.game-icon-perspective-dice-one:before {
+.game-icon-abstract-076:before {
 	content: "\EC72";
 }
 
-.game-icon-perspective-dice-six-faces-five:before {
+.game-icon-abstract-077:before {
 	content: "\EC73";
 }
 
-.game-icon-perspective-dice-six-faces-one:before {
+.game-icon-abstract-078:before {
 	content: "\EC74";
 }
 
-.game-icon-perspective-dice-six-faces-random:before {
+.game-icon-abstract-079:before {
 	content: "\EC75";
 }
 
-.game-icon-perspective-dice-six-faces-six:before {
+.game-icon-abstract-080:before {
 	content: "\EC76";
 }
 
-.game-icon-perspective-dice-six-faces-three:before {
+.game-icon-abstract-081:before {
 	content: "\EC77";
 }
 
-.game-icon-perspective-dice-six-faces-two:before {
+.game-icon-abstract-082:before {
 	content: "\EC78";
 }
 
-.game-icon-perspective-dice-six:before {
+.game-icon-abstract-083:before {
 	content: "\EC79";
 }
 
-.game-icon-perspective-dice-three:before {
+.game-icon-abstract-084:before {
 	content: "\EC7A";
 }
 
-.game-icon-perspective-dice-two:before {
+.game-icon-abstract-085:before {
 	content: "\EC7B";
 }
 
-.game-icon-evil-eyes:before {
+.game-icon-abstract-086:before {
 	content: "\EC7C";
 }
 
-.game-icon-sight-disabled:before {
+.game-icon-abstract-087:before {
 	content: "\EC7D";
 }
 
-.game-icon-eyelashes:before {
+.game-icon-abstract-088:before {
 	content: "\EC7E";
 }
 
-.game-icon-night-vision:before {
+.game-icon-abstract-089:before {
 	content: "\EC7F";
 }
 
-.game-icon-brass-eye:before {
+.game-icon-abstract-090:before {
 	content: "\EC80";
 }
 
-.game-icon-croissants-pupil:before {
+.game-icon-abstract-091:before {
 	content: "\EC81";
 }
 
-.game-icon-falling-eye:before {
+.game-icon-abstract-092:before {
 	content: "\EC82";
 }
 
-.game-icon-lightning-tear:before {
+.game-icon-abstract-093:before {
 	content: "\EC83";
 }
 
-.game-icon-octogonal-eye:before {
+.game-icon-abstract-094:before {
 	content: "\EC84";
 }
 
-.game-icon-semi-closed-eye:before {
+.game-icon-abstract-095:before {
 	content: "\EC85";
 }
 
-.game-icon-sheikah-eye:before {
+.game-icon-abstract-096:before {
 	content: "\EC86";
 }
 
-.game-icon-six-eyes:before {
+.game-icon-abstract-097:before {
 	content: "\EC87";
 }
 
-.game-icon-sunken-eye:before {
+.game-icon-abstract-098:before {
 	content: "\EC88";
 }
 
-.game-icon-surrounded-eye:before {
+.game-icon-abstract-099:before {
 	content: "\EC89";
 }
 
-.game-icon-third-eye:before {
+.game-icon-abstract-100:before {
 	content: "\EC8A";
 }
 
-.game-icon-fangs:before {
+.game-icon-abstract-101:before {
 	content: "\EC8B";
 }
 
-.game-icon-bad-breath:before {
+.game-icon-abstract-102:before {
 	content: "\EC8C";
 }
 
-.game-icon-lipstick:before {
+.game-icon-abstract-103:before {
 	content: "\EC8D";
 }
 
-.game-icon-tongue:before {
+.game-icon-abstract-104:before {
 	content: "\EC8E";
 }
 
-.game-icon-carnivore-mouth:before {
+.game-icon-abstract-105:before {
 	content: "\EC8F";
 }
 
-.game-icon-energy-breath:before {
+.game-icon-abstract-106:before {
 	content: "\EC90";
 }
 
-.game-icon-front-teeth:before {
+.game-icon-abstract-107:before {
 	content: "\EC91";
 }
 
-.game-icon-incisors:before {
+.game-icon-abstract-108:before {
 	content: "\EC92";
 }
 
-.game-icon-lips:before {
+.game-icon-abstract-109:before {
 	content: "\EC93";
 }
 
-.game-icon-saber-tooth:before {
+.game-icon-abstract-110:before {
 	content: "\EC94";
 }
 
-.game-icon-sharp-lips:before {
+.game-icon-abstract-111:before {
 	content: "\EC95";
 }
 
-.game-icon-love-letter:before {
+.game-icon-abstract-112:before {
 	content: "\EC96";
 }
 
-.game-icon-love-mystery:before {
+.game-icon-abstract-113:before {
 	content: "\EC97";
 }
 
-.game-icon-ball-heart:before {
+.game-icon-abstract-114:before {
 	content: "\EC98";
 }
 
-.game-icon-broken-heart-zone:before {
+.game-icon-abstract-115:before {
 	content: "\EC99";
 }
 
-.game-icon-charm:before {
+.game-icon-abstract-116:before {
 	content: "\EC9A";
 }
 
-.game-icon-chewed-heart:before {
+.game-icon-abstract-117:before {
 	content: "\EC9B";
 }
 
-.game-icon-glass-heart:before {
+.game-icon-abstract-118:before {
 	content: "\EC9C";
 }
 
-.game-icon-half-heart:before {
+.game-icon-abstract-119:before {
 	content: "\EC9D";
 }
 
-.game-icon-shining-heart:before {
+.game-icon-abstract-120:before {
 	content: "\EC9E";
 }
 
-.game-icon-techno-heart:before {
+.game-icon-abstract-121:before {
 	content: "\EC9F";
 }
 
-.game-icon-tentacle-heart:before {
+.game-icon-black-book:before {
 	content: "\ECA0";
 }
 
-.game-icon-defense-satellite:before {
+.game-icon-white-book:before {
 	content: "\ECA1";
 }
 
-.game-icon-ringed-planet:before {
+.game-icon-book-cover:before {
 	content: "\ECA2";
 }
 
-.game-icon-vortex:before {
+.game-icon-book-pile:before {
 	content: "\ECA3";
 }
 
-.game-icon-platform:before {
+.game-icon-bookshelf:before {
 	content: "\ECA4";
 }
 
-.game-icon-i-brick:before {
+.game-icon-love-letter:before {
 	content: "\ECA5";
 }
 
-.game-icon-j-brick:before {
+.game-icon-paper-clip:before {
 	content: "\ECA6";
 }
 
-.game-icon-l-brick:before {
+.game-icon-paper-plane:before {
 	content: "\ECA7";
 }
 
-.game-icon-o-brick:before {
+.game-icon-spell-book:before {
 	content: "\ECA8";
 }
 
-.game-icon-s-brick:before {
+.game-icon-stabbed-note:before {
 	content: "\ECA9";
 }
 
-.game-icon-t-brick:before {
+.game-icon-book-aura:before {
 	content: "\ECAA";
 }
 
-.game-icon-z-brick:before {
+.game-icon-book-cover-2:before {
 	content: "\ECAB";
 }
 
-.game-icon-pocket-watch:before {
+.game-icon-bookmarklet:before {
 	content: "\ECAC";
 }
 
-.game-icon-watch:before {
+.game-icon-folded-paper:before {
 	content: "\ECAD";
 }
 
-.game-icon-empty-hourglass:before {
+.game-icon-fountain-pen:before {
 	content: "\ECAE";
 }
 
-.game-icon-heavy-timer:before {
+.game-icon-papers:before {
 	content: "\ECAF";
 }
 
-.game-icon-sands-of-time:before {
+.game-icon-quill-ink:before {
 	content: "\ECB0";
 }
 
-.game-icon-black-book:before {
+.game-icon-scroll-unfurled:before {
 	content: "\ECB1";
 }
 
-.game-icon-white-book:before {
+.game-icon-tied-scroll:before {
 	content: "\ECB2";
 }
 
-.game-icon-book-cover:before {
+.game-icon-love-mystery:before {
 	content: "\ECB3";
 }
 
-.game-icon-book-pile:before {
+.game-icon-ball-heart:before {
 	content: "\ECB4";
 }
 
-.game-icon-bookshelf:before {
+.game-icon-broken-heart-zone:before {
 	content: "\ECB5";
 }
 
-.game-icon-paper-clip:before {
+.game-icon-charm:before {
 	content: "\ECB6";
 }
 
-.game-icon-spell-book:before {
+.game-icon-chewed-heart:before {
 	content: "\ECB7";
 }
 
-.game-icon-book-aura:before {
+.game-icon-glass-heart:before {
 	content: "\ECB8";
 }
 
-.game-icon-book-cover-2:before {
+.game-icon-half-heart:before {
 	content: "\ECB9";
 }
 
-.game-icon-bookmarklet:before {
+.game-icon-shining-heart:before {
 	content: "\ECBA";
 }
 
-.game-icon-folded-paper:before {
+.game-icon-techno-heart:before {
 	content: "\ECBB";
 }
 
-.game-icon-fountain-pen:before {
+.game-icon-tentacle-heart:before {
 	content: "\ECBC";
 }
 
-.game-icon-papers:before {
+.game-icon-bowie-knife:before {
 	content: "\ECBD";
 }
 
-.game-icon-quill-ink:before {
+.game-icon-butterfly-knife:before {
 	content: "\ECBE";
 }
 
-.game-icon-scroll-unfurled:before {
+.game-icon-stiletto-2:before {
 	content: "\ECBF";
 }
 
-.game-icon-tied-scroll:before {
+.game-icon-switchblade:before {
 	content: "\ECC0";
 }
 
-.game-icon-abstract-001:before {
+.game-icon-trench-knife:before {
 	content: "\ECC1";
 }
 
-.game-icon-abstract-002:before {
+.game-icon-ancient-sword:before {
 	content: "\ECC2";
 }
 
-.game-icon-abstract-003:before {
+.game-icon-butterfly-knife-2:before {
 	content: "\ECC3";
 }
 
-.game-icon-abstract-004:before {
+.game-icon-glaive:before {
 	content: "\ECC4";
 }
 
-.game-icon-abstract-005:before {
+.game-icon-katana:before {
 	content: "\ECC5";
 }
 
-.game-icon-abstract-006:before {
+.game-icon-scabbard:before {
 	content: "\ECC6";
 }
 
-.game-icon-abstract-007:before {
+.game-icon-spiral-hilt:before {
 	content: "\ECC7";
 }
 
-.game-icon-abstract-008:before {
+.game-icon-sword-altar:before {
 	content: "\ECC8";
 }
 
-.game-icon-abstract-009:before {
+.game-icon-two-handed-sword:before {
 	content: "\ECC9";
 }
 
-.game-icon-abstract-010:before {
+.game-icon-assassin-pocket:before {
 	content: "\ECCA";
 }
 
-.game-icon-abstract-011:before {
+.game-icon-blade-drag:before {
 	content: "\ECCB";
 }
 
-.game-icon-abstract-012:before {
+.game-icon-blade-fall:before {
 	content: "\ECCC";
 }
 
-.game-icon-abstract-013:before {
+.game-icon-bloody-sword:before {
 	content: "\ECCD";
 }
 
-.game-icon-abstract-014:before {
+.game-icon-bouncing-sword:before {
 	content: "\ECCE";
 }
 
-.game-icon-abstract-015:before {
+.game-icon-bowie-knife-2:before {
 	content: "\ECCF";
 }
 
-.game-icon-abstract-016:before {
+.game-icon-broad-dagger:before {
 	content: "\ECD0";
 }
 
-.game-icon-abstract-017:before {
+.game-icon-broadsword:before {
 	content: "\ECD1";
 }
 
-.game-icon-abstract-018:before {
+.game-icon-cloak-dagger:before {
 	content: "\ECD2";
 }
 
-.game-icon-abstract-019:before {
+.game-icon-crescent-blade-2:before {
 	content: "\ECD3";
 }
 
-.game-icon-abstract-020:before {
+.game-icon-croc-sword:before {
 	content: "\ECD4";
 }
 
-.game-icon-abstract-021:before {
+.game-icon-curvy-knife:before {
 	content: "\ECD5";
 }
 
-.game-icon-abstract-022:before {
+.game-icon-daggers:before {
 	content: "\ECD6";
 }
 
-.game-icon-abstract-023:before {
+.game-icon-diving-dagger:before {
 	content: "\ECD7";
 }
 
-.game-icon-abstract-024:before {
+.game-icon-energy-sword:before {
 	content: "\ECD8";
 }
 
-.game-icon-abstract-025:before {
+.game-icon-flying-dagger:before {
 	content: "\ECD9";
 }
 
-.game-icon-abstract-026:before {
+.game-icon-fragmented-sword:before {
 	content: "\ECDA";
 }
 
-.game-icon-abstract-027:before {
+.game-icon-knife-thrust:before {
 	content: "\ECDB";
 }
 
-.game-icon-abstract-028:before {
+.game-icon-plain-dagger:before {
 	content: "\ECDC";
 }
 
-.game-icon-abstract-029:before {
+.game-icon-pointy-sword:before {
 	content: "\ECDD";
 }
 
-.game-icon-abstract-030:before {
+.game-icon-relic-blade:before {
 	content: "\ECDE";
 }
 
-.game-icon-abstract-031:before {
+.game-icon-shard-sword:before {
 	content: "\ECDF";
 }
 
-.game-icon-abstract-032:before {
+.game-icon-shining-sword:before {
 	content: "\ECE0";
 }
 
-.game-icon-abstract-033:before {
+.game-icon-spinning-blades:before {
 	content: "\ECE1";
 }
 
-.game-icon-abstract-034:before {
+.game-icon-spinning-sword:before {
 	content: "\ECE2";
 }
 
-.game-icon-abstract-035:before {
+.game-icon-spiral-thrust:before {
 	content: "\ECE3";
 }
 
-.game-icon-abstract-036:before {
+.game-icon-striped-sword:before {
 	content: "\ECE4";
 }
 
-.game-icon-abstract-037:before {
+.game-icon-sword-array:before {
 	content: "\ECE5";
 }
 
-.game-icon-abstract-038:before {
+.game-icon-sword-hilt:before {
 	content: "\ECE6";
 }
 
-.game-icon-abstract-039:before {
+.game-icon-sword-spin:before {
 	content: "\ECE7";
 }
 
-.game-icon-abstract-040:before {
+.game-icon-sword-wound:before {
 	content: "\ECE8";
 }
 
-.game-icon-abstract-041:before {
+.game-icon-thrown-daggers:before {
 	content: "\ECE9";
 }
 
-.game-icon-abstract-042:before {
+.game-icon-thrown-knife:before {
 	content: "\ECEA";
 }
 
-.game-icon-abstract-043:before {
+.game-icon-neck-bite:before {
 	content: "\ECEB";
 }
 
-.game-icon-abstract-044:before {
+.game-icon-bandaged:before {
 	content: "\ECEC";
 }
 
-.game-icon-abstract-045:before {
+.game-icon-bleeding-wound:before {
 	content: "\ECED";
 }
 
-.game-icon-abstract-046:before {
+.game-icon-bloody-stash:before {
 	content: "\ECEE";
 }
 
-.game-icon-abstract-047:before {
+.game-icon-feather-wound:before {
 	content: "\ECEF";
 }
 
-.game-icon-abstract-048:before {
+.game-icon-open-wound:before {
 	content: "\ECF0";
 }
 
-.game-icon-abstract-049:before {
+.game-icon-scar-wound:before {
 	content: "\ECF1";
 }
 
-.game-icon-abstract-050:before {
+.game-icon-spotted-wound:before {
 	content: "\ECF2";
 }
 
-.game-icon-abstract-051:before {
+.game-icon-stitched-wound:before {
 	content: "\ECF3";
 }
 
-.game-icon-abstract-052:before {
+.game-icon-spinning-top:before {
 	content: "\ECF4";
 }
 
-.game-icon-abstract-053:before {
+.game-icon-balloon-dog:before {
 	content: "\ECF5";
 }
 
-.game-icon-abstract-054:before {
+.game-icon-paper-windmill:before {
 	content: "\ECF6";
 }
 
-.game-icon-abstract-055:before {
+.game-icon-puzzle:before {
 	content: "\ECF7";
 }
 
-.game-icon-abstract-056:before {
+.game-icon-jigsaw-piece:before {
 	content: "\ECF8";
 }
 
-.game-icon-abstract-057:before {
+.game-icon-voodoo-doll:before {
 	content: "\ECF9";
 }
 
-.game-icon-abstract-058:before {
+.game-icon-d10:before {
 	content: "\ECFA";
 }
 
-.game-icon-abstract-059:before {
+.game-icon-d12:before {
 	content: "\ECFB";
 }
 
-.game-icon-abstract-060:before {
+.game-icon-d4:before {
 	content: "\ECFC";
 }
 
-.game-icon-abstract-061:before {
+.game-icon-inverted-dice-1:before {
 	content: "\ECFD";
 }
 
-.game-icon-abstract-062:before {
+.game-icon-inverted-dice-2:before {
 	content: "\ECFE";
 }
 
-.game-icon-abstract-063:before {
+.game-icon-inverted-dice-3:before {
 	content: "\ECFF";
 }
 
-.game-icon-abstract-064:before {
+.game-icon-inverted-dice-4:before {
 	content: "\ED00";
 }
 
-.game-icon-abstract-065:before {
+.game-icon-inverted-dice-5:before {
 	content: "\ED01";
 }
 
-.game-icon-abstract-066:before {
+.game-icon-inverted-dice-6:before {
 	content: "\ED02";
 }
 
-.game-icon-abstract-067:before {
+.game-icon-dice-eight-faces-eight:before {
 	content: "\ED03";
 }
 
-.game-icon-abstract-068:before {
+.game-icon-dice-six-faces-five:before {
 	content: "\ED04";
 }
 
-.game-icon-abstract-069:before {
+.game-icon-dice-six-faces-four:before {
 	content: "\ED05";
 }
 
-.game-icon-abstract-070:before {
+.game-icon-dice-six-faces-one:before {
 	content: "\ED06";
 }
 
-.game-icon-abstract-071:before {
+.game-icon-dice-six-faces-six:before {
 	content: "\ED07";
 }
 
-.game-icon-abstract-072:before {
+.game-icon-dice-six-faces-two:before {
 	content: "\ED08";
 }
 
-.game-icon-abstract-073:before {
+.game-icon-dice-twenty-faces-twenty:before {
 	content: "\ED09";
 }
 
-.game-icon-abstract-074:before {
+.game-icon-perspective-dice-five:before {
 	content: "\ED0A";
 }
 
-.game-icon-abstract-075:before {
+.game-icon-perspective-dice-four:before {
 	content: "\ED0B";
 }
 
-.game-icon-abstract-076:before {
+.game-icon-perspective-dice-one:before {
 	content: "\ED0C";
 }
 
-.game-icon-abstract-077:before {
+.game-icon-perspective-dice-six-faces-five:before {
 	content: "\ED0D";
 }
 
-.game-icon-abstract-078:before {
+.game-icon-perspective-dice-six-faces-one:before {
 	content: "\ED0E";
 }
 
-.game-icon-abstract-079:before {
+.game-icon-perspective-dice-six-faces-random:before {
 	content: "\ED0F";
 }
 
-.game-icon-abstract-080:before {
+.game-icon-perspective-dice-six-faces-six:before {
 	content: "\ED10";
 }
 
-.game-icon-abstract-081:before {
+.game-icon-perspective-dice-six-faces-three:before {
 	content: "\ED11";
 }
 
-.game-icon-abstract-082:before {
+.game-icon-perspective-dice-six-faces-two:before {
 	content: "\ED12";
 }
 
-.game-icon-abstract-083:before {
+.game-icon-perspective-dice-six:before {
 	content: "\ED13";
 }
 
-.game-icon-abstract-084:before {
+.game-icon-perspective-dice-three:before {
 	content: "\ED14";
 }
 
-.game-icon-abstract-085:before {
+.game-icon-perspective-dice-two:before {
 	content: "\ED15";
 }
 
-.game-icon-abstract-086:before {
+.game-icon-evil-eyes:before {
 	content: "\ED16";
 }
 
-.game-icon-abstract-087:before {
+.game-icon-sight-disabled:before {
 	content: "\ED17";
 }
 
-.game-icon-abstract-088:before {
+.game-icon-eyelashes:before {
 	content: "\ED18";
 }
 
-.game-icon-abstract-089:before {
+.game-icon-night-vision:before {
 	content: "\ED19";
 }
 
-.game-icon-abstract-090:before {
+.game-icon-brass-eye:before {
 	content: "\ED1A";
 }
 
-.game-icon-abstract-091:before {
+.game-icon-croissants-pupil:before {
 	content: "\ED1B";
 }
 
-.game-icon-abstract-092:before {
+.game-icon-falling-eye:before {
 	content: "\ED1C";
 }
 
-.game-icon-abstract-093:before {
+.game-icon-lightning-tear:before {
 	content: "\ED1D";
 }
 
-.game-icon-abstract-094:before {
+.game-icon-octogonal-eye:before {
 	content: "\ED1E";
 }
 
-.game-icon-abstract-095:before {
+.game-icon-semi-closed-eye:before {
 	content: "\ED1F";
 }
 
-.game-icon-abstract-096:before {
+.game-icon-sheikah-eye:before {
 	content: "\ED20";
 }
 
-.game-icon-abstract-097:before {
+.game-icon-six-eyes:before {
 	content: "\ED21";
 }
 
-.game-icon-abstract-098:before {
+.game-icon-sunken-eye:before {
 	content: "\ED22";
 }
 
-.game-icon-abstract-099:before {
+.game-icon-surrounded-eye:before {
 	content: "\ED23";
 }
 
-.game-icon-abstract-100:before {
+.game-icon-third-eye:before {
 	content: "\ED24";
 }
 
-.game-icon-abstract-101:before {
+.game-icon-fangs:before {
 	content: "\ED25";
 }
 
-.game-icon-abstract-102:before {
+.game-icon-bad-breath:before {
 	content: "\ED26";
 }
 
-.game-icon-abstract-103:before {
+.game-icon-lipstick:before {
 	content: "\ED27";
 }
 
-.game-icon-abstract-104:before {
+.game-icon-tongue:before {
 	content: "\ED28";
 }
 
-.game-icon-abstract-105:before {
+.game-icon-carnivore-mouth:before {
 	content: "\ED29";
 }
 
-.game-icon-abstract-106:before {
+.game-icon-energy-breath:before {
 	content: "\ED2A";
 }
 
-.game-icon-abstract-107:before {
+.game-icon-front-teeth:before {
 	content: "\ED2B";
 }
 
-.game-icon-abstract-108:before {
+.game-icon-incisors:before {
 	content: "\ED2C";
 }
 
-.game-icon-abstract-109:before {
+.game-icon-lips:before {
 	content: "\ED2D";
 }
 
-.game-icon-abstract-110:before {
+.game-icon-saber-tooth:before {
 	content: "\ED2E";
 }
 
-.game-icon-abstract-111:before {
+.game-icon-sharp-lips:before {
 	content: "\ED2F";
 }
 
-.game-icon-abstract-112:before {
+.game-icon-defense-satellite:before {
 	content: "\ED30";
 }
 
-.game-icon-abstract-113:before {
+.game-icon-ringed-planet:before {
 	content: "\ED31";
 }
 
-.game-icon-abstract-114:before {
+.game-icon-vortex:before {
 	content: "\ED32";
 }
 
-.game-icon-abstract-115:before {
+.game-icon-platform:before {
 	content: "\ED33";
 }
 
-.game-icon-abstract-116:before {
+.game-icon-i-brick:before {
 	content: "\ED34";
 }
 
-.game-icon-abstract-117:before {
+.game-icon-j-brick:before {
 	content: "\ED35";
 }
 
-.game-icon-abstract-118:before {
+.game-icon-l-brick:before {
 	content: "\ED36";
 }
 
-.game-icon-abstract-119:before {
+.game-icon-o-brick:before {
 	content: "\ED37";
 }
 
-.game-icon-abstract-120:before {
+.game-icon-s-brick:before {
 	content: "\ED38";
 }
 
-.game-icon-abstract-121:before {
+.game-icon-t-brick:before {
 	content: "\ED39";
 }
 
-.game-icon-bed:before {
+.game-icon-z-brick:before {
 	content: "\ED3A";
 }
 
-.game-icon-desk:before {
+.game-icon-pocket-watch:before {
 	content: "\ED3B";
 }
 
-.game-icon-director-chair:before {
+.game-icon-watch:before {
 	content: "\ED3C";
 }
 
-.game-icon-handheld-fan:before {
+.game-icon-empty-hourglass:before {
 	content: "\ED3D";
 }
 
-.game-icon-pillow:before {
+.game-icon-heavy-timer:before {
 	content: "\ED3E";
 }
 
-.game-icon-rocking-chair:before {
+.game-icon-sands-of-time:before {
 	content: "\ED3F";
 }
 
-.game-icon-shinto-shrine-mirror:before {
+.game-icon-bed:before {
 	content: "\ED40";
 }
 
-.game-icon-sofa:before {
+.game-icon-desk:before {
 	content: "\ED41";
 }
 
-.game-icon-curled-tentacle:before {
+.game-icon-director-chair:before {
 	content: "\ED42";
 }
 
-.game-icon-interlaced-tentacles:before {
+.game-icon-handheld-fan:before {
 	content: "\ED43";
 }
 
-.game-icon-spiral-tentacle:before {
+.game-icon-pillow:before {
 	content: "\ED44";
 }
 
-.game-icon-suckered-tentacle:before {
+.game-icon-rocking-chair:before {
 	content: "\ED45";
 }
 
-.game-icon-tentacle-strike:before {
+.game-icon-shinto-shrine-mirror:before {
 	content: "\ED46";
 }
 
-.game-icon-tentacurl:before {
+.game-icon-sofa:before {
 	content: "\ED47";
 }
 
-.game-icon-thorny-tentacle:before {
+.game-icon-curled-tentacle:before {
 	content: "\ED48";
 }
 
-.game-icon-thorny-vine:before {
+.game-icon-interlaced-tentacles:before {
 	content: "\ED49";
 }
 
-.game-icon-sharp-halberd:before {
+.game-icon-spiral-tentacle:before {
 	content: "\ED4A";
 }
 
-.game-icon-axe-swing:before {
+.game-icon-suckered-tentacle:before {
 	content: "\ED4B";
 }
 
-.game-icon-halberd:before {
+.game-icon-tentacle-strike:before {
 	content: "\ED4C";
 }
 
-.game-icon-hatchets:before {
+.game-icon-tentacurl:before {
 	content: "\ED4D";
 }
 
-.game-icon-battle-mech:before {
+.game-icon-thorny-tentacle:before {
 	content: "\ED4E";
 }
 
-.game-icon-factory-arm:before {
+.game-icon-thorny-vine:before {
 	content: "\ED4F";
 }
 
-.game-icon-mono-wheel-robot:before {
+.game-icon-sharp-halberd:before {
 	content: "\ED50";
 }
 
-.game-icon-robot-leg:before {
+.game-icon-axe-swing:before {
 	content: "\ED51";
 }
 
-.game-icon-spider-bot:before {
+.game-icon-halberd:before {
 	content: "\ED52";
 }
 
-.game-icon-megabot:before {
+.game-icon-hatchets:before {
 	content: "\ED53";
 }
 
-.game-icon-vintage-robot:before {
+.game-icon-battle-mech:before {
 	content: "\ED54";
+}
+
+.game-icon-factory-arm:before {
+	content: "\ED55";
+}
+
+.game-icon-mono-wheel-robot:before {
+	content: "\ED56";
+}
+
+.game-icon-robot-leg:before {
+	content: "\ED57";
+}
+
+.game-icon-spider-bot:before {
+	content: "\ED58";
+}
+
+.game-icon-megabot:before {
+	content: "\ED59";
+}
+
+.game-icon-vintage-robot:before {
+	content: "\ED5A";
 }
