@@ -22,7 +22,6 @@ const unzipOptions = {
 const fileCounts = {};
 
 const deployOpts = {};
-console.log('HERELLASDFAD', !!process.env.GH_TOKEN)
 if(process.env.GH_TOKEN) {
     deployOpts.remoteUrl = `https://${process.env.GH_TOKEN}@github.com/seiyria/gameicons-font.git`;
 }
