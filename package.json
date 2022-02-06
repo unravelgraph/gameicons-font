@@ -23,7 +23,7 @@
   "homepage": "https://github.com/seiyria/gameicons-font#readme",
   "devDependencies": {
     "gulp": "3.9.1",
-    "gulp-download": "0.0.1",
+    "gulp-download": "git+https://github.com/seiyria/gulp-download.git",
     "gulp-gh-pages": "0.5.4",
     "gulp-iconfont": "6.0.0",
     "gulp-iconfont-css": "2.0.0",
