@@ -25,9 +25,11 @@ const iconFont = async () => {
     types: ['woff', 'eot', 'ttf'],
     startCodepoint: 0xFF000,
     normalize: true
+  }, () => {
+    console.log('webfont generated');
+    fs.readdirSync('./dist').forEach(file => fs.copyFileSync(`./dist/${file}`, `./test/css/${file}`));
   });
 
-  fs.readdirSync('./dist').forEach(file => fs.copyFileSync(`./dist/${file}`, `./test/css/${file}`));
 };
 
 const extractZip = async () => {
@@ -68,6 +70,7 @@ const extractZip = async () => {
     });
 
   allFiles.on('finish', () => {
+    console.log('zip extracted');
     fs.writeFileSync('./test/data/glyphs.json', JSON.stringify(FILE_NAMES));
     iconFont();
   });
@@ -81,7 +84,10 @@ const init = async () => {
   const stream = fs.createWriteStream(`temp/icons.zip`);
   zip.body.pipe(stream);
 
-  zip.body.on('finish', extractZip);
+  zip.body.on('finish', () => {
+    console.log('file downloaded');
+    extractZip();
+  });
 };
 
 init();
