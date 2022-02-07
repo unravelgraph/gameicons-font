@@ -4,17 +4,14 @@
   "description": "An icon font distribution of the SVGs from http://game-icons.net",
   "scripts": {
     "dev": "lite-server --config .bs-config.js",
-    "build:font": "gulp build:font",
-    "deploy": "gulp deploy",
-    "fulldeploy": "npm run build:font && git add . && git commit -am \"Add new icons\" && git push && npm run deploy",
-    "fulldeploy:ci": "npm run build:font && git add . && git commit -am \"Add new icons\" && git push ci HEAD:master && npm run deploy"
+    "build:font:new": "node download-and-format-icons"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/seiyria/gameicons-font.git"
   },
   "engines": {
-    "node": "11.15.0"
+    "node": "16"
   },
   "author": "Kyle Kemp <kyle@seiyria.com>",
   "bugs": {
@@ -22,16 +19,9 @@
   },
   "homepage": "https://github.com/seiyria/gameicons-font#readme",
   "devDependencies": {
-    "gulp": "3.9.1",
-    "gulp-download": "0.0.1",
-    "gulp-gh-pages": "0.5.4",
-    "gulp-iconfont": "6.0.0",
-    "gulp-iconfont-css": "2.0.0",
-    "gulp-raster": "0.1.0",
-    "gulp-rename": "1.2.2",
-    "gulp-unzip": "0.1.3",
-    "lite-server": "2.1.0",
-    "minimatch": "3.0.2",
-    "natives": "^1.1.6"
+    "node-fetch": "^2.6.7",
+    "svg-png-converter": "^0.0.9",
+    "unzipper": "^0.10.11",
+    "webfonts-generator": "^0.4.0"
   }
 }
