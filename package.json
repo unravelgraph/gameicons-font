@@ -4,7 +4,7 @@
   "description": "An icon font distribution of the SVGs from http://game-icons.net",
   "scripts": {
     "dev": "lite-server --config .bs-config.js",
-    "build:font:new": "node download-and-format-icons"
+    "build:font": "node download-and-format-icons"
   },
   "repository": {
     "type": "git",
