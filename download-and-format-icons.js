@@ -1,5 +1,4 @@
 
-const https = require('https');
 const fs = require('fs');
 const path = require('path');
 
@@ -8,11 +7,7 @@ const extract = require('unzipper');
 const { svg2png } = require('svg-png-converter');
 const webfontsGenerator = require('webfonts-generator');
 
-const agent = new https.Agent({
-  rejectUnauthorized: false,
-});
-
-const BASE_URL = 'http://game-icons.net/archives/svg/zip/000000/transparent/game-icons.net.svg.zip';
+const BASE_URL = 'https://game-icons.net/archives/svg/zip/000000/transparent/game-icons.net.svg.zip';
 
 const FILE_COUNTS = {};
 const FILE_NAMES = [];
@@ -81,7 +76,7 @@ const extractZip = async () => {
 const init = async () => {
   if(!fs.existsSync('./temp')) fs.mkdirSync('./temp');
 
-  const zip = await fetch(BASE_URL, { agent });
+  const zip = await fetch(BASE_URL);
   
   const stream = fs.createWriteStream(`temp/${FILE_NAME}`);
   zip.body.pipe(stream);
