@@ -22,7 +22,7 @@ const iconFont = async () => {
       classPrefix: 'game-icon-',
       baseSelector: '.game-icon'
     },
-    types: ['woff', 'eot', 'ttf'],
+    types: ['woff2', 'woff', 'eot', 'ttf'],
     startCodepoint: 0xFF000,
     normalize: true
   });
