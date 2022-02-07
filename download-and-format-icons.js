@@ -23,7 +23,7 @@ const iconFont = async () => {
       baseSelector: '.game-icon'
     },
     types: ['woff', 'eot', 'ttf'],
-    startCodepoint: 0xFF000,
+    startCodepoint: 0xF000,
     normalize: true
   }, () => {
     console.log('webfont generated');
