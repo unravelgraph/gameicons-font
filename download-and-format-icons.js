@@ -78,7 +78,7 @@ const init = async () => {
 
   const zip = await fetch(BASE_URL);
   
-  const stream = fs.createWriteStream(`temp/${FILE_NAME}`);
+  const stream = fs.createWriteStream(`temp/icons.zip`);
   zip.body.pipe(stream);
 
   zip.body.on('finish', extractZip);
